@@ -1,3 +1,5 @@
+.codetasty/
+**/.DS_store/
 **/*.MOV
 **/*.mov
 **/*.PSD
@@ -53,3 +55,8 @@
 **/*.PPTX
 **/*.pptx
 **/*.AIR
+**/*.air
+**/*.zip
+**/*.rar
+**/*.7z
+**/*.tar
