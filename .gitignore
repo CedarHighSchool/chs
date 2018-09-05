@@ -1,5 +1,6 @@
 .codetasty/
-**/.DS_Store/
+.DS_Store/
+**/.DS_Store
 **/*.MOV
 **/*.mov
 **/*.PSD
