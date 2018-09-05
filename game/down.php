@@ -1,0 +1,1 @@
+<h1>Sorry, the Hunt is down for the moment! Please check back later.</h1>

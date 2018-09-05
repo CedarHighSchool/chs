@@ -1,0 +1,1 @@
+This is where we store quizzes and stuff you see when you click an egg. There's nothing to see without a specific page. =) Enjoy the Hunt!

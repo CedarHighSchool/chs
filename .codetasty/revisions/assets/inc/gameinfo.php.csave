@@ -1,0 +1,4 @@
+codetasty.revision.2.0
+{"ts":1524258000,"restoring":false,"user_id":7359,"patch":[{"diffs":[[1,"<?php\n$GAME_UP = false;\n$TYPING_UP = false;\n\nfunction tellme($ttl, $msgr) {\n\t$ttl = urlencode($ttl);\n\t$msgr = urlencode($msgr);\n\tfile_get_contents(\"https://hook.integromat.com/9b3v875pabxjp183t7noqeg7erv3o3qx?title=$ttl&message=$msgr\");\n}\n?>"]],"start1":0,"start2":0,"length1":0,"length2":241}],"length":241}
+{"ts":1525377387,"restoring":false,"user_id":7359,"patch":[{"diffs":[[0,"ME_UP = "],[-1,"fals"],[1,"tru"],[0,"e;\n$TYPI"]],"start1":9,"start2":9,"length1":20,"length2":19}],"length":240}
+{"ts":1525378328,"restoring":false,"user_id":7359,"patch":[{"diffs":[[0,"P = "],[-1,"tru"],[1,"fals"],[0,"e;\n$"]],"start1":13,"start2":13,"length1":11,"length2":12}],"length":241}

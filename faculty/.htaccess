@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ fac.php?slug=$1 [L,QSA]
+RewriteRule ^(.*)/index.php$ fac.php?slug=$1 [L,QSA]

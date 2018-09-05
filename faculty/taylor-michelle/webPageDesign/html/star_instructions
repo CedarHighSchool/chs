@@ -1,0 +1,542 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns:css="http://macVmlSchemaUri" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=Title content="">
+<meta name=Keywords content="">
+<meta http-equiv=Content-Type content="text/html; charset=macintosh">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 2008">
+<meta name=Originator content="Microsoft Word 2008">
+<link rel=File-List href="star_instructions%E2%80%A8_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Teacher ICSD</o:Author>
+  <o:Template>Normal.dotm</o:Template>
+  <o:LastAuthor>Teacher ICSD</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2010-02-12T19:55:00Z</o:Created>
+  <o:LastSaved>2010-02-12T19:55:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>295</o:Words>
+  <o:Characters>1683</o:Characters>
+  <o:Company>Iron Co. Schools</o:Company>
+  <o:Lines>14</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>2066</o:CharactersWithSpaces>
+  <o:Version>12.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>18 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>18 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:UseNormalStyleForList/>
+   <w:DontUseIndentAsNumberingTabStop/>
+   <w:DontGrowAutofit/>
+   <w:FELineBreak11/>
+   <w:WW11IndentRules/>
+   <w:DontAutofitConstrainedTables/>
+   <w:AutofitLikeWW11/>
+   <w:HangulWidthLikeWW11/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="276">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Courier New";
+	panose-1:2 7 3 9 2 2 5 2 4 4;
+	mso-font-charset:77;
+	mso-generic-font-family:modern;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Times;
+	panose-1:2 0 5 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 2 1 2 1 8 4 8 7 8;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 65536 0 -2147483648 0;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:Cambria;
+	mso-fareast-font-family:Cambria;
+	mso-hansi-font-family:Cambria;
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:Cambria;
+	mso-fareast-font-family:Cambria;
+	mso-hansi-font-family:Cambria;
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:Cambria;
+	mso-fareast-font-family:Cambria;
+	mso-hansi-font-family:Cambria;
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:Cambria;
+	mso-fareast-font-family:Cambria;
+	mso-hansi-font-family:Cambria;
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:Cambria;
+	mso-fareast-font-family:Cambria;
+	mso-hansi-font-family:Cambria;
+	mso-bidi-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in .5in 1.0in .5in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:1;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1 0 -1 -1 -1 -1 -1 -1 -1 -1;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:"%6\.";
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level2
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level3
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level4
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level5
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level6
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level7
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level8
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level9
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l1
+	{mso-list-id:2;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2 0 -1 -1 -1 -1 -1 -1 -1 -1;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:"%6\.";
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:0in;
+	text-indent:0in;}
+@list l1:level2
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l1:level3
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l1:level4
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l1:level5
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l1:level6
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l1:level7
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l1:level8
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l1:level9
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l2
+	{mso-list-id:1777671391;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1334811500 -1827494192 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06F;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:Cambria;
+	mso-hansi-font-family:Cambria;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='margin-bottom:.25in;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b><span style='font-size:19.0pt;font-family:Times;
+mso-bidi-font-family:Times'>WEB PAGES with HTML&#8232;<br>
+LESSON 1: Web Page - Composing<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-bottom:16.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b><span style='font-size:16.0pt;font-family:Times;
+mso-bidi-font-family:Times'>In this lesson you will:</span></b><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;mso-text-indent-alt:
+-.5in;mso-pagination:none;mso-list:l0 level1 lfo1;tab-stops:11.0pt .5in;
+mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
+style='font-size:16.0pt;font-family:Times;mso-fareast-font-family:Times;
+mso-bidi-font-family:Times'><span style='mso-list:Ignore'><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Download
+text from a word processing file<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;mso-text-indent-alt:
+-.5in;mso-pagination:none;mso-list:l0 level1 lfo1;tab-stops:11.0pt .5in;
+mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
+style='font-size:16.0pt;font-family:Times;mso-fareast-font-family:Times;
+mso-bidi-font-family:Times'><span style='mso-list:Ignore'><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Add
+background and text color<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;mso-text-indent-alt:
+-.5in;mso-pagination:none;mso-list:l0 level1 lfo1;tab-stops:11.0pt .5in;
+mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
+style='font-size:16.0pt;font-family:Times;mso-fareast-font-family:Times;
+mso-bidi-font-family:Times'><span style='mso-list:Ignore'><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Change
+font types and sizes as well as text alignment<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:16.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b><span style='font-size:16.0pt;font-family:Times;
+mso-bidi-font-family:Times'><br>
+Directions:</span></b><span style='font-size:16.0pt;font-family:Times;
+mso-bidi-font-family:Times'><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpFirst style='margin-bottom:0in;margin-bottom:.0001pt;
+mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:l2 level1 lfo3;
+tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
+style='font-size:16.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
+mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>o<span
+style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Using
+Notepad, insert all your basic tags. (<span style='color:#9339FE'>It might be
+helpful at this time to set up a &#8232;template file that contains all your
+basic HTML tags so that you can just open it&#8232; each time you begin a new
+job</span>.)<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:
+l2 level1 lfo3;tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:
+none'><![if !supportLists]><span style='font-size:16.0pt;font-family:Wingdings;
+mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Insert
+the following between the title tags: <i>Star Spangled Banner</i><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:
+l2 level1 lfo3;tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:
+none'><![if !supportLists]><span style='font-size:16.0pt;font-family:Wingdings;
+mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Go to the
+S drive, Web Design, and open the Word file - &#8232;<b><i>The Star</i></b>.
+Copy the words to the Star Spangled Banner into the body of your &#8232;notepad
+file.<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:
+l2 level1 lfo3;tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:
+none'><![if !supportLists]><span style='font-size:16.0pt;font-family:Wingdings;
+mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>The body
+background color of your page will be BLUE. <br>
+The title will be RED and&#8232; a size 1 heading. <br>
+The author of the song will be a size 3 heading and RED. <br>
+To change&#8232; your font to a red color, use the following tag:
+&#8232;&lt;font color=red&gt;<b><span style='color:#25CA67'>heading goes here</span></b>&lt;/font&gt;<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:
+l2 level1 lfo3;tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:
+none'><![if !supportLists]><span style='font-size:16.0pt;font-family:Wingdings;
+mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Insert a
+horizontal rule that is a size 3 and a width of 50%.<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:
+l2 level1 lfo3;tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:
+none'><![if !supportLists]><span style='font-size:16.0pt;font-family:Wingdings;
+mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>For the
+words of the song, use the Arial font that is size 3 and color WHITE<span
+class=GramE>.&#8232;</span> For example: &lt;font face=&quot;Arial&quot; size=3
+and color=&quot;white&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:
+l2 level1 lfo3;tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:
+none'><![if !supportLists]><span style='font-size:16.0pt;font-family:Wingdings;
+mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Format
+the words to the song by dividing them into paragraphs or &quot;stanzas&quot;.
+There should be &#8232;2 lines of text in each paragraph. <br>
+<span class=GramE>Single space</span> the words to the song by putting a
+paragraph &#8232;break &lt;p&gt; after the following words: <b><i>gleaming,
+streaming, there, </i></b>and<b><i> brave. </i></b>You will also &#8232;insert
+a &lt;br&gt; tag at the end of the first line of each paragraph or stanza. . A
+&lt;<span class=SpellE>br</span>&gt; tag will enter &#8232;a new return, but
+will not give you a blank line. <o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:
+l2 level1 lfo3;tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:
+none'><![if !supportLists]><span style='font-size:16.0pt;font-family:Wingdings;
+mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Add
+another horizontal rule the same size as before.<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:
+l2 level1 lfo3;tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:
+none'><![if !supportLists]><span style='font-size:16.0pt;font-family:Wingdings;
+mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Change
+the font to &quot;garamond&quot;, size 2 and color black. Type: <i>Page created
+<span class=SpellE>by&#8232;Student</span> Name.</i><o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:
+l2 level1 lfo3;tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:
+none'><![if !supportLists]><span style='font-size:16.0pt;font-family:Wingdings;
+mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>The
+entire page should be centered aligned except the &quot;Page created....&quot;
+line <span class=SpellE>which&#8232;will</span> be right aligned. To right
+align this paragraph, insert a &lt;p align=right&gt; tag before the
+&#8232;text. <o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpLast style='margin-bottom:0in;margin-bottom:.0001pt;
+mso-add-space:auto;text-indent:-.25in;mso-pagination:none;mso-list:l2 level1 lfo3;
+tab-stops:11.0pt .5in;mso-layout-grid-align:none;text-autospace:none'><![if !supportLists]><span
+style='font-size:16.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
+mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>o<span
+style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
+style='font-size:16.0pt;font-family:Times;mso-bidi-font-family:Times'>Save the
+file as <b>star.htm</b> and view it in the Browser.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;font-family:Times;
+mso-bidi-font-family:Times;color:#FA1305'>Have your Instructor check this
+assignment off of your screen. You do not <span class=SpellE>need&#8232;to</span>
+print as the white text won't print on white paper.</span></b></p>
+
+</div>
+
+</body>
+
+</html>

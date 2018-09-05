@@ -1,0 +1,168 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	background-color: #305579;
+	padding: 0px;
+	width: 780px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-image: url(images/trees_bkg.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: left top;
+}
+h1  {
+	font-size: 1.5em;
+	color: #00306A;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+h2  {
+	font-size: 2.5em;
+	clear: both;
+	font-weight: normal;
+	color: #00306A;
+}h3 {
+	font-size: 1em;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+img {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+#outer {
+	background-color: #FFFFFF;
+	float: left;
+	padding: 0px;
+	width: 780px;
+	margin-top: 60px;
+	margin-bottom: 0px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: small;
+	margin-right: auto;
+	margin-left: auto;
+
+
+
+	background-image: ;
+	background-image: url(images/academy_bkg.jpg);
+	background-position: right bottom;
+}
+#header {
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #00306A;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+#navbar {
+	width: 150px;
+	float: left;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+#navbar ul#navlinks {
+	margin: 0px;
+	list-style-type: none;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#navbar ul#navlinks li  {
+	padding: 0px;
+	display: block;
+	vertical-align: middle;
+}
+#navbar ul#navlinks a  {
+	display: block;
+	padding-bottom: 5px;
+	padding-top: 25px;
+	line-height: 5px;
+	height: 25px;
+	padding-left: 40px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #000;
+	margin-left: 5px;
+	background-image: url(images/eye_open.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+#navbar ul#navlinks a:hover {
+	background-image: url(images/eye_closed.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+#content {
+	margin: 0px;
+	float: left;
+	width: 620px;
+	color: #000;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+#content p  {
+	color: #000000;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-right: 10px;
+}
+#content a  {
+	color: #690215;
+	text-decoration: none;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #690215;
+}
+#content a:hover {
+	color: #CB9245;
+	border-bottom-color: #CB9245;
+}
+#footer {
+	margin: 0px;
+	clear: both;
+	width: 780px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-size: 0.85em;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #002F6A;
+	text-align: center;
+}
+#footer p  {
+	margin-top: 0px;
+	margin-bottom: 5px;
+	font-size: 0.8em;
+	color: #666;
+}
+#footer a  {
+	color: #666;
+}
+#footer a:hover {
+	text-decoration: none;
+}
+.centered {
+	text-align: center;
+}

@@ -1,0 +1,391 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "11/14/2012">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_5699.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5699.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5700.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5700.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5701.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5701.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5702.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5702.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5703.jpg"
+width = "233"
+height = "350"
+thumbpath = "IMG_5703.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_5704.jpg"
+width = "233"
+height = "350"
+thumbpath = "IMG_5704.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_5705.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5705.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5706.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5706.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5707.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5707.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5708.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5708.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5709.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5709.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5710.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5710.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5711.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5711.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5712.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5712.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5713.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5713.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5715.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5715.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5716.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5716.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5717.jpg"
+width = "233"
+height = "350"
+thumbpath = "IMG_5717.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_5718.jpg"
+width = "233"
+height = "350"
+thumbpath = "IMG_5718.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_5719.jpg"
+width = "233"
+height = "350"
+thumbpath = "IMG_5719.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_5720.jpg"
+width = "233"
+height = "350"
+thumbpath = "IMG_5720.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_5721.jpg"
+width = "233"
+height = "350"
+thumbpath = "IMG_5721.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_5722.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5722.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5723.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5723.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5724.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5724.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5725.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5725.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5726.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5726.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5727.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5727.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5728.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5728.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5730.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5730.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5731.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5731.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5732.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5732.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5733.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5733.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5734.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5734.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5736.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5736.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5737.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5737.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_5738.jpg"
+width = "350"
+height = "233"
+thumbpath = "IMG_5738.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,72 @@
+@charset "utf-8";
+.list_headings {
+	font-family: Gotham, "Helvetica Neue", Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #003;
+}
+h1 {
+	font-family: Gotham, "Helvetica Neue", Arial;
+	font-size: 24px;
+	font-weight: bold;
+}
+h2 {
+	font-family: Gotham, "Helvetica Neue", Arial;
+	font-size: 18px;
+	font-weight: bold;
+}
+h3 {
+	font-family: Gotham, "Helvetica Neue", Arial;
+	font-size: 16px;
+	font-weight: bold;
+}
+.body_text {
+	font-family: Gotham, "Helvetica Neue", Arial;
+	color: #000000;
+	font-size: large;
+}
+.small_text {	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav_bar {	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-color: #FFF3E3;
+}
+body {
+
+}
+
+.img_left_float {
+	float: left;
+	border: thin solid #666666;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+
+}
+.img_float_right {
+	float: right;
+	margin-left: 10px;
+	border: thin solid #666666;
+	margin-right: 0px;
+}
+img {
+	vertical-align: bottom;
+}
+#navbar ul {
+	list-style-type: none;
+	text-decoration: none;
+	width: 20%;
+	display: block;
+}
+#navbar a {
+	text-decoration: none;
+}
+table {
+	float: left;
+	width: 600px;
+}

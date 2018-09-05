@@ -1,0 +1,36 @@
+<html>
+
+<head>
+<title> About me </title>
+</head>
+<body>
+
+<hn>
+	<h1> My name is  April Warby </h1>
+	<h2> My husband's name is Rich </h2>
+	<h3> I have 4 children </h3>
+	<h4> I have 2 cats </h4>
+	<h5> Something I like to do is read </h5>
+	<h6> I also like to be outdoors </h6>
+
+</hn>
+
+Below are 4 things about me
+<p>Things about me</p>
+We are trying to see the difference between spacing <br />
+What happens now?
+
+
+<ul>
+	<li> I like to exercise </li>
+	<li> I speak some Albanian </li>
+	<li> I think math is fun! </li>
+	<li> I want to begin my Masters Degree in 2 years </li>
+
+</ul>
+
+
+</body>
+
+
+</html>

@@ -1,0 +1,3 @@
+This is a Microsoft Word Document.  I am going to save this document in a way that will require the reader to have Microsoft Word in order to read it.  
+
+This is a Microsoft Word Document.  I am going to save this document in a way that will NOT require the reader to have Microsoft Word.  The document will open up as if it was a web page.  Notice how this document loses its formatting.

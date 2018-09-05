@@ -1,0 +1,138 @@
+/* CSS Document */
+@charset "utf-8";
+body {
+	font-family: Gotham, "Helvetica Neue", Arial;
+	font-size: 12pt;
+	line-height: 19px;
+	color: #666666;
+	background-image: url(images/back_yosemite.png);
+	background-repeat: repeat-y;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-color: #122A10;
+}
+#header {
+	width: 700px;
+	margin-left: 200px;
+}
+#topNav {
+	float: right;
+	width: 110px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#image {
+	width: 700px;
+	height: 280px;
+	margin-left: 200px;
+	border-top-style: solid;
+	border-top-width: 3px;
+	border-top-color: #2C604A;
+	/* [disabled]border-right-color: hsla(0,0%,100%,1.00); */
+	/* [disabled]border-left-color: #2C604A; */
+	border-bottom: 3px solid #2C604A;
+}
+#pageContent {
+	width: 700px;
+	margin-left: 200px;
+}
+#maintext {
+	float: left;
+	width: 450px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#sidebarNav {
+	background-image: url(images/back_sidebar.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	float: right;
+	height: 365px;
+	width: 190px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+#footer {
+	width: 700px;
+	margin-left: 200px;
+	float: left;
+}h1 {
+	color: #B15D34;
+	font-size: 22pt;
+	font-weight: bold;
+	margin-top: 10px;
+}
+h2 {
+	font-size: 16pt;
+	font-style: italic;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+p {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+a {
+	color: #BD5F2C;
+}
+h3 {
+	font-weight: bold;
+	font-size: 13pt;
+	margin-top: 10px;
+}
+ul {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+li {
+	margin-bottom: 5px;
+}
+table {
+	width: 450px;
+}
+th {
+	font-weight: bold;
+	text-align: left;
+	border-bottom: 1px solid #B85A29;
+}
+td {
+	border-bottom: 1px solid #B85A29;
+}
+#topNav a {
+	font-weight: bold;
+}
+#header image {
+	border-width: 0px;
+	margin-top: 55px;
+}
+#sidebarNav a {
+	font-size: 13px;
+	font-weight: bold;
+	color: #122A10;
+}
+#sidebarNav p {
+	margin-bottom: 12px;
+	text-align: center;
+}
+#footer p {
+	background-color: #999999;
+	text-align: center;
+}
+#sidebarNav a:hover {
+	color: #517C60;
+}
+a:hover {
+	color: #F09861;
+}

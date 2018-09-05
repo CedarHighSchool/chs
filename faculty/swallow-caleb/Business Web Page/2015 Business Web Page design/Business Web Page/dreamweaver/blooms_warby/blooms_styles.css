@@ -1,0 +1,43 @@
+@charset "utf-8";
+.bullet_term {
+	font-family: Gotham, "Helvetica Neue", Arial;
+	font-size: 16px;
+	font-weight: bold;
+	color: #333333;
+}
+.intro_text {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #333333;
+}
+h1 {
+	font-family: Arial, Harrington, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.body_text {
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.small_text {	font-size: small;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav_bar {	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+}
+
+body {
+	background-color: #FFFFFF;
+}
+.img_left_float {
+	float: left;
+	margin-right: 10px;
+	border: thin solid #333333;
+}
+.img_right_float {
+	float: right;
+	margin-left: 10px;
+	border: thin solid #333333;
+}

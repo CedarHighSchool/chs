@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Sassy Cupcakes Gourmet Bakery</title>
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+
+<div id="header">
+  <img src="../images/sassy-logo.png" width="301" height="171" alt="Sassy Cupcakes Gourmet Bakery" />
+</div>
+<div id="container">
+  <div id="left_column">INSERT NAV HERE</div>
+<div id="right_column"><!-- TemplateBeginEditable name="Page Content" -->PageContent<!-- TemplateEndEditable --></div>
+  <div id="footer">
+    Copyright ©  <a href="../index.html">Sassy Cupcakes Gourmet Bakery</a></div>
+</div>
+</body>
+</html>
