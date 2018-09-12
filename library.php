@@ -189,9 +189,8 @@
 										<h5>Schedules</h5>
 										<ul class="nav nav-list">
 											<li><a href="https://ticket.sedck12.org/location/icsd" target="_blank">CHS Trouble Ticket</a></li>
-											<li><a href="https://docs.google.com/spreadsheets/d/1RSL3M9Ni6jcsH3VQHIBpnU-5u3bPzaj02ITrdFiIcgc/edit#gid=0" target="_blank">Library/Zion Lab/Lecture Hall Schedule 2017-18</a></li>
 											<li><a href="https://docs.google.com/spreadsheets/d/1tH-QUT25pncvXFYT4vulL09i0XfcprEKf-_m018sZcY/edit#gid=0" target="_blank">Library/Zion Lab/Lecture Hall Schedule 2018-19</a></li>
-											<li><a href="https://docs.google.com/spreadsheets/d/183yqqSRmPuKNiKpPCJROFVCj0lARAOe1Dyn_eTqMoHw/edit#gid=0" target="_blank">iPad and Chromebooks Schedule</a></li>
+											<li><a href="https://docs.google.com/spreadsheets/d/1GjecXi8A52QmCPczT2YjFIg_Wri6qgCbCPfx_5qageE/edit#gid=0" target="_blank">Chromebooks Schedule</a></li>
 
 
 										</ul>
