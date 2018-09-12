@@ -119,9 +119,7 @@
 							<li class="active"><a href="./">Home</a></li>
    <li><a href="http://cedarhighvolleyball.blogspot.com/" target="_blank">Volleyball Blog</a></li>
 		    </li>
-
 							<li><a href="https://docs.google.com/document/d/1T_swHCdFQWJxd70yP-Y9bsnvlGrWhrkzA8ek9zgGv60/edit?usp=sharing">Schedule</a></li>
-
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1anC8G5KKhnnyOGf9-Q57wSJMxFGjRmfsrf_LTWw1uBY/edit">Varsity Roster</a></li>
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1yUuOT4bC20vU7DRDoVJRLvEXhA7gilsHBI7proWHn-8/edit">JV Roster</a></li>
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1ZvH55VeX0j-GC0ojpnM9jyAja3Denck_wMGRXbZLtk8/edit">Sophomore Roster</a></li>
@@ -129,7 +127,6 @@
 						  <li><a href="http://www.uhsaa.org/volleyball/">UHSAA Volleyball</a></li>
 							<!--only sent one link for all volleyball-->
 							<li><a href="gallery.php">Pictures</a></li>		
-
 				 		</ul>
 
 				 	</div>
