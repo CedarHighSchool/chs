@@ -57,14 +57,11 @@
                                         <!--end of item-->
 
                                         <div class="item">
-										    <img src="Sponsers/Wilson & Whetten Orthodontics.jpg" alt="">
+										    <img src="Sponsers/rallystop.png" alt="">
                                         </div>
                                         <!--end of item-->
 
-                                        <div class="item">
-										    <img src="Sponsers/DougandCorryDental.jpg" alt="">
-                                        </div>
-                                        <!--end of item-->
+                                  
 
                                       
 
@@ -88,23 +85,7 @@
 
                     </h3>
 
-                                            <dl><dt>Doug W. Corry DMD</dt>
-                                                <dd>
-
-                                                    <ul>
-                                                        <li><a href="http://www.corryandlewisdental.com/" target="_blank">http://www.corryandlewisdental.com/</a>
-                                                    </ul>
-                                                </dd>
-                                            </dl>
-
-                                            <dl>
-                                                <dt>Wilson & Whetten Orthodontics</dt>
-                                                <dd>
-                                                    <ul>
-                                                        <li><a href="http://www.wwbraces.com/" target="_blank">http://www.wwbraces.com/></a></li>
-                                                    </ul>
-                                                </dd>
-                                            </dl>
+                                           
                                             <dl>
                                                 <dt>Citywide Home Loans - Cedar City</dt>
                                                 <dd>
@@ -127,6 +108,15 @@
                                                 <dd>
                                                     <ul>
                                                         <li><a href="http://www.kboil.net/" target="_blank">http://www.kboil.net/</a></li>
+                                                    </ul>
+                                                </dd>
+                                            </dl>
+                                            
+                                             <dl>
+                                                <dt>RallyStop</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.rallystopcstores.com/Rally-truckstop.htm" target="_blank">http://www.rallystopcstores.com/Rally-truckstop.htm</a></li>
                                                     </ul>
                                                 </dd>
                                             </dl>
@@ -156,14 +146,6 @@
                                             </dl>
 
                                             <dl>
-                                                <dt>Retro Fitness</dt>
-                                                <dd>
-                                                    <ul>
-                                                        <li><a href="http://retrofitness.com/location/cedarcityut/" target="_blank">http://retrofitness.com/location/cedarcityut/></a></li>
-                                                    </ul>
-                                                </dd>
-                                            </dl>
-                                            <dl>
                                                 <dt>Color Country Pediatrics</dt>
                                                 <dd>
                                                     <ul>
@@ -171,28 +153,21 @@
                                                     </ul>
                                                 </dd>
                                             </dl>
+                                            
                                             <dl>
-                                                <dt>ERA Realty Center</dt>
+                                                <dt>Corry Dental</dt>
                                                 <dd>
                                                     <ul>
-
-                                                        <li><a href="http://cedarcityera.com/" target="_blank">http://cedarcityera.com/</a></li>
+                                                        <li><a href="https://www.corryandlewisdental.com/" target="_blank">https://www.corryandlewisdental.com/</a></li>
                                                     </ul>
                                                 </dd>
                                             </dl>
+                                            
                                             <dl>
-                                                <dt>Castle & Cooke Mortgage LLC - Jason Griffin</dt>
+                                                <dt>Wilson & Whetten Orthodontics</dt>
                                                 <dd>
                                                     <ul>
-                                                        <li><a href="https://jgriffin.castlecookemortgage.com/" target="_blank">https://jgriffin.castlecookemortgage.com/</a>
-                                                            <br>
-                                                            <br>
-                                                    </ul>
-                                                </dd>
-                                                <dt>CARL'S JR.</dt>
-                                                <dd>
-                                                    <ul>
-                                                        <li><a href="https://www.facebook.com/CarlsJrUtah/?fref=nf" target="_blank">https://www.facebook.com/CarlsJrUtah/?fref=nf</a>
+                                                        <li><a href="http://www.wwbraces.com/" target="_blank">http://www.wwbraces.com/</a></li>
                                                     </ul>
                                                 </dd>
                                             </dl>
@@ -218,27 +193,6 @@
                                                     </ul>
                                                 </dd>
 
-                                                <dt>Gilbert Development</dt>
-                                                <dd>
-                                                    <ul>
-                                                        <li><a href="http://www.gilbertdevelopment.com/" target="_blank">http://www.gilbertdevelopment.com/</a>
-                                                    </ul>
-                                                </dd>
-
-                                                <dt>Hinton Burdick</dt>
-                                                <dd>
-                                                    <ul>
-                                                        <li><a href="http://www.hintonburdick.com/" target="_blank">http://www.hintonburdick.com/</a>
-                                                    </ul>
-                                                </dd>
-
-                                                <dl><dt>Farm Bureau Financial Services - Cy Robins</dt>
-                                                    <dd>
-                                                        <ul>
-                                                            <li><a href="https://36616.fbfsagents.com/" target="_blank">https://36616.fbfsagents.com/</a>
-                                                        </ul>
-                                                    </dd>
-                                                </dl>
                                                 <dl><dt>Southern Utah Physical Therapy & Rehab</dt>
                                                     <dd>
                                                         <ul>
@@ -246,21 +200,7 @@
                                                         </ul>
                                                     </dd>
                                                 </dl>
-                                                <dl><dt>Bulloch Drug Store</dt>
-                                                    <dd>
-                                                        <ul>
-                                                            <li><a href="http://www.bullochdrug.com/" target="_blank">http://www.bullochdrug.com/</a>
-                                                        </ul>
-                                                    </dd>
-                                                </dl>
-                                                <dl>
-                                                    <dt>5 Buck Pizza</dt>
-                                                    <dd>
-                                                        <ul>
-                                                            <li><a href="http://5buckpizza.com/" target="_blank">http://5buckpizza.com/</a>
-                                                        </ul>
-                                                    </dd>
-                                                </dl>
+
                                                 <dl><dt>Southwest Tech</dt>
                                                     <dd>
                                                         <ul>
@@ -268,38 +208,7 @@
                                                         </ul>
                                                     </dd>
                                                 </dl>
-                                                <dl>
-                                                    <dt>Ken Garff St. George Ford</dt>
-                                                    <dd>
-                                                        <ul>
-                                                            <li><a href="http://www.stgeorgeford.com/" target="_blank">http://www.stgeorgeford.com/</a>
-                                                        </ul>
-                                                    </dd>
-                                                </dl>
-                                                <dl>
-                                                    <dt>Watson Engineering</dt>
-                                                    <dd>
-                                                        <ul>
-                                                            <li><a href="http://www.wecinc.com/" target="_blank">http://www.wecinc.com/</a>
-                                                        </ul>
-                                                    </dd>
-                                                </dl>
-                                                <dl>
-                                                    <dt>Premier Pediatrics & Teens</dt>
-                                                    <dd>
-                                                        <ul>
-                                                            <li><a href="https://premierpediatrics.net/" target="_blank">https://premierpediatrics.net/</a>
-                                                        </ul>
-                                                    </dd>
-                                                </dl>
-                                                <dl>
-                                                    <dt>RallyStop - Jenkins Oil</dt>
-                                                    <dd>
-                                                        <ul>
-                                                            <li><a href="http://rallystopcstores.com/" target="_blank">http://rallystopcstores.com/</a>
-                                                        </ul>
-                                                    </dd>
-                                                </dl>
+                                          
                                                 <dl>
                                                     <dt>All About Smiles Dentistry</dt>
                                                     <dd>
@@ -308,32 +217,7 @@
                                                         </ul>
                                                     </dd>
                                                 </dl>
-                                                <dl>
-                                                    <dt>Desert Pain Specialists</dt>
-                                                    <dd>
-                                                        <ul>
-                                                            <li><a href="http://www.desertpainspecialists.com/" target="_blank">http://www.desertpainspecialists.com/</a>
-
-                                                        </ul>
-                                                    </dd>
-                                                </dl>
-                                                <dl>
-                                                    <dt>Imaging Concepts</dt>
-                                                    <dd>
-                                                        <ul>
-                                                            <li><a href="http://www.imagingutah.com/" target="_blank">http://www.imagingutah.com/</a>
-                                                        </ul>
-                                                    </dd>
-                                                </dl>
-                                                <dl>
-
-                                                    <dt>Coca-Cola of Southern Utah</dt>
-                                                    <dd>
-                                                        <ul>
-                                                            <li><a href="http://www.coca-colacompany.com/" target="_blank">http://www.coca-colacompany.com/</a>
-                                                        </ul>
-                                                    </dd>
-                                                </dl>
+                    
                                                 <dl>
                                                     <dt>Phillips Builders, LLC</dt>
                                                     
