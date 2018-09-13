@@ -66,9 +66,10 @@
                  <a href="Approved Minutes 11-7-17.pdf">Minutes approved 11-07-17</a> <br> 
                  <a href="Minutes(draft)1-9-18.pdf">Minutes (Draft) 1-09-18</a> <br>
                   <a href="ApprovedMinutes1-9-18.pdf">Minutes approved 1-09-18</a> <br>
-                  <a href="Minutes (draft) 3-6-18.pdf">Minutes 3-06-18 (draft)</a> <br>
+                  <a href="Minutes (draft) 3-6-18.pdf">Minutes (Draft) 3-06-18 </a> <br>
                   <a href="ApprovedMinutes 3-6-18.pdf">Minutes Approved 3-06-18</a> <br>
-                  <a href="Minutes (draft) 3-28-18.pdf">Minutes 3-28-18 (draft)</a> <br>
+                  <a href="Minutes (draft) 3-28-18.pdf">Minutes (Draft) 3-28-18 </a> <br>
+                  <a href="ApprovedMinutes 3-28-18.pdf">Minutes Approved 3-28-18 </a> <br>
                 <br>   
 
     <!--<p<a href=""> Minutes (Draft) 1-17-17</a> <br>-->
