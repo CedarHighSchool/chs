@@ -199,7 +199,7 @@
                   
 			  <div class="well">
 
-		          				<h3>Mrs. Slaugh Window Hours</h3>
+		          				<h3>Mrs.Stubbs Window Hours</h3>
 		          				<p><a href="https://secureinstantpayments.com/sip/cart/event.php?EID=999"target="_blank">Online Payment</a> </p>
 		          				<p>Tuesday<strong>-</strong>Friday 7:30am to 8:00am<br>
 		          				  Monday-Friday 11:00am to 12:30pm<br>
