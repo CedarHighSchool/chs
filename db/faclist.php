@@ -14,6 +14,14 @@
 				.imglabel {
 					font-size: 12px;
 				}
+				.rel{
+					position: relative;
+				}
+				.absTR{
+					position: absolute;
+					top: 0;
+					right: 0;
+				}
 				
 				@media (min-width: 768px) and (max-width: 979px) {
 					.imglabel {
@@ -59,9 +67,10 @@
 			<div class="container">
 				<div class="row">
 					<?php include "../assets/inc/navlist.php" ?>
-						<div class="span8">
+						<div class="span8 rel">
 							<div class="well">
 								<h3>Faculty</h3>
+								<?php if($cuser['edit'] == 1 || $editor == true){ ?><a href="/db/newfac.php" class="btn btn-default pull-right absTR">Add</a><?php } ?>
 								<nav aria-label="Letters" id="newletters">
 									<ul class="pagination">
 										<?php
