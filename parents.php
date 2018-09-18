@@ -90,7 +90,7 @@
 
 	   					<div class="span8">	
  <div class="well"> <h3><span class="style9">Join PFCC</span></h3>
-  <p> Hi, parents and teachers of our great students at CHS! We are the PFCC (Parent Faculty Community Club). We are here to assist the faulty and staff with whatever they need to make the students' experience at CHS better. It is $6 to join PFCC. You are welcome to pay that directly to Mrs. Slaugh at the office or online through our website. You are not obligated to be a volunteer, but you are welcome to join us in various school activities if your schedule allows. Also, we are a bonus! Our funds are used entirely to benefit our kids and the clubs and organizations that they join. Dig in your pockets and see if you have $6 per parent or teacher to help make this year a great one! <p>Thanks so much, <p>Sidney Nakken (PFCC President)<p>To pay your fee online <a href="https://secureinstantpayments.com/sip/cart/event.php?EID=999"target="_blank">click here</a></p></p></div><div class="well">
+  <p> Hi, parents and teachers of our great students at CHS! We are the PFCC (Parent Faculty Community Club). We are here to assist the faulty and staff with whatever they need to make the students' experience at CHS better. It is $6 to join PFCC. You are welcome to pay that directly to Mrs. Stubbs at the office or online through our website. You are not obligated to be a volunteer, but you are welcome to join us in various school activities if your schedule allows. Also, we are a bonus! Our funds are used entirely to benefit our kids and the clubs and organizations that they join. Dig in your pockets and see if you have $6 per parent or teacher to help make this year a great one! <p>Thanks so much, <p>Sidney Nakken (PFCC President)<p>To pay your fee online <a href="https://secureinstantpayments.com/sip/cart/event.php?EID=999"target="_blank">click here</a></p></p></div><div class="well">
 
 			<h3>Online Fee Payment with Instant Payment</h3>
 		          				<p><a href="https://secureinstantpayments.com/sip/cart/event.php?EID=999">Pay Student Fees</a><br>
@@ -117,36 +117,36 @@
    				                </thead>
        				              <tbody>
        				                                                    <tr>
-                                      <td>Jun 11, 2019</td>
-                                      <td>Aug 4, 2017</td>
-                                      <td>Aug 5-18, 2017</td>
+                                      <td>Sept 8, 2018</td>
+                                      <td>Aug 10, 2018</td>
+                                      <td>Aug 11-26, 2018</td>
                                     </tr>
                                       <tr>
-                                      <td>Oct 28, 2017</td>
-                                      <td>Sep 22, 2017</td>
-                                      <td>Sep 23-Oct 6, 2017</td>
+                                      <td>Oct 27, 2018</td>
+                                      <td>Sep 28, 2018</td>
+                                      <td>Sep 29-Oct 14, 2018</td>
                                       </tr><tr>
-                                      <td>Dec 9, 2017</td>
-                                      <td>Nov 3, 2016</td>
-                                      <td>Nov 4-18, 2017</td>
+                                      <td>Dec 8, 2018</td>
+                                      <td>Nov 2, 2018</td>
+                                      <td>Nov 3-19, 2018</td>
                                       </tr><tr>
-                                      <td>Feb 10, 2018</td>
-                                      <td>Jan 12, 2018</td>
-                                      <td>Jan 13-19, 2018</td>
+                                      <td>Feb 9, 2019</td>
+                                      <td>Jan 11, 2019</td>
+                                      <td>Jan 12-18, 2019</td>
                                       </tr><tr>
-                                      <td>Apr 14, 2018</td>
-                                      <td>Mar 8, 2018</td>
-                                      <td>Mar 10-23, 2018</td>
+                                      <td>Apr 13, 2019</td>
+                                      <td>Mar 8, 2019</td>
+                                      <td>Mar 9-25, 2019</td>
                                       </tr>
                                       <tr>
-                                        <td>Jun 9, 2018</td>
-                                        <td>Mar 4, 2018</td>
-                                        <td>May 5-18, 2018</td>
+                                        <td>Jun 8, 2019</td>
+                                        <td>Mar 3, 2019</td>
+                                        <td>May 4-20, 2019</td>
                                       </tr>
                                       <tr>
-                                      <td>Jul 14, 2018</td>
-                                      <td>Jun 15, 2018</td>
-                                      <td>Jun 16-22, 2018</td>
+                                      <td>Jul 13, 2019</td>
+                                      <td>Jun 14, 2019</td>
+                                      <td>Jun 15-24, 2019</td>
                                       </tr>
    				                </tbody>
    				              </table><br>
@@ -188,9 +188,9 @@
 
                           <div class="well">
    				            
-			                <h3>Dates to Remember 2016-17                             </h3>
-			                <p>Homecoming Week - September 12-17<br>Homecoming Dance - September 17<br>
-			                CCR Week - October 3-7<br>End of First Term - October 14<br>Harvest Holiday - October 24</p>
+			                <h3>Dates to Remember 2018-2019                             </h3>
+			                <p>Homecoming Week - September 10-15<br>Homecoming Dance - September 15<br>
+			                CCR Week - October 1-5<br>End of First Term - October 14<br>Harvest Holiday - October 22</p>
 			              </div><!--well-->
                            
    				           <div class="well">
@@ -198,11 +198,11 @@
 	          				 <h3>Senior Information</h3>
 	          				 <h4>Graduation Information</h4>
 		          				<ul>
-		          				  <li>Graduation will be held in the Eccles Coliseum at 1:00 p.m. Wednesday, May 23rd.</li>
+		          				  <li>Graduation will be held in the SUU Centrum at 5:00 p.m. Wednesday, May 22nd.</li>
           				      </ul>
        				         <h4>Sterling Scholar/ Diploma of Merit</h4>
           				        <ul>
-                            <li>Diploma of Merit applications were due in February of 2018.</li>
+                            <li>Diploma of Merit applications are due in February of 2019.</li>
        				          </ul>
                               
    				          </div><!--well-->
@@ -229,7 +229,7 @@
                           
                           <div class="well">
 
-		          				<h3>Mrs. Slaugh Window Hours</h3>
+		          				<h3>Mrs. Stubbs Window Hours</h3>
 		          				<p>Tuesday<strong>-</strong>Friday 7:30 am to 8:00 am<br>
 		          				  Monday-Friday 11:00 am to 12:00 pm<br>
 	          				Monday-Friday 2:40 pm to 3:00 pm</p>
