@@ -203,7 +203,7 @@
 		          				<p><a href="https://secureinstantpayments.com/sip/cart/event.php?EID=999"target="_blank">Online Payment</a> </p>
 		          				<p>Tuesday<strong>-</strong>Friday 7:30am to 8:00am<br>
 		          				  Monday-Friday 11:00am to 12:30pm<br>
-		          				Monday-Friday 2:40pm to 3:30pm</p>
+		          				Monday-Friday 2:40pm to 3:15pm</p>
    			  </div><!--well-->
               </div><!--span8-->
                         
