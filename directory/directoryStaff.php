@@ -63,8 +63,8 @@
           
           <li class="span2">
             <a href="/academics" class="thumbnail">
-              <img src="staffpic/sharp-scott.jpg" alt="" />
-              <div class="imglabel"><p>Scott Sharp</p></div>
+              <img src="../../assets/img/facstaff/sanders-terri.jpg"alt="" />
+              <div class="imglabel"><p>Terri Sanders</p></div>
               <div class="imglabel"><p>Vice Principal</p></div>
             </a>
           </li>
@@ -90,8 +90,8 @@
 	   
 		  <li class="span2">
             <a href="mailto:debbie.slaugh@ironmail.org" class="thumbnail">
-              <img src="staffpic/slaugh-debbie.jpg" alt="" />
-              <div class="imglabel"><p>Debbie Slaugh</p></div>
+              <img src="staffpic/placeholder_woman.jpg" alt>
+              <div class="imglabel"><p>Lori Stubbs</p></div>
               <div class="imglabel"><p>Office Manager</p></div>
             </a>
           </li>	 
