@@ -138,11 +138,36 @@
          </div>
               
 			<ul class="thumbnails">	
+       <li class="span2">
+            <a class="thumbnail">
+              <img src="staffpic/placeholder_woman.jpg" alt="">
+              <div class="imglabel"><p>Natasha Tebbs (A-Gi)</p></div>
+              <div class="imglabel"><p>School Counselor</p></div>
+            </a>
+         </li>
+       
+       <li class="span2">
+            <a class="thumbnail">
+              <img src="staffpic/placeholder_man.jpg" alt="">
+              <div class="imglabel"><p>Nick Parson (Go-Ne)</p></div>
+              <div class="imglabel"><p>School Counselor</p></div>
+            </a>
+         </li>
+       
+       
+       <li class="span2">
+            <a class="thumbnail">
+              <img src="staffpic/placeholder_woman.jpg" alt="">
+              <div class="imglabel"><p>Jennifer Denhalter (Ni-Z)</p></div>
+              <div class="imglabel"><p>School Counselor</p></div>
+            </a>
+         </li>
+       
             
          <li class="span2">
             <a class="thumbnail">
-              <img src="staffpic/groves-kris.jpg" alt="" />
-              <div class="imglabel"><p>Kris Groves</p></div>
+              <img src="staffpic/placeholder_woman.jpg" alt="">
+              <div class="imglabel"><p>Wendy Moon</p></div>
               <div class="imglabel"><p>Concurrent Enrollment</p></div>
             </a>
          </li>
