@@ -394,7 +394,7 @@ a.thumbnail { height: 205px; }
 					      		<img src="http://chs.ironk12.org/assets/img/rubiks.jpg" alt="" width="160" height="200">
 
 		      		  <div class="imglabel">
-Rubix Cube Club
+Rubik's Cube Club
 
 				      		</div>
 
