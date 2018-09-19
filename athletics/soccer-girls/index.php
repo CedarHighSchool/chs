@@ -103,7 +103,7 @@
 
 						<ul class="nav nav-list">
 
-							<li class="active"><a href="./">Home</a><a href="https://docs.google.com/a/ironmail.org/document/d/1mW6S1qLhJgzraY2ZleJoLPqZn4TCWeZ-ZB5dwewVZwE/edit"target="_blank">Schedule</a></li>
+							<li class="active"><a href="./">Home</a><a href="https://drive.google.com/file/d/0Byn2da4ak8lLVEx2X1psb0dSN3EwT293LWNJR1lLeGpURFRj/view?usp=sharing"target="_blank">Schedule</a></li>
 
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1C_bcnfV-epr1Wo4HupVJ51xcEpI8hlGwOO8Y43ZirPU/edit"target="_blank">Varsity Roster</a></li>
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1JJ4n6aFqzEKtoIaKTQAt3hqMqR6UYkQX_QASyQptyjE/edit"target="_blank">JV Roster</a></li>
