@@ -28,6 +28,7 @@
 					if(isset($_POST['fname'])){
 						$fname = $_POST['fname'];
 						$lname = $_POST['lname'];
+						$slug = strtolower($_POST['fname']) . "-" . strtolower($_POST['lname']);
 						$picture = $_POST['picture'];
 						$website = $_POST['website'];
 						$a1 = $_POST['a1'];
@@ -56,8 +57,8 @@
 						$room = $_POST['room'];
 						$extras = $_POST['extras'];
 						
-						$query = $mysqli->prepare("INSERT INTO `faculty` (`fname`,`lname`,`picture`,`website`,`a1`,`b1`,`a2`,`b2`,`a4`,`b4`,`a5`,`b5`,`a1u`,`b1u`,`a2u`,`b2u`,`a4u`,`b4u`,`a5u`,`b5u`,`education`,`email`,`room`,`extras`,`subject`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)");
-						$query->bind_param("sssssssssssssssssssssssss",$fname,$lname,$picture,$website,$a1,$b1,$a2,$b2,$a4,$b4,$a5,$b5,$a1u,$b1u,$a2u,$b2u,$a4u,$b4u,$a5u,$b5u,$education,$email,$room,$extras,$subject);
+						$query = $mysqli->prepare("INSERT INTO `faculty` (`fname`,`lname`,`slug`,`picture`,`website`,`a1`,`b1`,`a2`,`b2`,`a4`,`b4`,`a5`,`b5`,`a1u`,`b1u`,`a2u`,`b2u`,`a4u`,`b4u`,`a5u`,`b5u`,`education`,`email`,`room`,`extras`,`subject`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)");
+						$query->bind_param("ssssssssssssssssssssssssss",$fname,$lname,$slug,$picture,$website,$a1,$b1,$a2,$b2,$a4,$b4,$a5,$b5,$a1u,$b1u,$a2u,$b2u,$a4u,$b4u,$a5u,$b5u,$education,$email,$room,$extras,$subject);
 						$query->execute();
 						//$manage->activity("Created faculty item", "fac", $mysqli->insert_id);
 						echo "$fname $lname added to faculty list";
