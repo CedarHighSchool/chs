@@ -114,9 +114,12 @@
 						<h5>Roster</h5>
 
 						<ul class="nav nav-list">
-						  <li>Josh</li>
-						  <li>Kirby</li>
-						  <li>Dominique</li>
+						  <li>Cat</li>
+						  <li>Kaden</li>
+						  <li>Ethan</li>
+						  <li>Camden</li>
+						  <li>Summer</li>
+						  <li>Tyler</li>
 						  <li>Charles</li>
 						  <li>Alex</li>
 						 

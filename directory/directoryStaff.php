@@ -25,7 +25,18 @@
 						.imglabel {
 								text-align:center;
                                 font-size: 11px;
-                        }    
+                        } 
+            .thumbnails{
+              padding: 0 0 9px 35px;
+            }
+            .thumbTop, .thombBot{
+              display: flex;
+              flex-direction: row;
+            }
+            .thumbTop, .thombBot{
+              display: flex;
+              flex-direction: row;
+            }
 </style>
 
   </head>
@@ -129,6 +140,59 @@
           </li>
           
         </ul>	
+   	</div><!--span8-office-->
+
+   	<div class="span8 new">
+          
+       <div class="well well-small">
+           <h3>Office</h3>
+       </div>
+              
+	   <div class="thumbnails">
+	   <div class="thumbTop">
+		  <li class="span2">
+            <a href="mailto:debbie.slaugh@ironmail.org" class="thumbnail">
+              <img src="staffpic/placeholder_woman.jpg" alt>
+              <div class="imglabel"><p>Natasha Tebbs (A-Gi)</p></div>
+              <div class="imglabel"><p>School Counselor</p></div>
+            </a>
+          </li>	 
+             
+          <li class="span2">
+            <a href="mailto:bonnie.matheson@ironmail.org" class="thumbnail">
+              <img src="staffpic/placeholder_man.jpg" alt="" />
+              <div class="imglabel"><p>Nick Parson (Go-Ne)</p></div>
+              <div class="imglabel"><p>School Counselor</p></div>
+            </a>
+          </li>
+            
+          <li class="span2">
+            <a href="mailto:cindy.larson@ironmail.org" class="thumbnail">
+              <img src="staffpic/placeholder_woman.jpg" alt="" />
+              <div class="imglabel"><p>Jennifer Denhalter (Ni-Z)</p></div>
+              <div class="imglabel"><p>School Counselor</p></div>
+            </a>
+          </li>
+          
+          <li class="span2">
+            <a href="mailto:allison.palmer@ironmail.org" class="thumbnail">
+              <img src="staffpic/placeholder_woman.jpg" alt="" />
+            <div class="imglabel"><p>Wendy Moon</p></div>
+              <div class="imglabel"><p>Concurrent Enrollment</p></div>
+            </a>
+          </li>
+          </div>
+          <div class="thumbBot">
+          <li class="span2">
+            <a href="mailto:heidi.oswald@ironmail.org" class="thumbnail">
+              <img src="staffpic/fausett-linette.jpg" alt="" />
+              <div class="imglabel"><p>Linette Fausett</p></div>
+              <div class="imglabel"><p>Administrative</p></div>
+            </a>
+          </li>
+          </div>
+          
+        </div>	
    	</div><!--span8-office-->
 	
 	<div class="span8 new">

@@ -169,7 +169,7 @@
 
 
 <a class="" role="button" data-toggle="collapse" href="#datevoilence" aria-expanded="false" aria-controls="collapseExample">
-  <h3>Date Voilence</h3>
+  <h3>Date Violence</h3>
 </a>
 <div class="collapse" id="datevoilence">
    <p><a href="https://teenlineonline.org/youth-yellow-pages/dating-violence/?gclid=CP_Kq-jej9ACFZJgfgodaTwDRA" target="_blank">teenlineonline.org
@@ -325,8 +325,8 @@
                     </p>
                     
                     <p>
-                    LDS Family Services>br>
-                    2202 north Main, Suite 301<br>
+                    LDS Family Services<br>
+                    2202 North Main, Suite 301<br>
                     586-4479
                     </p>
                     

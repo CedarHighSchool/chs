@@ -68,7 +68,24 @@
 	      		<p>Art Guild is currently free to join. See Mr. Wainwright or Mr. Stacey for more information.	    	    </p>
 	    	  </div>
                   <div class="well">
-                  </div>
+                        
+
+                        <p><strong><h3>Congratulations</h3>
+                        </strong>
+                        <p><strong>Andrew M.</strong> won <strong>all-state 1st place</strong> in the congressmen's division for his watercolor &quot;Beekeeper.&quot; His artwork will hang in the U.S Capitol Building for one year. Andrew will be receiving a small scholarship for his great accomplishment. When you see Andrew, congratulate him on a job well done! Way to go Andrew M.!</p>
+                     To the following students for bringing home awards from the Steven's Henager Art Competition:</p>
+                     <p>2nd Place Still-life in Chacoal -Andrew</p>
+                        <p>2nd Place Portrait in Pencil -McKala</p>
+                        <p>3rd Place Portrait in Pencil -Chlo</p>
+                        <p>Honorable Mentions:</p>
+                        <p>Jaden, Tim, Andrew, Jessica, Rebekah, Chlo, and McKayla</p>
+                        
+						<center><h3>&nbsp;</h3>
+	
+                  
+                  
+                  
+				</div>
 				</div>
 
 		           			
@@ -98,25 +115,7 @@
 </div>
 
 
-				  <div class="well">
-                        
-
-                        <p><strong><h5>Congratulations</h5>
-                        </strong>
-                        <p><strong>Andrew M.</strong> won <strong>all-state 1st place</strong> in the congressmen's division for his watercolor &quot;Beekeeper.&quot; His artwork will hang in the U.S Capitol Building for one year. Andrew will be receiving a small scholarship for his great accomplishment. When you see Andrew, congratulate him on a job well done! Way to go Andrew M.!</p>
-                     To the following students for bringing home awards from the Steven's Henager Art Competition:</p>
-                     <p>2nd Place Still-life in Chacoal -Andrew</p>
-                        <p>2nd Place Portrait in Pencil -McKala</p>
-                        <p>3rd Place Portrait in Pencil -Chlo</p>
-                        <p>Honorable Mentions:</p>
-                        <p>Jaden, Tim, Andrew, Jessica, Rebekah, Chlo, and McKayla</p>
-                        
-						<center><h3>&nbsp;</h3>
-	
-                  
-                  
-                  
-				</div>
+				  
 
 			  </div>
 

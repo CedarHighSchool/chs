@@ -69,9 +69,18 @@
 			      		<p>Come to all the meetings and pay the $10.00 fee to Mrs. Slaugh and take the receipt to Mrs. Lewin</p>
 
 			    	</div>
+			    	<div class="well">
+
+			      		<h3>Upcoming Events</h3>
+
+			      		<p>Science Olympiad: TBA</p>
+			      		<p>Science Bowl: TBA</p>
+
+			    	</div>
 				</div>
 
 		           			<!--We are the best club!-->
+		           			<!--Except for Cybercorps-->
 
 				<div class="span3">
 
@@ -90,8 +99,15 @@
 					<div class="well">
 
 						<h5>Roster</h5>
-						<p><b>President</b> - Lyle</p>
-						<p><b>Vice President</b> - Larissa</p>
+						<p><b>President</b> - Rose</p>
+						<p><b>Vice President</b> - Famke</p>
+
+			      </div>
+			     <div class="well">
+
+						<h5>Science Resources</h5>
+						<p></p>
+						<p></p>
 
 			      </div>
 
