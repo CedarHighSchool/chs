@@ -34,7 +34,7 @@
 
 	       			<div class="well">
 
-          				<h3>Counseling Hello World!</h3>
+          				<h3>Counseling</h3>
 
            			</div>
 
@@ -48,7 +48,7 @@
 
 	   					
 
-	   					<!-- Perdy slide show -->
+	   					<!-- Slide Show -->
 
 	   					<div class="span8">
                         	<div id="myCarousel" class="carousel slide">
@@ -80,13 +80,21 @@
 			            		<a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
 
 			       			</div>
-                            
+               
+             
+             <!--/slideshow --> 
+             
+             		<!-- Wells --> 
+             		
                             <div class="well">
 
 		          				<h3><a href="http://cedarhighcounseling.weebly.com/">Counseling Website</a><br>
 	           				  </h3>
 
            				  </div>
+           				  
+           				  	   				
+           				  	   				
 <div class="well">
         
 	<h3><span class="style9"><a href="https://docs.google.com/document/d/1XiHJKaeIVWN_VNsRQSAVAAdKlm83qTo5f0D7y3Fse64/edit">Scholarships</a></span></h3>
@@ -94,8 +102,7 @@
     	<p>We here at VapingDaily.com are excited to offer $6,000 in scholarships every year to three people who sare the issue on the hazards of smoking. The application is free and beings July 10, 2017. For more information, visit the website by<a href="https://vapingdaily.com/scholarship/"target="_blank"> clicking here</a>.</p>
     </p>
 </div>   
-
-    
+ 
  	                             
                        
 		  			<div class="well">
@@ -125,7 +132,7 @@
 			       			<div class="well">
    				            <h3>Dates to Remember</h3>
    				            <UL>
-   				            <li>PSAT - Wednesday, October 11, 2017   				            </p>
+   				            <li>PSAT -   Wednesday, October 10,   2018		            </p>
    				            <li>FAFSA Commpletion Night - December 4, 2017</li>
    				            <li>No. Utah College Tour - Novemer 10-11, 2017   				            </p>
    				            <li>College Application Week - November 13-17, 2018</li>
@@ -202,12 +209,13 @@
 	           				  </p>
 
 	           			  </div>
-
-		           		</div>
+</div> 
+    
+		           		
 
    						
 
-	   					<!--/slideshow -->   
+	   					  
 
 	   					
 
