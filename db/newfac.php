@@ -100,6 +100,7 @@
 									<option>Special Education</option>
 									<option>Media Center</option>
 									<option>Science</option>
+									<option>Other</option>
 								</select>
 
 							</div>
