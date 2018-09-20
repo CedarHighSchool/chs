@@ -196,7 +196,7 @@
                                                 <dl><dt>Southern Utah Physical Therapy & Rehab</dt>
                                                     <dd>
                                                         <ul>
-                                                            <li><a href="https://intermountainhealthcare.org/find-a-doctor/b/brinkerhoff-g-tyler/" target="_blank">https://intermountainhealthcare.org/find-a-doctor/b/brinkerhoff-g-tyler/</a>
+                                                            <li><a href="https://delcore.org/southern-utah-physical-therapy-and-rehabilitation/" target="_blank">https://delcore.org/southern-utah-physical-therapy-and-rehabilitation/</a>
                                                         </ul>
                                                     </dd>
                                                 </dl>
@@ -219,10 +219,6 @@
                                                 </dl>
                     
                                                 <dl>
-                                                    <dt>Phillips Builders, LLC</dt>
-                                                    
-                                                </dl>
-                                                <dl>
                                                     <dt>ERA Realty - Jennifer Davis</dt>
                                                     <dd>
                                                         <ul>
@@ -230,18 +226,276 @@
                                                         </ul>
                                                     </dd>
                                                 </dl>
-                                                <dl>
-                                                    <dt>Epic Concrete & Construction Inc.</dt>
+                                                
+                                                                           <dl>
+                                                <dt>Brian Head</dt>
                                                     <dd>
                                                         <ul>
-                                                            <li><a href="https://www.facebook.com/Epic-Concrete-Construction-Inc-222785661449800/?fref=ts" target="_blank">https://www.facebook.com/Epic-Concrete-Construction-Inc-222785661449800/?fref=ts</a></li>
-                                                            <p>
-                                                                <a href="http://www.SchoolAwards.net"><img src="http://www.schoolawards.net/wp-content/uploads/2016/01/powered-by-school-awards.png" alt="Powered By SchoolAwards.net" target="_blank"></a>
+                                                            <li><a href="https://www.brianhead.com/" target="_blank">https://www.brianhead.com/</a>
                                                         </ul>
                                                     </dd>
-                                                    <dd>&nbsp; </dd>
                                                 </dl>
+                                                
+                                                <dt>Mosdell Sanitation</dt>
+                                                    <dd>
+                                                        <ul>
+                                                            <li><a href="http://www.mosdellsanitation.com/" target="_blank">http://www.mosdellsanitation.com/</a>
+                                                        </ul>
+                                                    </dd>
+                                                </dl>
+                                                
+                                                <dt>Southern Utah Mortuary</dt>
+                                                    <dd>
+                                                        <ul>
+                                                            <li><a href="http://www.sumortuary.com/" target="_blank">http://www.sumortuary.com/</a>
+                                                        </ul>
+                                                    </dd>
+                                                </dl>
+                    
+</div>
+                                        <!--well-->
 
+                                        <div class="well">
+                                            <h3>Cardinal</h3>
+                                        
+                                        
+                                        <dl>
+                                             <dt>Andrus Transportation Services</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://andrustrans.com/" target="_blank">http://andrustrans.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Boulevard Home Furnishings</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.boulevardhomefurnishings.com/" target="_blank">https://www.boulevardhomefurnishings.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Canyon View Ear Nose & Throat</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://entsouthernutah.com/" target="_blank">http://entsouthernutah.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                              <dt>CD Consulting Engineers</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://cdce-utah.com/" target="_blank">http://cdce-utah.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Cedar View Pediatrics Dentistry</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.cedarkidsdental.com/" target="_blank">https://www.cedarkidsdental.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Complete Family Dental</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://completefamilydentalcedarcity.com/" target="_blank">http://completefamilydentalcedarcity.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Evans Hairstyling College</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://evanscollege.com/" target="_blank">http://evanscollege.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Mountain West Computers</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://mountainwestcomputers.com/" target="_blank">http://mountainwestcomputers.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Precision Development Inc.</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.precisiondevelopmentinc.net/" target="_blank">http://www.precisiondevelopmentinc.net/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Precision Development Inc.</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.precisiondevelopmentinc.net/" target="_blank">http://www.precisiondevelopmentinc.net/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>State Farm Cardon Insurance Agency</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.suzettecardon.com/" target="_blank">https://www.suzettecardon.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>The Tire Company</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.thetireco.com/" target="_blank">https://www.thetireco.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Tropical Smoothie Cafe - Cedar</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.tropicalsmoothiecafe.com/" target="_blank">https://www.tropicalsmoothiecafe.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Maverik</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.maverik.com/" target="_blank">https://www.maverik.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>5 buck Pizza</dt>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Bulloch Drug</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://bullochdrug.com/" target="_blank">http://bullochdrug.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Cedar Valley Family Dentistry</dt>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Hurst Ace Hardware</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.acehardware.com/store-details/05738?utm_source=google&utm_medium=localstore&utm_campaign=" target="_blank">https://www.acehardware.com/store-details/05738?utm_source=google&utm_medium=localstore&utm_campaign=</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Larsen Willliams Financial Planner</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.larsonfinancialcompanies.com/" target="_blank">http://www.larsonfinancialcompanies.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Rocky Ridge Rock, Inc.</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://rockyridgerock.com/" target="_blank">https://rockyridgerock.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Russ Rosenberg Construction</dt>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Cedar Drug</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.cedardrug.com/" target="_blank">https://www.cedardrug.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        </div>
+                                        
+                                        <div class="well">
+                                            <h3>Trade</h3>
+                                            
+                                        <dl>
+                                             <dt>Brad Harr</dt>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>IHC - Nakken</dt>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Dr. Mark Corry</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://intermountainhealthcare.org/find-a-doctor/c/corry-mark-w/" target="_blank">https://intermountainhealthcare.org/find-a-doctor/c/corry-mark-w/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Pizza Factory</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://pizzafactorycedarcity.com/" target="_blank">http://pizzafactorycedarcity.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>State Bank</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.sbsu.com/branches/cedar-city" target="_blank">https://www.sbsu.com/branches/cedar-city</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Jimmy Johns</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.jimmyjohns.com/" target="_blank">https://www.jimmyjohns.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                    
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
                                         </div>
                                         <!--well-->
 
