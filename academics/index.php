@@ -34,9 +34,9 @@
 		                			  </div>
 			              			</div>
            			  <div class="item">
-			                			<img src="Sharp1.jpg" alt="">
+			                			<img src="Sanders.png" alt="">
            			  <div class="carousel-caption">
-			                  				<h4>Vice Principal Scott Sharp</h4>
+			                  				<h4>Vice Principal Terri Sanders</h4>
 			                  				<p>Responsibilities:  Discipline and Court Referrals</p>
 			                			</div>
 		              			  </div>
@@ -59,13 +59,13 @@
           				  <p align="center">
 		           					<a href="Principal's letter.pdf">Letter from Mr. Dodds</a></p>
 		           				<p align="center"><a href="../academics/Principal's letter.pdf">Cedar High Trustland Plan</a></p>
-		           				<p align="center"><a href="mailto:john.dodds@ironmail.org">john.dodds@ironmail.org</a> | <a href="mailto:scott.sharp@ironmail.org">scott.sharp@ironmail.org</a> | <a href="mailto:danny.lewis@ironmail.org">danny.lewis@ironmail.org</a></p>
+		           				<p align="center"><a href="mailto:john.dodds@ironmail.org">john.dodds@ironmail.org</a> | <a href="mailto:terri.sanders@ironmail.org">terri.sanders@ironmail.org</a> | <a href="mailto:danny.lewis@ironmail.org">danny.lewis@ironmail.org</a></p>
 		       			  </div>
                           <div class="well">
 
-		          				<h3>Mrs. Slaugh Window Hours		          				</h3>
+		          				<h3>Mrs. Stubbs Window Hours		          				</h3>
 		          				<p>Tuesday<strong>-</strong>Friday from 7:30 am to 8:00 am<br>
-		          				  Monday-Friday from 11:00 am to 12:00 pm<br>
+		          				  Monday-Friday from 11:00 am to 12:30 pm<br>
 		          				Monday-Friday from 2:40 pm - 3:00 pm</p>
           				  </div>
 		           			<div class="well">
