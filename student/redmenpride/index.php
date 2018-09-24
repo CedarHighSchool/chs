@@ -43,65 +43,17 @@
               
               				<div class="well">
                               <p align="center"><strong>
-                              <h3 align="center"><strong>Congratulations to March Winners 2017</strong></h3>
+                              <h3 align="center"><strong>Congratulations to September Winners 2018</strong></h3>
 </strong>
-                              <p align="center">E Fletcher<br>
-                                B Johnson<br>
-                                BMcQuivey<br>
-                                C Pancheri<br>
-                                K Scott<br>
-                                HWebb<strong>
-                              </strong>                              
-                              <strong>
-                              <h3 align="center">Congratulations to February Winners 2017</h3>
-                              </strong>                           
-                            <p align="center">K Bachman<br>
-                            E Brinkerhoff<br>
-                            H Curry<br>
-                            B Gray<br>
-                            J Kjar<br>
-                            B Messer
-                              
-                              <h3 align="center">Congratulations to January Winners 2017</h3></strong>                           
-                            <p align="center">A Allen<br>
-                            M Beacham<br>
-                            B Garrett<br>
-                            J Gray<br>
-                            D Lewis<br>
-                            C Taylor
-                            
-                            <p align="center"><strong><h3 align="center">Congratulations to December Winners 2016</h3></strong>                           
-                            <p align="center">K Gross<br>
-                            C Healy<br>
-                            T Liston<br>
-                            C Robinson<br>
-                            K Stubbs <br>
-                            Z Wiener
-                                                       
-                            <p align="center"><strong><h3 align="center">Congratulatons to Novermber Winners 2016</h3></strong></p>                                                        
-                            
-                            <p align="center">E Christiansen<br>
-                            J Garfield<br>
-                            G Loveland<br>
-                            KNielson<br>
-                            D Saunders<br>
-                            A Twitchell
-                            <p align="center"><strong><h3 align="center">Congratulations to October Winners 2016</h3></strong></p>
-              				<p align="center">M Barrick<br>
-                            A Boyer<br>
-                            K Field<br>
-                            K Nielson<br>
-                            B Robertson<br>
-                            S Werber
-              				<p align="center"><strong><h3 align="center">Congratulations to September Winners 2016</h3></strong>                                                        
-                            <p align="center"> K Beatty<br>
-                              M Fakahua<br>
-                              K Kause<br>
-                              S Peacock<br>
-                              H Price<br>
-                              A Warby<br>
-                              M Holyoak
-                            <p align="center"><br>
+                              <p align="center">E Allen<br>
+                                K Bolton<br>
+                                S Bryson<br>
+                                K Klemic<br>
+                                D Barrick<br>
+                                J Brown<br>
+                                C Clark<br>
+                                K Einfeldt<strong>
+                              </strong>
                           </div>
               				<!--well-->
                     </div><!--span8-->

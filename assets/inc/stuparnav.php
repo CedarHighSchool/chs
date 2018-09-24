@@ -13,7 +13,7 @@
 			<li><a href="/custodial.php">Custodial Survey</a></li>
 			<li><a href="/counseling/index.php">Counseling</a></li>
 			<li><a href="/courses/">Course Catalog</a></li>
-			<li><a href="https://docs.google.com/a/ironmail.org/document/d/1wVBbSOcaRt7186sloI9xAjLuBHrDuqP6uOXtm3tUn9U/edit?usp=sharing">Dances</a></li>
+			<li><a href="https://docs.google.com/document/d/1OPKy50U5zjMKkaf9nc0Qt3pWB7rakmSpQIlARRCHMas/edit">Dances</a></li>
             <li><a href="/general/guestpasspdf.pdf">Dance Guest Pass</a></li>
 			<li><a href="http://irondistrict.org/">District Office</a></li>
 			<li><a href="http://irondistrict.org/sites/default/files/Docs/1516FEESCHEDULE.pdf">Fee Schedule</a>
