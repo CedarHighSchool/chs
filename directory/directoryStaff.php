@@ -13,7 +13,6 @@
                                         font-size: 9px;
                                 }
                         }
-						
 						.well {
 							margin-left: 0px !important;
 						}
@@ -29,14 +28,31 @@
             .thumbnails{
               padding: 0 0 9px 35px;
             }
-            .thumbTop, .thombBot{
+            .thumbnails .span2{
+              margin: 0 0 18px 20px;
+            }
+            .thumbTop{
               display: flex;
               flex-direction: row;
             }
-            .thumbTop, .thombBot{
+            .thumbBot{
               display: flex;
               flex-direction: row;
             }
+            @media (max-width: 767px) {
+              .thumbTop{
+                display: flex;
+                flex-direction: column;
+              }
+              .thumbBot{
+                display: flex;
+                flex-direction: column;
+              }
+              .thumbnails .span2{
+                width: max-content;
+              }
+            }
+						
 </style>
 
   </head>
@@ -63,7 +79,7 @@
         </div>
               
         <ul class="thumbnails">
-        
+        <div class="thumbTop">
           <li class="span2">
             <a href="/academics" class="thumbnail">
               <img src="staffpic/dodds-john.jpg" alt="" />
@@ -87,7 +103,7 @@
               <div class="imglabel"><p>Vice Principal / Athletic Director</p></div>
             </a>
           </li>
-          
+        </div>  
 		</ul>
 	</div><!--span8-administration-->
           
@@ -98,7 +114,7 @@
        </div>
               
 	   <ul class="thumbnails">
-	   
+	   <div class="thumbTop">
 		  <li class="span2">
             <a href="mailto:debbie.slaugh@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt>
@@ -122,7 +138,8 @@
               <div class="imglabel"><p>Purchasing Agent</p></div>
             </a>
           </li>
-          
+        </div>
+        <div class="thumbBot">
           <li class="span2">
             <a href="mailto:allison.palmer@ironmail.org" class="thumbnail">
               <img src="staffpic/palmer-allison.jpg" alt="" />
@@ -138,14 +155,14 @@
               <div class="imglabel"><p>Resource Officer</p></div>
             </a>
           </li>
-          
+        </div>  
         </ul>	
    	</div><!--span8-office-->
 
    	<div class="span8 new">
           
        <div class="well well-small">
-           <h3>Office</h3>
+           <h3>Conseling</h3>
        </div>
               
 	   <div class="thumbnails">
@@ -174,6 +191,9 @@
             </a>
           </li>
           
+          </div>
+          <div class="thumbBot">
+          
           <li class="span2">
             <a href="mailto:allison.palmer@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt="" />
@@ -181,8 +201,7 @@
               <div class="imglabel"><p>Concurrent Enrollment</p></div>
             </a>
           </li>
-          </div>
-          <div class="thumbBot">
+          
           <li class="span2">
             <a href="mailto:heidi.oswald@ironmail.org" class="thumbnail">
               <img src="staffpic/fausett-linette.jpg" alt="" />
@@ -195,57 +214,7 @@
         </div>	
    	</div><!--span8-office-->
 	
-	<div class="span8 new">
-          
-         <div class="well well-small">
-             <h3>Counseling</h3>
-         </div>
-              
-			<ul class="thumbnails">	
-       <li class="span2">
-            <a class="thumbnail">
-              <img src="staffpic/placeholder_woman.jpg" alt="">
-              <div class="imglabel"><p>Natasha Tebbs (A-Gi)</p></div>
-              <div class="imglabel"><p>School Counselor</p></div>
-            </a>
-         </li>
-       
-       <li class="span2">
-            <a class="thumbnail">
-              <img src="staffpic/placeholder_man.jpg" alt="">
-              <div class="imglabel"><p>Nick Parson (Go-Ne)</p></div>
-              <div class="imglabel"><p>School Counselor</p></div>
-            </a>
-         </li>
-       
-       
-       <li class="span2">
-            <a class="thumbnail">
-              <img src="staffpic/placeholder_woman.jpg" alt="">
-              <div class="imglabel"><p>Jennifer Denhalter (Ni-Z)</p></div>
-              <div class="imglabel"><p>School Counselor</p></div>
-            </a>
-         </li>
-       
-            
-         <li class="span2">
-            <a class="thumbnail">
-              <img src="staffpic/placeholder_woman.jpg" alt="">
-              <div class="imglabel"><p>Wendy Moon</p></div>
-              <div class="imglabel"><p>Concurrent Enrollment</p></div>
-            </a>
-         </li>
-		 
-         <li class="span2">
-            <a class="thumbnail">
-              <img src="staffpic/fausett-linette.jpg" alt="" />
-              <div class="imglabel"><p>Linette Fausett</p></div>
-              <div class="imglabel"><p>Administrative Assistant</p></div>
-            </a>
-         </li>
-          
-          </ul>
-		  </div><!--span8--resource-->
+	<!--span8--resource-->
           
     <div class="span8 new">
           
@@ -254,7 +223,7 @@
          </div>
               
 			<ul class="thumbnails">	
-            
+          <div class="thumbTop">  
          <li class="span2">
             <a class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt="" />
@@ -282,7 +251,8 @@
               <div class="imglabel"><p>Donna McDonald</p></div>
             </a>
           </li>
-			  
+			    </div>
+			    <div class="thumbBot">
          <li class="span2">
             <a class="thumbnail">
               <div class="imglabel"><p>Tyler Monks</p></div>
@@ -294,7 +264,7 @@
               <div class="imglabel"><p>Julie Webb</p></div>
             </a>
           </li>
-             
+          </div>   
           
           </ul>
 		  </div><!--span8--resource-->
@@ -307,7 +277,7 @@
          </div>
               
 	  <ul class="thumbnails">	
-            
+        <div class="thumbTop">    
         <li class="span2">
           <a class="thumbnail">
             <img src="staffpic/marilyn.jpg" alt="" />
@@ -322,7 +292,7 @@
              <div class="imglabel"><p>Carolyn Gilger</p></div>
            </a>
          </li>
-        
+        </div>
          
       </ul>
 	</div><!--span8-lunch ladies-->
@@ -334,7 +304,7 @@
         </div>
          
       	<ul class="thumbnails">
-         
+        <div class="thumbTop"> 
           <li class="span2">
             <a class="thumbnail">
               <img src="staffpic/star-jeff.jpg" alt="" />
@@ -355,7 +325,7 @@
               <div class="imglabel"><p>Gary Whicker</p></div>
             </a>
           </li>
-          
+          </div>
       </ul> 
 	</div>
     
@@ -366,7 +336,7 @@
        </div>
        
        <ul class="thumbnails">
-       
+       <div class="thumbTop">
          <li class="span2">
             <a class="thumbnail">
               <img src="staffpic/placeholder_man.jpg" alt="" />
@@ -388,7 +358,7 @@
               <div class="imglabel"><p>Copy Specialist</p></div>
             </a>
          </li>
-         
+         </div>
        </ul> 
 	</div><!--span8-specialized--> 
         
