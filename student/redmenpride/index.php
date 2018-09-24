@@ -45,14 +45,14 @@
                               <p align="center"><strong>
                               <h3 align="center"><strong>Congratulations to September Winners 2018</strong></h3>
 </strong>
-                              <p align="center">E Allen<br>
-                                K Bolton<br>
-                                S Bryson<br>
-                                K Klemic<br>
-                                D Barrick<br>
-                                J Brown<br>
-                                C Clark<br>
-                                K Einfeldt<strong>
+                              <p align="center">E. Allen<br>
+                                K. Bolton<br>
+                                S. Bryson<br>
+                                K. Klemic<br>
+                                D. Barrick<br>
+                                J. Brown<br>
+                                C. Clark<br>
+                                K. Einfeldt<strong>
                               </strong>
                           </div>
               				<!--well-->
