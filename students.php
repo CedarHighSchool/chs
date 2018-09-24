@@ -106,24 +106,6 @@
            	  <div class="well">
 
 	       		  <h3><a name="actdates"/><a href="http://www.actstudent.org/regist/dates.html">ACT dates</a></h3>
-	       		  <p><h4>SUMMER DATES FOR 2017</h4></p>
-       		    <table width="459" style="text-align:left">
-       				              <thead>
-       				                <tr>
-       				                  <th width="118">Test Date</th>
-       				                  <th width="145">Registration Deadline</th>
-                                      <th width="174">Late Fee Required</th>
-   				                    </tr>
-                  </thead>
-       				              <tbody>
-									<tr>
-										<td colspan="1" rowspan="1">June 10, 2017</td>
-										<td colspan="1" rowspan="1">May 5, 2017</td>
-										<td colspan="1" rowspan="1">May 6-19, 2017</td>
-									</tr>
-   				                </tbody>
-                </table>
-			    <p><br>
                               ACT Code 450-045<br>
    				  </p>
    				  <p><h4>NEXT YEAR DATES</h4></p>
@@ -137,38 +119,39 @@
 			        </thead>
    				    <tbody>
    				      <tr>
-   				        <td colspan="1" rowspan="1">September 9, 2017</td>
-   				        <td colspan="1" rowspan="1">August 4, 2017</td>
-   				        <td colspan="1" rowspan="1">August 5-18, 2017</td>
+   				        <td colspan="1" rowspan="1">September 8, 2018</td>
+   				        <td colspan="1" rowspan="1">August 12, 2018</td>
+   				        <td colspan="1" rowspan="1">August 26, 2018</td>
+   				       </tr>
+   				      <tr>
+   				        <td colspan="1" rowspan="1">October 27, 2018</td>
+   				        <td colspan="1" rowspan="1">September 28, 2018</td>
+   				        <td colspan="1" rowspan="1">October 14, 2018</td>
 			          </tr>
    				      <tr>
-   				        <td colspan="1" rowspan="1">October 28, 2017</td>
-   				        <td colspan="1" rowspan="1">September 22, 2017</td>
-   				        <td colspan="1" rowspan="1">Sept. 23-Oct. 6, 2017</td>
+   				        <td colspan="1" rowspan="1">December 8, 2018</td>
+   				        <td colspan="1" rowspan="1">November 2, 2018</td>
+   				        <td colspan="1" rowspan="1">November 19, 2018</td>
+   				       </tr>
+   				      <tr>
+   				        <td colspan="1" rowspan="1">February 9, 2019 (Juniors)</td>
+   				        <td colspan="1" rowspan="1">January 11, 2019</td>
+   				        <td colspan="1" rowspan="1">January 18, 2019</td>
 			          </tr>
    				      <tr>
-   				        <td colspan="1" rowspan="1">December 9, 2017</td>
-   				        <td colspan="1" rowspan="1">November 3, 2017</td>
-   				        <td colspan="1" rowspan="1">November 4-17, 2017</td>
+   				        <td colspan="1" rowspan="1">April 13, 2019</td>
+   				        <td colspan="1" rowspan="1">March 8, 2018</td>
+   				        <td colspan="1" rowspan="1">March 25, 2019</td>
 			          </tr>
    				      <tr>
-   				        <td colspan="1" rowspan="1">February 10, 2018</td>
-   				        <td colspan="1" rowspan="1">January 12, 2018</td>
-   				        <td colspan="1" rowspan="1">January 13-19, 2018</td>
+   				        <td colspan="1" rowspan="1">June 8, 2019</td>
+   				        <td colspan="1" rowspan="1">May 3, 2019</td>
+   				        <td colspan="1" rowspan="1">May 20, 2019</td>
 			          </tr>
    				      <tr>
-   				        <td colspan="1" rowspan="1">April 14, 2018</td>
-   				        <td colspan="1" rowspan="1">March 9, 2018</td>
-   				        <td colspan="1" rowspan="1">March 10-23, 2018</td>
-			          </tr>
-   				      <tr>
-   				        <td colspan="1" rowspan="1">June 9, 2018</td>
-   				        <td colspan="1" rowspan="1">May 4, 2018</td>
-   				        <td colspan="1" rowspan="1">May 5-18, 2018</td>
-                      <tr>
-   				        <td colspan="1" rowspan="1">July 14, 2018</td>
-   				        <td colspan="1" rowspan="1">June 15, 2018</td>
-   				        <td colspan="1" rowspan="1">June 16-22, 2018</td>
+   				        <td colspan="1" rowspan="1">July 13, 2019</td>
+   				        <td colspan="1" rowspan="1">June 14, 2019</td>
+   				        <td colspan="1" rowspan="1">June 24, 2019</td>
 			          </tr>
 			        </tbody>
 			    </table>
