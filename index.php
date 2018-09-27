@@ -242,7 +242,7 @@ Notice: Visitors you can only enter through the main doors. All other doors are 
 
             <p>Remember to nominate you favorite senior for the Redmen Pride award!
                 <br>
-                <a href="https://docs.google.com/a/ironmail.org/forms/d/1IukIgxxmqY7-qt74baE53hPgpBTJ6J8kOeox-FCVb0I/edit" target="_blank">Redmen Pride Nomination Form</a>
+                <a href="https://drive.google.com/open?id=1ww2Of81I18FNnHnX7RTzq6uDAjOPL1CwvylZzAUjuRQ" target="_blank">Redmen Pride Nomination Form</a>
                 <br>
             </p>
         </div>
