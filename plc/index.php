@@ -16,13 +16,16 @@
 
 		<?php include("../assets/inc/navbar.php") ?>
         
+    <div class="container">
+        
+			<div class="row">
+    
         <?php include("../assets/inc/navlist.php") ?>
+
 
     	<!-- Let the container begin! -->
 
-		<div class="container">
-        
-			<div class="row">
+		
             
 			 	<div class="span9">		
 
