@@ -55,7 +55,7 @@
                 <a href="agenda/Community Council Agenda 10-6-15.pdf">Community Council Agenda 10-6-15</a><br>
     
     
-    <a href="agenda/Agenda12-1-15.pdf">Community Council Agenda 12-1-15</a><br>
+    <a href="https://drive.google.com/file/d/1znnNl4eqxe90Ztf8R3gUSBmtnyz-8uCp/view?usp=sharing">Community Council Agenda 12-1-15</a><br>
     
     <a href="agenda/Community Council Agenda 2-2-16.pdf">Community Council Agenda 2-2-16</a><br>
     
