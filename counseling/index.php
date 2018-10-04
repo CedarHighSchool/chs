@@ -229,11 +229,13 @@
 
    								<ul class="nav nav-list">
 
-   									<li><a href="http://my.uen.org/myuen/224006">Natasha Tebbs (A-Gl)</a></li>
+										<li><a href="http://my.uen.org/myuen/224006">Eric Hasemeyer (A-Br)</a></li>
 
-								  <li><a href="https://sites.google.com/a/ironmail.org/mr-parson-webpage/">Nick Parson (Go-Ne)</a></li>
+   									<li><a href="http://my.uen.org/myuen/224006">Natasha Tebbs (Bu-Hi)</a></li>
 
-								  <li><a href="https://sites.google.com/a/ironmail.org/jennifer-denhalter---counselor/">Jennifer Denhalter (Ni-Z)</a></li>
+								  <li><a href="https://sites.google.com/a/ironmail.org/mr-parson-webpage/">Nick Parson (Ho-Pe)</a></li>
+
+								  <li><a href="https://sites.google.com/a/ironmail.org/jennifer-denhalter---counselor/">Jennifer Denhalter (Ph-Z)</a></li>
 
 							  </ul>
 
@@ -242,8 +244,9 @@
                           
                         
    						</div>
-                        
                        
+<!--
+              
 							<div class= "span4">
 								
 								<div class="well">
@@ -258,7 +261,7 @@
 					            </h1>
 
 						  </div>
-
+/-->
 
 <div class="well">
                         	
