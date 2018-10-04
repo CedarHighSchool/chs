@@ -54,13 +54,13 @@
                 
                 <p><a href="schedule/index.php">Meeting Calendar</a></p>
                 
-                <p><a href="agenda">Agenda/Minutes</a></p>
+                <p><a href="../trustland/2014_2015/agenda/index.php">Agenda/Minutes</a></p>
                 
                 <p><a href="../2013_2014/TrustLandFinal13-14.pdf">Land Trust School Report 2013-2014</a></p>
                 
                 <p><a href="budget">2014-2015 Goals/Budget</a></p>
                 
-                <p><a href="http://www.schoollandtrust.org/schools/program-funding/?dist=Iron&school=Cedar+City+HI">School Land Trust Funding</a></p>
+               <!-- <p><a href="http://www.schoollandtrust.org/schools/program-funding/?dist=Iron&school=Cedar+City+HI">School Land Trust Funding</a></p> -->
 
   <p>&nbsp;</p>
 </div>

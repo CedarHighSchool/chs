@@ -50,9 +50,9 @@
 
 <div class="well" align=center>
 				
-                <p><a href="Minutes 03-13-2014.doc">03-13-2014</a></p>
+                <p><a href="https://drive.google.com/open?id=1PB1hn9qXPkoOu86qZtGm9R3U2cmlP3_C">Community Council Agenda 03-13-2014</a></p>
                 
-				<p><a href="Trust Land Minutes-112-4-2013.pdf">12-4-2013</a></p>
+				<p><a href="https://drive.google.com/open?id=14Js6Hik-k9E3vF6Un579jBiWgAW8iCXS">Community Council Agenda 12-4-2013</a></p>
 
   <p>&nbsp;</p>
 </div>

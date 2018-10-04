@@ -50,17 +50,17 @@
 
 <div class="well" align=center>
 
-				<p><a href="trustLandCommittee2013_14 - Copy.pdf">Council Members</a></p>
+				<p><a href="https://drive.google.com/open?id=1CcPvJLzTtFt1hN3iO46AxAKC2KXZLJlp">Council Members</a></p>
                 
-                <p><a href="">Proposed Meeting Calander</a></p>
+                <!--<p><a href="">Proposed Meeting Calander</a></p> -->
                 
-                <p><a href="agenda">Agenda/Minutes</a></p>
+                <p><a href="../trustland/2013_2014/agenda/index.php">Agenda/Minutes</a></p>
                 
-                <p><a href="trustLandCHS2012_2013FinalReport .pdf">Land Trust School Report 2012-2013</a></p>
+                <p><a href="https://drive.google.com/open?id=1mM6HewNZ55_e4AUBU3D0q_jnR_Vksvrf">Land Trust School Report 2012-2013</a></p>
                 
-                <p><a href="Budget Goals.pdf">2013-2014 Goals/Budget</a></p>
+                <p><a href="https://drive.google.com/open?id=1qruy2rxYCuB30dNH0OxD-sX5XNMtGCom">2013-2014 Goals/Budget</a></p>
                 
-                <p><a href="http://www.schoollandtrust.org/schools/program-funding/?dist=Iron&school=Cedar+City+HI">School Land Trust Fuding</a></p>
+               <!-- <p><a href="http://www.schoollandtrust.org/schools/program-funding/?dist=Iron&school=Cedar+City+HI">School Land Trust Fuding</a></p> -->
 
   <p>&nbsp;</p>
 </div>
