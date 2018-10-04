@@ -58,7 +58,7 @@
 				<p><a href="Community Council Agenda 12-3-14.pdf">Community Council Agenda 12-3-14</a></p>
 				<p><a href="Community Council Agenda 10-8-14.pdf">Community Council Agenda 10-8-14</a></p>
 				<p><h3>Minutes</h3></p>
-                <p><a href="Minutes 4-8-15">Minutes (Draft) 4-8-15</a>
+                <p><a href="https://drive.google.com/file/d/1Uy4GIMwVb8lKEQVf0qb4FClIod1Bl9DL/view?usp=sharing">Minutes (Draft) 4-8-15</a>
                 <p><a href="Minutes (Approved) 2-11-15.pdf">Minutes (Approved) 2-11-15</a>
                 <p><a href="Minutes(draft)2-11-15.pdf">Minutes (Draft) 2-11-15</a></p>
                 <p><a href="MinutesApproved1-14-15.pdf">Minutes (Approved) 1-14-15</a></a>
