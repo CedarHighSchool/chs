@@ -52,7 +52,7 @@
 				
                 <p>&nbsp;</p>
                 <p><a href="Minutes (draft) 12-3-14.pdf"></a><h3>Agenda</h3></p>
-                <p><a href="Community Council Agenda 4-8-15">Community Council Agenda 4-8-15</a>
+                <p><a href="https://drive.google.com/file/d/1bFLpuvc_Ncp_6l2DukyKNF6KRtwjzHF5/view?usp=sharing">Community Council Agenda 4-8-15</a>
                 <p><a href="CHS Community Council Agenda 2-11-15.pdf">CHS Community Council Agenda 2-11-15</a></p>
                 <p><a href="201501161332.pdf">Community Council Agenda 1-14-15</a></p>
 				<p><a href="Community Council Agenda 12-3-14.pdf">Community Council Agenda 12-3-14</a></p>
