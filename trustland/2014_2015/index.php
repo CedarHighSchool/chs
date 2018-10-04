@@ -52,7 +52,7 @@
 
 				<p><a href="2014-15 Council Members.pdf">Council Members</a></p>
                 
-                <p><a href="schedule/index.php">Meeting Calendar</a></p>
+                <p><a href="2015-15 Schedule.pdf">Meeting Calendar</a></p>
                 
                 <p><a href="../trustland/2014_2015/agenda/index.php">Agenda/Minutes</a></p>
                 
