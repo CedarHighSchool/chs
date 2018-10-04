@@ -131,19 +131,28 @@
                       
 			       			<div class="well">
    				            <h3>Dates to Remember</h3>
-   				            <UL>
-   				            <li>PSAT -   Wednesday, October 10,   2018		            </p>
-   				            <li>FAFSA Commpletion Night - December 4, 2017</li>
-   				            <li>No. Utah College Tour - Novemer 10-11, 2017   				            </p>
-   				            <li>College Application Week - November 13-17, 2018</li>
-   				            <li>ASVAB Test - December 5, 2017</li>
-   				            <li>ICSD Career Fair (juniors only)- December 15, 2017</li>
-                            <li> *Registration Week - January 30-31, 2017; February 5-9, 2018 </li>
-                             <li> *Diploma of Merit Applicatons due - February 9. 2018 </li>                           </li>
-                            <li>ACT for Juniors- February 27, 2018 (ACT Code 450-045)</li>
-   				           <li>*Scholarship Fair @ SUU - March 5, 2018</li>
-   				            <li>*Senior Awards Night - Monday, May 22, 2018 @ 6:00 p.m. (auditorium)
-   				            <li>Graduation - Wednesday, May 23, 2018</li>
+   				            <ul>
+   				            <li>PSAT -   Wednesday, October 10,   2018</li>
+   				            <li>End of Qtr. 1 - October 12, 2018</li>
+   				            <li>Sterling Scholar applications due - November 17, 2018</li>
+   				            <li>College Application Week - November 12-16, 2018</li>
+   				            <li>Priority Deadline SUU and most colleges - December 1, 2018</li>
+   				            <li>Financial Aid Night: FAFSA Completion Night - December 3, 2018</li>
+   				            <li>ASVAB Test (Jr. and Sr.) - December 5, 2017</li>
+   				            <li>ICSD Career Fair (Jrs. only)- December 15, 2017</li>
+   				            <li>FINAL deadline for BYU applications - December 15, 2018</li>
+   				            <li>End of Qtr 2 - December 20, 2018</li>
+   				            <li>Winter Break - December 21, 2018-January 2, 2019</li>
+                            <li>MLK day-No School - January 21, 2019</li>
+                            <li>Deadline for Applications to many Utah 4 year Institutions - February 1, 2019</li>
+                            <li>Spring CCR Week-Earl Out @ 1:30-No Late Start - February 4-8, 2019</li>
+                            <li> *Diploma of Merit Applicatons due - February 9, 2019 </li>
+                       			<li>Presidents's Day-No School - February 18, 2019</li>
+                            <li>ACT for Juniors- February 26, 2019 (ACT Code 450-045)</li>
+                            <li>Final Deadline for Scholarships for SUU - March 1, 2019</li>
+                            <li>End of Quarter 3 - March 6, 2019</li>
+   				            <li>*Senior Awards Night - Monday, May 20, 2019 @ 6:00 p.m. (auditorium)
+   				            <li>Graduation 5:00 PM  @ SUU Centrum - Wednesday, May 22, 2019</li>
    				            </ul>
                           
                           </div>
@@ -245,14 +254,17 @@
                         
    						</div>
                        
-<!--
+
               
 							<div class= "span4">
 								
+								<!--
 								<div class="well">
 									<h3><a href = "https://docs.google.com/presentation/d/1MxvAMK6DOpJXvpgEjTuvv41LTBEHbNsT4jC4HCp09gQ/edit?usp=sharing"> 10th Grade Registration </a></h3>
 							  	</div>
+							  		/-->
 									</div>
+								
    						<div class="span4">
 
    							<div class="well">
@@ -261,25 +273,19 @@
 					            </h1>
 
 						  </div>
-/-->
+
 
 <div class="well">
                         	
-                          <h3><span class=style9>CCR Fall Meeting</span></h3>
+                          <h2><span class=style9>CCR Fall Meeting</span></h2>
                             
-                            <h4>Google Drive- Click Present to show presentation<br>
+                            <h5>
                               <br>
-                              <a href="https://docs.google.com/presentation/d/1qPzTApkPV2UtlPMBNIvuLHW98-mxY764cg98Zdtd_Mw/edit?usp=sharing"target="_blank">Freshmen</a><br>
-                              <a href="https://docs.google.com/presentation/d/15WTYv9m82cWpMfa504-9lsBbdvfljOMK8XRp3x95VLU/edit?usp=sharing"target="_blank">Sophomore</a><br>
-                              <a href="https://docs.google.com/presentation/d/1DztHXMDvR_rVBFW3q9k5oP9ljSnAcHFWKtyzUAC_wV0/edit?usp=sharing"target="_blank">Junior</a><br>
-            <a href="https://docs.google.com/a/ironmail.org/presentation/d/19fjjnoq8-maWqEPOnN9LQjoIa4lLm4h3LC9gjoln_zU/edit?usp=sharing"target="_blank">Senior </a></h4>
-                            <h4><br>
-                              PowerPoint<a href="general/ccr/fall_ccr_freshman.pptx"><br>
-                            Freshmen</a><br>
-                              <a href="/general/ccr/fall_ccr_sophomore.pptx">Sophomore</a><br>
-                              <a href="/general/ccr/fall_ccr_junior.pptx">Junior</a><br>
-                              <a href="general/ccr/fall_ccr_seniors.pptx">Senior</a><br>
-                            </h4>
+                              <a href="https://docs.google.com/presentation/d/1Kz-Hgku4pIHFd2K98kb1NSpRPk9j8xJO27LTAJ2VrBs/edit?usp=sharing">Freshman/Sophomore Presentation</a><br>
+															<a href="https://docs.google.com/presentation/d/19_XcjHBmkFAWEMQTdMchc8mb9JRAxAYgqREA7CnBmng/edit?usp=sharing">Junior/Senior Presentation</a><br>
+                            </5>
+             
+                           
                                 
                      	</div><!--well-->
                         
