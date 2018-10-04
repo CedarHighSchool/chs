@@ -57,7 +57,7 @@
               <a href="CHS Community Council Agenda 1-9-18.pdf"> Community Council Agenda 1-19-18 </a> <br>
               <a href="CHS Community Council Agenda 3-6-18.pdf"> Community Council Agenda 3-6-18 </a> <br>
               <a href="CHS Community Council Agenda 3-28-18.pdf"> Community Council Agenda 3-28-18 </a> <br>
-              <a href="CHS Community Council Agenda 5-1-18.pdf"> Community Council Agenda 5-1-18 </a> <br>
+              <a href="https://drive.google.com/file/d/1N4au1GIuxUIPAvFPbrTRzYWqcAyXt2a7/view?usp=sharing"> Community Council Agenda 5-1-18 </a> <br>
   
                 <br>
                 <h3>Minutes</h3>
