@@ -62,7 +62,7 @@ if(!isset($_SESSION['username'])){
 						<div class="row-fluid">
 
 							<div class="well">
-								<h1><i class="fa fa-microchip"></i> Variables</h1>
+								<h1><i class="fa fa-microchip"></i> Areas</h1>
 							</div>
 							<div class="well">
 								<?php
