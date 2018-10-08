@@ -28,49 +28,9 @@
 
 				<?php include("../../assets/inc/navlist.php") ?>
 
+			
+				<?=area("cybercoreClubTop")?>
 				
-
-	   			<div class="span9">		
-
-	       			<div class="well">
-
-          				<h3><a href="./">Cyber Corps</a></h3>
-
-           			</div>
-
-         		</div>
-
-	
-
-				<div class="span2">	
-
-					<div class="thumbnail">				      		
-
-						<img src="cyber_corps.jpg" alt="thumbnail">
-						</div>
-
-				</div><br />
-
-					  
-
-				<div class="span4">
-
-			    	<div class="well">
-
-			      		<h3>Club Information</h3>
-
-			      		<p>We operate the technology of the school. You could say that we're the Stephen Hawkings of the Technology field. We only accept the best of the best so try and stand out. Submit a request to join if you're looking to join the elite group of technology nerds.
-			      		</p>
-
-			    	</div>
-
-			    	<div class="well">
-
-			      		<h3>How to Join</h3>
-
-			      		<p>If you are interested in joining Cyber Corps then contact Mr. Swallow. </p>
-
-			    	</div>
 						<?php if($GAME_UP == true) { ?>
 			    	<div class="well">
 
@@ -91,62 +51,8 @@
 			    	</div>
 			    	<?php } ?>
 
-				</div>
-
-		           			
-
-				<div class="span3">
-
-					<div class="well">
-
-						<h5>Advisor</h5>
-
-						<ul class="nav nav-list">
-
-							<li><a href="../../faculty/swallow-caleb/">Caleb Swallow</a></li>	
-
-			 		  </ul>
-
-				 	</div>
-
-					<div class="well">
-
-						<h5>Roster</h5>
-
-						<ul class="nav nav-list">
-						  <li>Cat</li>
-						  <li>Kaden</li>
-						  <li>Ethan</li>
-						  <li>Camden</li>
-						  <li>Summer</li>
-						  <li>Tyler</li>
-						  <li>Charles</li>
-						  <li>Alex</li>
-						 
-						</ul>
-
-			 	  </div>
-                  
-                  <div class="well">
-
-				 		<h5>Pages</h5>
-
-						<ul class="nav nav-list">
-
-							<li class="active"><a href="./">Home</a></li>
-
-							<li><a href="//chs.ironk12.org/game/">The Hunt</a></li>
-
-							<li><a href="//chs.ironk12.org/db/">Admin Login</a></li>
-
-							<!--<li><a href="request.php">Submit a Request</a></li>-->
-
-
-				 		</ul>
-
-					</div>
-
-				</div>
+				<?=area("cybercoreClubBottom")?>
+				
 
 			</div><!--/row-->
 
