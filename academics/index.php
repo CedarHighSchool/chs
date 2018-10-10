@@ -63,10 +63,15 @@
 		       			  </div>
                           <div class="well">
 
-		          				<h3>Mrs. Stubbs Window Hours		          				</h3>
+		          				<h3>Mrs. Stubbs Window Hours</h3>
 		          				<p>Tuesday<strong>-</strong>Friday from 7:30 am to 8:00 am<br>
 		          				  Monday-Friday from 11:00 am to 12:30 pm<br>
 		          				Monday-Friday from 2:40 pm - 3:15 pm</p>
+          				  </div>
+          				  <div class="well">
+          				  <h3 align="center">Denise Roberts</h3>
+		          				<p align="center"><strong>Testing Coordinator</strong><br>
+		          				  Contact at <a href="mailto:denise.roberts@ironmail.org">denise.roberts@ironmail.org</a> </p>
           				  </div>
 		           			<div class="well">
 		          				<h3 align="center">Cedar High App:</h3>
