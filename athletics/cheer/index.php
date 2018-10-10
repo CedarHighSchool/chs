@@ -129,9 +129,8 @@
 						<h5>Coaches</h5>
 
 						<ul class="nav nav-list">
-						  <p>Danna Esplin - Advisor<br>
-					      <a href="mailto:danna.esplin@ironmail.org">danna.esplin@ironmail.org </a></p>
-						  <p>Mallory Christison - Coach</p>
+						  <p>Mallory Christison - Coach<br>
+					      <a href="mailto:mallorymcbride@gmail.com">mallorymcbride@gmail.com </a></p>
 						  <li></li>	
 
 				 		    <li></li>

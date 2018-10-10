@@ -54,9 +54,9 @@
                                    	  <h4>Cheer</h4></div>
 		              			  	</div><!--end of item-->
 
-           			  				<div class="item"><img src="assets/img/Banner/HomePagePic4.jpg" alt=""></a>
+           			  				<div class="item"><img src="student/new/Untitled-3.jpg" alt=""></a>
                                     <div class="carousel-caption">
-                                      <h4>Graduation</h4> </div>
+                                      <h4>Football</h4> </div>
 									</div><!--end of item-->
 
 		            		  </div><!--inner carousel-->
