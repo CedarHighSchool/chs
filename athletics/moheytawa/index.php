@@ -143,10 +143,10 @@
 
 							<li></li>	
 
-			 		      <li>Janene McCurdy</li>
-					      <li><a href="mailto:janene.mccurdy@ironmail.org">janene.mccurdy@ironmail.org</a></li>
-                          <li>Britney Whitney</li>
-                          <li>Caitlin Meinor</li>
+			 		      <li>Lindsay Clark</li>
+					      <li><a href="mailto:lindsay.clark@ironmail.org">lindsay.clark@ironmail.org</a></li>
+                          <li>Camille Topham</li>
+                         
 						</ul>
 	 	          </div>
 
