@@ -180,6 +180,13 @@
                 }
                 ?>
                 <div class="well">
+                    <h1><strong>Class Questions</strong></h1>
+                    <p><a href="https://docs.google.com/forms/d/1ZGDArGT6JuWNDtA4jaSYEVPJDxfyn1_2r3QK56xISyg/viewform?edit_requested=true">Freshman Class Questions</a></p>
+                    <p><a href="https://docs.google.com/forms/d/1-QvFW8MeuqgGIiRtbVLSB1_45cy9zEuLYcpuCEPe7r4/viewform?edit_requested=true">Sophomore Class Questions</a></p>
+                    <p><a href="https://docs.google.com/forms/d/1VUBnZCrysOXllMOtuQAcISAtz6sA4QnjkcLVeSDUzz8/viewform?edit_requested=true">Junior Class Questions</a></p>
+                    <p><a href="https://docs.google.com/forms/d/1JWxQIBf-bRSDyi8Un3JEV8VGB6WthRrwStdvhEfyvKI/viewform?edit_requested=true">Senior Class Questions</a></p>
+                </div>
+                <div class="well">
                     <?=area("ccr_box")?>
                 </div>
                 <div class="well">
