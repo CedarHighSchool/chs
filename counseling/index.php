@@ -150,7 +150,7 @@
                             <li>MLK day-No School - January 21, 2019</li>
                             <li>Deadline for Applications to many Utah 4 year Institutions - February 1, 2019</li>
                             <li>Spring CCR Week-Early Out @ 1:30-No Late Start - February 4-8, 2019</li>
-                            <li> *Diploma of Merit Applicatons due - February 9, 2019 </li>
+                            <li> *Diploma of Merit Applicatons due - February 15, 2019 </li>
                        			<li>Presidents's Day-No School - February 18, 2019</li>
                             <li>ACT for Juniors- February 26, 2019 (ACT Code 450-045)</li>
                             <li>Final Deadline for Scholarships for SUU - March 1, 2019</li>
