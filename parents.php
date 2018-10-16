@@ -188,9 +188,31 @@
 
                           <div class="well">
    				            
-			                <h3>Dates to Remember 2018-2019                             </h3>
-			                <p>Homecoming Week - September 10-15<br>Homecoming Dance - September 15<br>
-			                CCR Week - October 1-5<br>End of First Term - October 14<br>Harvest Holiday - October 22</p>
+			                <h3>Dates to Remember 2018-2019</h3>
+			                <ul>
+			                <li>PSAT -   Wednesday, October 10,   2018</li>
+   				            <li>End of Qtr. 1 - October 12, 2018</li>
+   				            <li>Sterling Scholar applications due - November 2, 2018</li>
+   				            <li>College Application Week - November 12-16, 2018</li>
+   				            <li>Priority Deadline SUU and most colleges - December 1, 2018</li>
+   				            <li>Financial Aid Night: FAFSA Completion Night - December 3, 2018</li>
+   				            <li>ASVAB Test (Jr. and Sr.) - December 5, 2017</li>
+   				            <li>ICSD Career Fair (Jrs. only)- December 15, 2017</li>
+   				            <li>FINAL deadline for BYU applications - December 15, 2018</li>
+   				            <li>ICSD Career Fair (Jrs. only)- December 17, 2018</li>
+   				            <li>End of Qtr 2 - December 20, 2018</li>
+   				            <li>Winter Break - December 21, 2018-January 1, 2019</li>
+                            <li>MLK day-No School - January 21, 2019</li>
+                            <li>Deadline for Applications to many Utah 4 year Institutions - February 1, 2019</li>
+                            <li>Spring CCR Week-Early Out @ 1:30-No Late Start - February 4-8, 2019</li>
+                            <li> *Diploma of Merit Applicatons due - February 15, 2019 </li>
+                       			<li>Presidents's Day-No School - February 18, 2019</li>
+                            <li>ACT for Juniors- February 26, 2019 (ACT Code 450-045)</li>
+                            <li>Final Deadline for Scholarships for SUU - March 1, 2019</li>
+                            <li>End of Quarter 3 - March 8, 2019</li>
+   				            <li>*Senior Awards Night - Monday, May 20, 2019 @ 6:00 p.m. (auditorium)
+   				            <li>Graduation 5:00 PM  @ SUU Centrum - Wednesday, May 22, 2019</li>
+   				            </ul>
 			              </div><!--well-->
                            
    				           <div class="well">
