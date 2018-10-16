@@ -190,7 +190,7 @@
    				            
 			                <h3>Dates to Remember 2018-2019</h3>
 			                <ul>
-			                <li>PSAT -   Wednesday, October 10,   2018</li>
+			                <li>PSAT -  Wednesday, October 10,   2018</li>
    				            <li>End of Qtr. 1 - October 12, 2018</li>
    				            <li>Sterling Scholar applications due - November 2, 2018</li>
    				            <li>College Application Week - November 12-16, 2018</li>
