@@ -144,16 +144,17 @@
    				            <li>ASVAB Test (Jr. and Sr.) - December 5, 2017</li>
    				            <li>ICSD Career Fair (Jrs. only)- December 15, 2017</li>
    				            <li>FINAL deadline for BYU applications - December 15, 2018</li>
+   				            <li>ICSD Career Fair (Jrs. only)- December 17, 2018</li>
    				            <li>End of Qtr 2 - December 20, 2018</li>
-   				            <li>Winter Break - December 21, 2018-January 2, 2019</li>
+   				            <li>Winter Break - December 21, 2018-January 1, 2019</li>
                             <li>MLK day-No School - January 21, 2019</li>
                             <li>Deadline for Applications to many Utah 4 year Institutions - February 1, 2019</li>
-                            <li>Spring CCR Week-Earl Out @ 1:30-No Late Start - February 4-8, 2019</li>
+                            <li>Spring CCR Week-Early Out @ 1:30-No Late Start - February 4-8, 2019</li>
                             <li> *Diploma of Merit Applicatons due - February 9, 2019 </li>
                        			<li>Presidents's Day-No School - February 18, 2019</li>
                             <li>ACT for Juniors- February 26, 2019 (ACT Code 450-045)</li>
                             <li>Final Deadline for Scholarships for SUU - March 1, 2019</li>
-                            <li>End of Quarter 3 - March 6, 2019</li>
+                            <li>End of Quarter 3 - March 8, 2019</li>
    				            <li>*Senior Awards Night - Monday, May 20, 2019 @ 6:00 p.m. (auditorium)
    				            <li>Graduation 5:00 PM  @ SUU Centrum - Wednesday, May 22, 2019</li>
    				            </ul>
