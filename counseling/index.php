@@ -86,6 +86,8 @@
              
              		<!-- Wells --> 
              		
+                            <!-- 
+                            
                             <div class="well">
 
 		          				<h3><a href="http://cedarhighcounseling.weebly.com/">Counseling Website</a><br>
@@ -93,13 +95,14 @@
 
            				  </div>
            				  
+           				  -->
            				  	   				
            				  	   				
 <div class="well">
         
 	<h3><span class="style9"><a href="https://docs.google.com/document/d/1XiHJKaeIVWN_VNsRQSAVAAdKlm83qTo5f0D7y3Fse64/edit">Scholarships</a></span></h3>
     	<p>Scholarship opportunities are now becoming available. Please check the counseling office often for information. Here are just a few: </p>
-    	<p>We here at VapingDaily.com are excited to offer $6,000 in scholarships every year to three people who sare the issue on the hazards of smoking. The application is free and beings July 10, 2017. For more information, visit the website by<a href="https://vapingdaily.com/scholarship/"target="_blank"> clicking here</a>.</p>
+    	<p>We here at VapingDaily.com are excited to offer $6,000 in scholarships every year to three people who share the issue on the hazards of smoking. The application is free and beings July 10, 2017. For more information, visit the website by<a href="https://vapingdaily.com/scholarship/"target="_blank"> clicking here</a>.</p>
     </p>
 </div>   
  
@@ -134,7 +137,7 @@
    				            <ul>
    				            <li>PSAT -   Wednesday, October 10,   2018</li>
    				            <li>End of Qtr. 1 - October 12, 2018</li>
-   				            <li>Sterling Scholar applications due - November 17, 2018</li>
+   				            <li>Sterling Scholar applications due - November 2, 2018</li>
    				            <li>College Application Week - November 12-16, 2018</li>
    				            <li>Priority Deadline SUU and most colleges - December 1, 2018</li>
    				            <li>Financial Aid Night: FAFSA Completion Night - December 3, 2018</li>
@@ -238,7 +241,7 @@
 
    								<ul class="nav nav-list">
 
-										<li><a href="http://my.uen.org/myuen/224006">Eric Hasemeyer (A-Br)</a></li>
+										<li>Eric Hasemeyer (A-Br)</li>
 
    									<li><a href="http://my.uen.org/myuen/224006">Natasha Tebbs (Bu-Hi)</a></li>
 
