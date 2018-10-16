@@ -107,7 +107,8 @@
 
 						  <li><a href="https://docs.google.com/document/d/126YfylyNHrAiydPMnxQO4p3x-gLh17OiQJAh5FFrypE/edit?usp=sharing">Roster</a></li>
 
-						  <li><a href="gallery.php">Pictures</a></li>
+						  <li><a href="gallery.php">Pictures by Ms. Brinkerhoff</a></li>
+						  <li><a href="https://chstfcc.weebly.com/multimedia.html">Pictures by Coach Davidson</a></li>
 						  <li><a href="https://docs.google.com/document/d/1tcyqQlVl0LyGVaqQyrknTw1TNI-NW0rbs_TIes-nwjA/edit?usp=sharing">Records</a></li>
 						  <li><a href="http://www.uhsaa.org/track/">UHSAA Track</a></li>
 						 <li><a href="http://chstfcc.weebly.com/">Website-Track</a></li>					
@@ -119,7 +120,7 @@
                     <div class="well">
 
 						<h5>Coaches</h5>
-						<p>Josh Bennett:</br><a href="mailto:josh.bennett@ironmail.org">josh.bennett@ironmail.org</p>
+						<p>James Davidson:</br><a href="mailto:james.davidson@ironmail.org">james.davidson@ironschools.org</p>
 				  
 
 						<p>Robert Corry:</br>

@@ -125,7 +125,8 @@
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1ZCqjRlljJovlCPO3ieuaa-X10womMoMmZF_P49a87ZY/edit">Roster</a></li>
 						  <li><a href="http://www.uhsaa.org/xc/">UHSAA Cross Country</a></li>
 
-							<li><a href="gallery.php">Pictures</a></li>
+							<li><a href="gallery.php">Pictures by Ms. Brinkerhoff</a></li>
+							<li><a href="https://chstfcc.weebly.com/multimedia.html">Pictures by Coach Davidson</a></li>
 							<li><a href="http://chstfcc.weebly.com/">Cross Country Website</a></li>		
 
 				 		</ul>

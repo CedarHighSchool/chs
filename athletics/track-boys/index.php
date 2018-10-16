@@ -106,7 +106,8 @@
 
 						  <li><a href="https://drive.google.com/file/d/1gKU1SLhgRIU-ml2jkgq6PAbuVTRXkNhs/view?usp=sharing">Roster</a></li>
 
-						  <li><a href="gallery.php">Pictures</a></li>
+						  <li><a href="gallery.php">Pictures by Ms. Brinkerhoff</a></li>
+						  <li><a href="https://chstfcc.weebly.com/multimedia.html">Pictures by Coach Davidson</a></li>
 						  <li><a href="http://www.uhsaa.org/track/">UHSAA Track</a></li>
                           <li><a href="http://chstfcc.weebly.com/">Website-Track</a></li>				
 
