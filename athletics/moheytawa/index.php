@@ -104,7 +104,7 @@
 
 			      		<h3>About</h3>
 
-			      		<p>Mohey is the Cedar High drill team. The season for drill team starts in March after tryouts and concludes after state competition usually in February. For more information contact Coach McCurdy.</p>
+			      		<p>Mohey is the Cedar High drill team. The season for drill team starts in March after tryouts and concludes after state competition usually in February. For more information contact Coach Clark.</p>
 
 	      		  </div>
 
