@@ -340,15 +340,6 @@
                                         </dl>
                                         
                                         <dl>
-                                             <dt>Precision Development Inc.</dt>
-                                                <dd>
-                                                    <ul>
-                                                        <li><a href="http://www.precisiondevelopmentinc.net/" target="_blank">http://www.precisiondevelopmentinc.net/</a></li>
-                                                    </ul>
-                                                </dd>
-                                        </dl>
-                                        
-                                        <dl>
                                              <dt>State Farm Cardon Insurance Agency</dt>
                                                 <dd>
                                                     <ul>
