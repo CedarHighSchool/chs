@@ -49,7 +49,7 @@
 
 	              			<div class="item active">
 
-	                			<img src="banner/Varsity Football.jpg" alt="">	              			</div>
+	                			<img src="banner/VarsityFootball.png" alt="">	              			</div>
 
 <div class="item">
 
