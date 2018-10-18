@@ -188,9 +188,9 @@
    <LI><a href="http://www.scholarships.com/">Scholarships.com</a>
    <LI><a href="http://scholarplan.org/student-resources/scholarships/scholarship-database/">Scholarship Database</a>   
    <LI><a href="http://www.shmoop.com/">Shmoop.com</a>
-   <LI><a href="http://www.successacademy.org/SUUScholarships.html">Success Acadamy Scholar</a>
+   <LI><a href="http://www.successacademy.org/SUUScholarships.html">Success Academy Scholar</a>
    <LI><a href="http://scholarplan.org/colleges/utah-college-directory/">Utah Colleges Directory  </a>   
-   <LI><a href="https://www.utahfutures.org/Portal.aspx">Utah Futures</a>
+   <LI><a href="https://www.utahfutures.org/">Utah Futures</a>
    
    <LI><a href="img/pathways.jpg">Pathway</a><li><a href="http://www.universitytutor.com/scholarship-contest"target="_blank">University Tutor </a>($1000 monthly contest requiring submitted essay in response to prompt)
    </UL>

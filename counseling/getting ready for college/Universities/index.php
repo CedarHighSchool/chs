@@ -56,13 +56,13 @@
 
 			      		<h3><a href="http://home.byu.edu/home/">Brigham Young University</a><br>
 
-			      		  <a href="http://www.ceu.edu/">College of Eastern Utah</a><br>
+			      		  <a href="https://usueastern.edu/">Utah State University Eastern</a><br>
 
 		      		      <a href="http://www.dixie.edu/">Dixie State College</a><br>
 
-	      		          <a href="http://www2.itt-tech.edu/">ITT Technical Institute</a><br>
+	      		          <a href="http://itt-tech.info/">ITT Technical Institute</a><br>
 
-      		              <a href="http://www.ldsbc.edu/">LDS</a> Business College<br>
+      		              <a href="http://www.ldsbc.edu/">LDS Business College</a><br>
 
    		                  <a href="http://www.provocollege.edu/">Provo College</a><br>
 
