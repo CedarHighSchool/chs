@@ -160,7 +160,7 @@ if($patty) {
 								<?php if($cuser['admin'] == 1){ ?>
 								<li><a href="<?=$url?>adminer.php?username=chscyberweb" target="_blank"><i class="fa fa-database"></i> DB Admin</a></li>
 								<?php } ?>
-								<li><a href="http://chsdev.irondistrict.org/" target="_blank"><i class="fa fa-terminal"></i> Dev Site</a></li>
+								<li><a href="http://chsdev.irondistrict.org/db" target="_blank"><i class="fa fa-terminal"></i> Dev Site</a></li>
 								<li class="divider"></li>
 								<li><a href="<?=$url?>db/passreset.php"><i class="fa fa-key"></i> Reset Password</a></li>
 								<li><a href="<?=$url?>db/logout.php"><i class="fa fa-sign-out"></i> Log Out</a></li>
