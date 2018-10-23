@@ -39,7 +39,7 @@ if($patty) {
 
   					<li <?php if ($thisPage=="home") echo " class=\"active\""; ?>><a href="/">Home</a></li>
 
-  					<li <?php if ($thisPage=="students") echo " class=\"active\""; ?>><a href="/students.php">Students</a></li>
+  					<li <?php if ($thisPage=="students") echo " class=\"active\""; ?>><a href="/student.php">Students</a></li>
 
   					<li <?php if ($thisPage=="parents") echo " class=\"active\""; ?>><a href="/parents.php">Parents</a></li>
 
