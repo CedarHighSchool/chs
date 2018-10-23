@@ -162,15 +162,24 @@
    	<div class="span8 new">
           
        <div class="well well-small">
-           <h3>Conseling</h3>
+           <h3>Counseling</h3>
        </div>
               
 	   <div class="thumbnails">
 	   <div class="thumbTop">
+	     
+	     		  <li class="span2">
+	     		    
+              <img src="staffpic/placeholder_man.jpg" alt="" />
+              <div class="imglabel"><p>Eric Hasemeyer (A-Br)</p></div>
+              <div class="imglabel"><p>School Counselor</p></div>
+            </a>
+          </li>	 
+          
 		  <li class="span2">
             <a href="mailto:debbie.slaugh@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt>
-              <div class="imglabel"><p>Natasha Tebbs (A-Gi)</p></div>
+              <div class="imglabel"><p>Natasha Tebbs (Bu-Hi)</p></div>
               <div class="imglabel"><p>School Counselor</p></div>
             </a>
           </li>	 
@@ -178,7 +187,7 @@
           <li class="span2">
             <a href="mailto:bonnie.matheson@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_man.jpg" alt="" />
-              <div class="imglabel"><p>Nick Parson (Go-Ne)</p></div>
+              <div class="imglabel"><p>Nick Parson (Ho-Pe))</p></div>
               <div class="imglabel"><p>School Counselor</p></div>
             </a>
           </li>
@@ -186,7 +195,7 @@
           <li class="span2">
             <a href="mailto:cindy.larson@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt="" />
-              <div class="imglabel"><p>Jennifer Denhalter (Ni-Z)</p></div>
+              <div class="imglabel"><p>Jennifer Denhalter (Ph-Z)</p></div>
               <div class="imglabel"><p>School Counselor</p></div>
             </a>
           </li>
