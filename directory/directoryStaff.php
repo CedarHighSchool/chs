@@ -169,7 +169,7 @@
 	   <div class="thumbTop">
 	     
 	     		  <li class="span2">
-	     		    
+	     		    <a href="mailto:debbie.slaugh@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_man.jpg" alt="" />
               <div class="imglabel"><p>Eric Hasemeyer (A-Br)</p></div>
               <div class="imglabel"><p>School Counselor</p></div>
