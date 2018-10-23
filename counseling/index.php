@@ -242,7 +242,7 @@
 
    								<ul class="nav nav-list">
 
-										<li><a href="mailto:eric.hasemeyer@ironmail.org"Eric Hasemeyer (A-Br)</li>
+										<li><a href="mailto:eric.hasemeyer@ironmail.org">Eric Hasemeyer (A-Br)</a></li>
 
    									<li><a href="http://my.uen.org/myuen/224006">Natasha Tebbs (Bu-Hi)</a></li>
 
