@@ -55,6 +55,19 @@
                                 K. Einfeldt<strong>
                               </strong>
                           </div>
+                          
+                      <div class="well">
+                              <p align="center"><strong>
+                              <h3 align="center"><strong>Congratulations to October Winners 2018</strong></h3>
+</strong>
+                              <p align="center">C. Kucifer<br>
+                                D. Bishop<br>
+                                C. Allen<br>
+                                A. Beraja<br>
+                                K. Alvarez<br>
+                                D. Boyd<br><strong>
+                              </strong>
+                          </div>
               				<!--well-->
                     </div><!--span8-->
                     </p>
