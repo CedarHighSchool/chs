@@ -118,7 +118,7 @@
 	          				    <a href="https://docs.google.com/document/d/18X4cg-vc6sDScaL8S6QNFKwBwnJbwAiZjMW_uwdeg_0/edit"target="_blank">Graduation Requirements</a><br>
 	          				    <a href="../general/tonys educ 2000 flyer.pdf">Interested in Being a Teacher?</a><br>
 	          				    <a href="201504091210.pdf">College Index</a><br>
-	          				    <a href="Diploma of Merit main.doc">Dipoma of Merit</a><br>
+	          				    <a href="">Diploma of Merit</a><br>
 	          				    <a href="https://icsd4237-chs-ccl.v2.gradpoint.com/"target="_blank">Gradpoint Link</a><br>
        				      <a href="img/pathways.jpg"target="_blank">CTE Pathways</a>			              </div> 
                           
@@ -242,7 +242,7 @@
 
    								<ul class="nav nav-list">
 
-										<li>Eric Hasemeyer (A-Br)</li>
+										<li><a href="mailto:eric.hasemeyer@ironmail.org"Eric Hasemeyer (A-Br)</li>
 
    									<li><a href="http://my.uen.org/myuen/224006">Natasha Tebbs (Bu-Hi)</a></li>
 
