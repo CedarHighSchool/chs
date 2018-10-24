@@ -53,11 +53,11 @@
 
 <div class="item">
 
-	                			<img src="banner/2016OFF.jpg" alt="">	              			</div>
+	                			<img src="banner/2018FootballSeniors.png" alt="">	              			</div>
 
 <div class="item">
 
-	                			<img src="banner/JV Football.jpg" alt="">	              			</div>
+	                			<img src="banner/2018FootballSeniors2.png" alt="">	              			</div>
 
 	<div class="item">					<img src="banner/Power Lifting.jpg" alt="">	              			</div>
 
