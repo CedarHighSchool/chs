@@ -209,7 +209,7 @@
 
 											<li></li>
 											<li></li>
-											<li><a href="faculty/gallis-sandy/index.php">Sandy Gallis</a></li>
+											<li><a href="faculty/bobbie-leavitt/index.php">Bobbie Leavitt</a></li>
 											<li><a href="directory/directoryStaff.php">Cheryl Loveless</a></li>
 											<li></li>
 										</ul>
