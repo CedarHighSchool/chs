@@ -135,7 +135,7 @@
 			      		<h3>Practice Schedule</h3>
 
 			      		<p>
-			      			For the 2016-17 pre-season workout schedule and information on basketball tryouts  <a href="https://drive.google.com/open?id=0By-slPX4qXtLMnZfUjRmQmRycW4yOUFBSU02WmYzeU9PTEVJ"target="_blank">click here</a>.	  </p>
+			      			For the 2016-17 pre-season workout schedule and information on basketball tryouts  <a href="https://drive.google.com/open?id=1CUOTAAGlJ4Qxe_MVaa96kunQ1ceMJ1ev"target="_blank">click here</a>.	  </p>
 </div>
 		    </div>
 
