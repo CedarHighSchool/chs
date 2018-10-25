@@ -180,7 +180,7 @@
 
 		          				<h3>Helpful Links</h3>
 		          				<p><a href="http://www.jostens.com/?gclid=CPCQj9XNrMoCFYqGfgodV20PEg"target="_blank">Jostens</a> (for class rings, caps and gowns, letterman jackets)<br>
-		          			<a href="general/April 2014 Concurrent Enrollment Newsletter.docx">Concurrent Enrollment 2015</a>
+		          			<a href="suu.edu/concurrent">Concurrent Enrollment</a>
 	          				 <br><a href="general/tonys educ 2000 flyer.pdf">Interested in Becoming a Teacher?</a></p>
 		          			
                                 
@@ -188,16 +188,15 @@
 
                           <div class="well">
    				            
-			                <h3>Dates to Remember 2018-2019</h3>
-			                <ul>
-			                <li>PSAT -  Wednesday, October 10,   2018</li>
+			                <h3>Dates to Remember</h3>
+   				            <ul>
+   				            <li>PSAT -   Wednesday, October 10,   2018</li>
    				            <li>End of Qtr. 1 - October 12, 2018</li>
    				            <li>Sterling Scholar applications due - November 2, 2018</li>
    				            <li>College Application Week - November 12-16, 2018</li>
    				            <li>Priority Deadline SUU and most colleges - December 1, 2018</li>
    				            <li>Financial Aid Night: FAFSA Completion Night - December 3, 2018</li>
-   				            <li>ASVAB Test (Jr. and Sr.) - December 5, 2017</li>
-   				            <li>ICSD Career Fair (Jrs. only)- December 15, 2017</li>
+   				            <li>ASVAB Test (Jr. and Sr.) - December 4, 2018</li>
    				            <li>FINAL deadline for BYU applications - December 15, 2018</li>
    				            <li>ICSD Career Fair (Jrs. only)- December 17, 2018</li>
    				            <li>End of Qtr 2 - December 20, 2018</li>
@@ -213,6 +212,7 @@
    				            <li>*Senior Awards Night - Monday, May 20, 2019 @ 6:00 p.m. (auditorium)
    				            <li>Graduation 5:00 PM  @ SUU Centrum - Wednesday, May 22, 2019</li>
    				            </ul>
+                          
 			              </div><!--well-->
                            
    				           <div class="well">

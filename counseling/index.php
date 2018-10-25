@@ -141,8 +141,7 @@
    				            <li>College Application Week - November 12-16, 2018</li>
    				            <li>Priority Deadline SUU and most colleges - December 1, 2018</li>
    				            <li>Financial Aid Night: FAFSA Completion Night - December 3, 2018</li>
-   				            <li>ASVAB Test (Jr. and Sr.) - December 5, 2017</li>
-   				            <li>ICSD Career Fair (Jrs. only)- December 15, 2017</li>
+   				            <li>ASVAB Test (Jr. and Sr.) - December 4, 2018</li>
    				            <li>FINAL deadline for BYU applications - December 15, 2018</li>
    				            <li>ICSD Career Fair (Jrs. only)- December 17, 2018</li>
    				            <li>End of Qtr 2 - December 20, 2018</li>

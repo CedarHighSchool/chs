@@ -33,21 +33,21 @@
                                 <hr />
                                 
                             	<ul class="nav nav-list">
-                                    <li><a href="https://docs.google.com/document/d/1gdZ7CeycC62G2wcUI2qMGMn9MNLkKyS-nvEZszXs1HI/edit?usp=sharing">Career & Technical Education (Applied Technology)</a></li>
-                                    <li><a href="https://docs.google.com/document/d/18fvK9RHlsikpcis4OvDTJD1MwiekEsII6bOg3adnSFM/edit?usp=sharing">Computer Technology (Information Technology)</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1ElekEMC-M5vi_l18wBRDe01zH3xAwrrnluM4xG_wigE/edit?usp=sharing">Elective</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1YHqMwZrXd-6F2RRRPenH7GGzFn-Mw1J0vggNzr1eiKU/edit?usp=sharing">English Language Learning</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1aphwKesdgfoxbQW__bpUMKZihZvF8PEP8W_ScRWxQzU/edit?usp=sharing">Financial Literacy</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1XkxNXlJtce8FmLM1PPNWOe1J5g4IK5azvcfyI9QzVS4/edit?usp=sharing">Fine Art</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1cIL74s7VSEQDgXBeS4TrJKhxavgVz1P8_jzjtlcjN44/edit?usp=sharing">Foreign Languages</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1hQ76k7IK8O9_vz4tPNNQpjaVxygUYjr8Mc3Wzx165dM/edit?usp=sharing">Language Arts</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1G94VQKLhC_w8Z7JN8OORykgfHH5FUxedfy7g5GRplws/edit?usp=sharing">Mathematics</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1ZgdYvCZtYQtBPjcl-khyQDQcyMvzZkIKPh6aVwgTjKk/edit?usp=sharing">Physical Education</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1Ke6neiM26zLB06hpfVebo6Br_EZDObKTH9rXPRQvvBE/edit?usp=sharing">School Release</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1eM27EFslGjRySLMH5mSuQcdIaZsvAyNatop9x-Avkq4/edit?usp=sharing">Science</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1rNikGbc4E6fpvgDjGLpDbTWOlOS5NXZt5YqPtQe5Vhk/edit?usp=sharing">Social Studies</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1zQcnSynkSvd0szPz_kRBlbT7CuDOBSIyMFiUK5rqQpI/edit?usp=sharing">Career & Technical Education (Applied Technology)</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1AXCPFf0qJnh9nEHl0zRFZehvy_zzw-FoPHiJ_GwYLww/edit?usp=sharing">Computer Technology (Information Technology)</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1h_dhfJgJwZyUX4I9JMtkRk7FumArqNorfVEjYae7oJI/edit?usp=sharing">Elective</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1AYA8E10ARHEzKTsRBzjRPwAP20Tnts-l5U9xA7xkbmY/edit?usp=sharing">English Language Learning</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1o8UVnaTKrtoBXhudiI9rH-RBAc2YWpLmCdPFdZpq_QA/edit?usp=sharing">Financial Literacy</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1EZZUN3EkiLsRAE_AO3LUSUBmAB0TZ2zApZIzH6aJ4uo/edit?usp=sharing">Fine Art</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1Kp3DTKWJnmVjuW_AjcPUSqcrEJFN-qlEpAWD21VCA0Y/edit?usp=sharing">Foreign Languages</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1swhSeQ7QdepRmY6Yq-6__h70NbtADm4-70FeIosnULk/edit?usp=sharing">Language Arts</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1EQ84o4VCDVSRpyESq8xnLGK5E7-sUO9rfGhQNKxkOzU/edit?usp=sharing">Mathematics</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1Zb4TW8-1rPXS7Ko6jOZvu4Hl67bBnD2cUyCekD5UtFU/edit?usp=sharing">Physical Education</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1UikDsrTIzinCswAK83h8wXemN3lp8704QZv7phL-YOQ/edit?usp=sharing">School Release</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1kgKv_B4YAlyHb4CW8LuJYpk9Td_OyesRT7GfFriYHEk/edit?usp=sharing">Science</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1myh1LtQZxOef20URT2lxULA82Sz3HVQgp9tfCgoMKYs/edit?usp=sharing">Social Studies</a></li>
                                     <li><a href="http://swatc.edu/wp-content/uploads/2017/01/SWATC-Course-Descriptions-2017-2018.pdf">Southwest Technical College</a></li>
-                                    <li><a href="https://docs.google.com/document/d/1mcwC4EaoFcdeSKwjjFqDldIXi-VXocZ7xNQchNa9bmQ/edit?usp=sharing">Special Courses</a></li>
+                                    <li><a href="https://docs.google.com/document/d/1d_paUcHE5p_z3YbSsCIO9MjeJyLWJK6kG_kQxauE1vQ/edit?usp=sharing">Special Courses</a></li>
                                 </ul>
                             </div>
                         </div>
