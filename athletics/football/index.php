@@ -46,7 +46,7 @@
 	       			<div id="myCarousel" class="carousel slide">
 
 	            		<div class="carousel-inner">
-
+<!-- Alexander Beraja was here 2018 -->
 	              			<div class="item active">
 
 	                			<img src="banner/VarsityFootball.png" alt="">	              			</div>
