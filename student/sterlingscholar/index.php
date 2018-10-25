@@ -54,28 +54,28 @@
                         <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Kylie_Stubbs_Agriculture_Science.jpg" alt="" />
-                <div class="imglabel">Kylie Stubbs</div>
+                <div class="imglabel">Martha Thompson</div>
                 <div class="imglabele">Agricultural Science</div>
               </a>
             </li>
                         <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Brooklyn_Messer_Buisness_and_Marketing.jpg" alt="" />
-                <div class="imglabel">Brooklyn Messer</div>
+                <div class="imglabel">Emily Osborn</div>
                 <div class="imglabele">Business and Marketing</div>
               </a>
             </li>
                         <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Felix_Weingartner_Computer_Science.jpg" alt="" />
-                <div class="imglabel">Felix Weingartner</div>
+                <div class="imglabel">Joshua Anderson</div>
                 <div class="imglabele">Computer Science</div>
               </a>
             </li>
                         <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Emma_Webster_Dance.jpg" alt="" />
-                <div class="imglabel">Emma Webster</div>
+                <div class="imglabel">Lexi Heaton</div>
                 <div class="imglabele">Dance</div>
               </a>
             </li>
@@ -83,14 +83,14 @@
             <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Chris_Holdsworth_English.jpg" alt="" />
-                <div class="imglabel">Chris Holdsworth</div>
+                <div class="imglabel">Jessica Lunt</div>
                 <div class="imglabele">English</div>
               </a>
             </li>
                         <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Kara_Bachman_Family_and_Consumer_Science.jpg" alt="" />
-                <div class="imglabel">Kara Bachman</div>
+                <div class="imglabel">Katelyn Gross</div>
                 <div class="imglabele">Family &amp; Consumer Science</div>
               </a>
             </li>
@@ -98,7 +98,7 @@
                         <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Hannah_Webb_General.jpg" alt="" />
-                <div class="imglabel">Hannah Webb</div>
+                <div class="imglabel">Caleb Weaver</div>
                 <div class="imglabele">General Scholar</div>
               </a>
             </li>
@@ -106,7 +106,7 @@
             			<li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Abbigail_Allen_Mathematics.jpg" alt="" />
-                <div class="imglabel">Abbigail Allen</div>
+                <div class="imglabel">Lyle Prince</div>
                 <div class="imglabele">Mathematics</div>
               </a>
             </li>
@@ -114,7 +114,7 @@
                         <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Hannah_Grace_Klassen_Music.jpg" alt="" />
-                <div class="imglabel">Hannah Grace</div>
+                <div class="imglabel">Hannah Bradshaw</div>
                 <div class="imglabele">Music</div>
               </a>
             </li>
@@ -122,7 +122,7 @@
                         <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Candice_Taylor_Science.jpg" alt="" />
-                <div class="imglabel">Candice Taylor</div>
+                <div class="imglabel">Abby Brown</div>
                 <div class="imglabele">Science</div>
               </a>
             </li>
@@ -130,7 +130,7 @@
             			<li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Lauren_Allen_Social_Science.jpg" alt="" />
-                <div class="imglabel">Lauren Allen</div>
+                <div class="imglabel">Thalese Barnes</div>
                 <div class="imglabele">Social Science</div>
               </a>
             </li>
@@ -138,7 +138,7 @@
             <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Madison_Barrick_Speech_and_Drama.jpg" alt="" />
-                <div class="imglabel">Madison Barrick</div>
+                <div class="imglabel">Elizabeth Roberts</div>
                 <div class="imglabele">Speech and Drama</div>
               </a>
             </li>
@@ -154,7 +154,7 @@
                         <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Jordan_Petersen_Visual_Arts.jpg" alt="" />
-                <div class="imglabel">Jordan Petersen</div>
+                <div class="imglabel">Madison Smith</div>
                 <div class="imglabele">Visual Arts</div>
               </a>
             </li>
@@ -162,7 +162,7 @@
             <li class="span2">
               <a class="thumbnail">
                 <img src="kidpics/Sterling_Scholar_16-17/Shannen_Werber_World_Languages.jpg" alt="" />
-                <div class="imglabel">Shannen Werber</div>
+                <div class="imglabel">Angelica Valencia</div>
                 <div class="imglabele">World Languages</div>
               </a>
             </li>
