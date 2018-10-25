@@ -13,7 +13,7 @@
  	</head>
 
   	<body>
-
+<!--I AM A BLUBBERFISH -->
 		<?php include("assets/inc/navbar.php") ?>
 				
         <div class="container">
@@ -38,25 +38,16 @@
                 
 			           		<div class="carousel-inner">
 
-			              			<div class="item active"><img src="student/new/StudentPagePic1.jpg" alt="">
-		              			  	<div class="carousel-caption">
-		              			  	  <h4>Theater</h4>
-		              			  	</div>
+			              			<div class="item active"><img src="blackandwhiteboyz.png" alt="">
 			              			</div><!--end of item-->
 
-	  								<div class="item"><img src="student/new/StudentPagePic2.jpg" alt="">
-									<div class="carousel-caption">
-									  <h4>Pep Band</h4></div>
+	  								<div class="item"><img src="cheer.png" alt="">
                                     </div><!--end of item-->
 
-           			  				<div class="item"><img src="student/new/StudentPagePic3.jpg" alt="">
-                                   	<div class="carousel-caption">
-                                   	  <h4>Cheer</h4></div>
+           			  				<div class="item"><img src="volleyball.png" alt="">
 		              			  	</div><!--end of item-->
 
-           			  				<div class="item"><img src="student/new/Untitled-3.jpg" alt=""></a>
-                                    <div class="carousel-caption">
-                                      <h4>Football</h4> </div>
+           			  				<div class="item"><img src="mohey.pn" alt=""></a>
 									</div><!--end of item-->
 
 		            		  </div><!--inner carousel-->
