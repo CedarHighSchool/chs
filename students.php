@@ -124,9 +124,12 @@
    				        <td colspan="1" rowspan="1">November 19, 2018</td>
    				       </tr>
    				      <tr>
-   				        <td colspan="1" rowspan="1">February 9, 2019 (Juniors)</td>
+   				        <td colspan="1" rowspan="1">February 9, 2019</td>
    				        <td colspan="1" rowspan="1">January 11, 2019</td>
    				        <td colspan="1" rowspan="1">January 18, 2019</td>
+			          </tr>
+			          <tr>
+			          	<td colspan="1" rowspan="1">February 26, 2019 (Juniors Only)</td>
 			          </tr>
    				      <tr>
    				        <td colspan="1" rowspan="1">April 13, 2019</td>
