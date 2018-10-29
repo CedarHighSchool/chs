@@ -99,13 +99,15 @@
            				  	   				
            				  	   				
 <div class="well">
+        <!--
         
 	<h3><span class="style9"><a href="https://docs.google.com/document/d/1XiHJKaeIVWN_VNsRQSAVAAdKlm83qTo5f0D7y3Fse64/edit">Scholarships</a></span></h3>
     	<p>Scholarship opportunities are now becoming available. Please check the counseling office often for information. Here are just a few: </p>
     	<p>We here at VapingDaily.com are excited to offer $6,000 in scholarships every year to three people who share the issue on the hazards of smoking. The application is free and beings July 10, 2017. For more information, visit the website by<a href="https://vapingdaily.com/scholarship/"target="_blank"> clicking here</a>.</p>
     </p>
-</div>   
- 
+</div>  
+
+ -->
  	                             
                        
 		  			<div class="well">
@@ -195,7 +197,7 @@
            				  <p><br>
            				  </p>
            				  
-                          <p>The school will be administering the ACT to all Juniors February 28, 2017</p>
+                          <p>The school will be administering the ACT to all Juniors February 26, 2019</p>
                           <p><br>
                           </p>
 
