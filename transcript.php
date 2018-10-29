@@ -82,7 +82,7 @@
 								</ul>
 								<br/ > <br/ > 
 								
-								<b>Requests can be sent to Linette Fausett at </b><u><a href="mailto:linette.fausett@ironmail.org?Subject=Requesting Transcript" target="_top">linette.fausett@ironmail.org</a></u><b> with the information that is needed.</b>
+								<b>Requests can be sent to Linette Fausett at </b><u><a href="mailto:linette.fausett@ironmail.org" target="_top">linette.fausett@ironmail.org</a></u><b> with the information that is needed.</b>
 
 	   						</div>
 
