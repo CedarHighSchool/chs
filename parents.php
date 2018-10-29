@@ -118,7 +118,7 @@
        				              <tbody>
        				                                                    <tr>
                                       <td>Sept 8, 2018</td>
-                                      <td>Aug 10, 2018</td>
+                                      <td>Aug 12, 2018</td>
                                       <td>Aug 11-26, 2018</td>
                                     </tr>
                                       <tr>
@@ -133,6 +133,9 @@
                                       <td>Feb 9, 2019</td>
                                       <td>Jan 11, 2019</td>
                                       <td>Jan 12-18, 2019</td>
+                                      </tr>
+                                      <tr>
+                                      	<td>Feb 26, 2019 (Jrs. Only)</td>
                                       </tr><tr>
                                       <td>Apr 13, 2019</td>
                                       <td>Mar 8, 2019</td>
