@@ -64,8 +64,8 @@
 			    	<div class="well">
 
 			      		<h5>Education</h5>
-			      		<p><br>
-			      		</p>
+			      		<p>Graduated from Western High School<br>
+			      		Graduated from Western Oregon College</p>
 	      		  </div>
 
 				</div>
