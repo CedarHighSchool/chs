@@ -98,8 +98,9 @@
            				  -->
            				  	   				
            				  	   				
+<!-- 
+
 <div class="well">
-        <!--
         
 	<h3><span class="style9"><a href="https://docs.google.com/document/d/1XiHJKaeIVWN_VNsRQSAVAAdKlm83qTo5f0D7y3Fse64/edit">Scholarships</a></span></h3>
     	<p>Scholarship opportunities are now becoming available. Please check the counseling office often for information. Here are just a few: </p>
