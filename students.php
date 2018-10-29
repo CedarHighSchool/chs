@@ -13,7 +13,6 @@
  	</head>
 
   	<body>
-<!--I AM A BLUBBERFISH -->
 		<?php include("assets/inc/navbar.php") ?>
 				
         <div class="container">
@@ -38,7 +37,7 @@
                 
 			           		<div class="carousel-inner">
 
-			              			<div class="item active"><img src="blackandwhiteboyz.png" alt="">
+			              			<div class="item active"><img src="footballboys.png" alt="">
 			              			</div><!--end of item-->
 
 	  								<div class="item"><img src="cheer.png" alt="">
@@ -47,7 +46,7 @@
            			  				<div class="item"><img src="volleyball.png" alt="">
 		              			  	</div><!--end of item-->
 
-           			  				<div class="item"><img src="mohey.pn" alt=""></a>
+           			  				<div class="item"><img src="mohey.png" alt=""></a>
 									</div><!--end of item-->
 
 		            		  </div><!--inner carousel-->
