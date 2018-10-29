@@ -116,9 +116,8 @@
        				      <a href="http://www.uen.org/ccr/parent-toolkit/">College &amp; Career Readiness Parent Toolkit </a><br>
 	          				    
 	          				    <a href="https://docs.google.com/document/d/18X4cg-vc6sDScaL8S6QNFKwBwnJbwAiZjMW_uwdeg_0/edit"target="_blank">Graduation Requirements</a><br>
-	          				    <a href="../general/tonys educ 2000 flyer.pdf">Interested in Being a Teacher?</a><br>
 	          				    <a href="201504091210.pdf">College Index</a><br>
-	          				    <a href="">Diploma of Merit</a><br>
+	          				    <a href="https://docs.google.com/document/d/1hKYu4dHDAsrukkybaeeJWkBG3eLEwXvBqQg5iFQY8_o/edit?usp=sharing">Diploma of Merit</a><br>
 	          				    <a href="https://icsd4237-chs-ccl.v2.gradpoint.com/"target="_blank">Gradpoint Link</a><br>
        				      <a href="img/pathways.jpg"target="_blank">CTE Pathways</a>			              </div> 
                           
@@ -135,7 +134,7 @@
 			       			<div class="well">
    				            <h3>Dates to Remember</h3>
    				            <ul>
-   				            <li>PSAT -   Wednesday, October 10,   2018</li>
+   				            <li>PSAT - Wednesday, October 10,   2018</li>
    				            <li>End of Qtr. 1 - October 12, 2018</li>
    				            <li>Sterling Scholar applications due - November 2, 2018</li>
    				            <li>College Application Week - November 12-16, 2018</li>
