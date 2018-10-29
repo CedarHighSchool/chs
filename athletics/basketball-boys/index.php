@@ -117,7 +117,7 @@
 
 			      		<h3>Boys Basketball Tryouts</h3>
 
-			      		<p>Boys basketball tryouts will begin Monday, November 7 at 3:00 pm in the main gym for varsity, JV and sophomores. Freshmen tryouts will also be held Monday, November 7. However, they will be at the middle school gym at 3:30 pm.</p>
+			      		<p>Boys basketball tryouts will begin Monday, November 5 at 3:30 pm in the main gym for varsity, JV and sophomores. Freshmen tryouts will also be held Monday, November 5 at 5:30 pm. <br> Final Interviews will be on Wednesday, November 7.</p>
 
 		    	  </div>	    	
                   
