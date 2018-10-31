@@ -98,6 +98,11 @@
 							<div class="well">
 								<h5>Choose a year</h5>
 								<ul class="nav nav-list">
+									<li><a href="/gallery/index.php?passyear=16-17">2016-2017</a></li>
+									<li><a href="/gallery/index.php?passyear=15-16">2015-2016</a></li>
+									<li><a href="/gallery/index.php?passyear=14-15">2014-2015</a></li>
+									<li><a href="/gallery/index.php?passyear=13-14">2013-2014</a></li>
+									<li><a href="/gallery/index.php?passyear=12-13">2012-2013</a></li>
 									<?php 
 									$qyearsResults = mysqli_stmt_init($mysqli);
 									mysqli_stmt_prepare($qyearsResults, "SELECT * FROM photoYears");
@@ -108,11 +113,6 @@
 									} foreach ($years as $year){?>
 										<li class="<?php if($yearStart == $year['yearstart']){echo "active";}?>"><a href="/gallery/allPhotos/index.php?yearStart=<?=$year['yearstart']?>"><?=$year['yearstart']?>-<?=$year['yearend']?></a></li>
 									<?php }?>
-									<li><a href="/gallery/index.php?passyear=16-17">2016-2017</a></li>
-									<li><a href="/gallery/index.php?passyear=15-16">2015-2016</a></li>
-									<li><a href="/gallery/index.php?passyear=14-15">2014-2015</a></li>
-									<li><a href="/gallery/index.php?passyear=13-14">2013-2014</a></li>
-									<li><a href="/gallery/index.php?passyear=12-13">2012-2013</a></li>
 								</ul>
 							</div>
 						</div>

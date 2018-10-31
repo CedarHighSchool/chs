@@ -40,6 +40,7 @@
 						<?php if($cuser['edit'] == 1 || $editor == true){ ?><a href="editPhoto.php?yearStart=<?=$year['yearstart']?>" class="btn btn-default pull-right absTR">Edit Photos</a><?php } ?>
 						<?php if($cuser['edit'] == 1 || $editor == true){ ?><a href="upload.php?yearStart=<?=$year['yearstart']?>" class="btn btn-default pull-right absTR">Upload Photo</a><?php } ?>
 						<?php if($cuser['edit'] == 1 || $editor == true){ ?><a href="/gallery/allPhotos" class="btn btn-default pull-right absTR">Close</a><?php } ?>
+						<?php if($cuser['edit'] == 1 || $editor == true){ ?><a href="year.php?yearStart=<?=$year['yearstart']?>" class="btn btn-default pull-right absTR">Create Year</a><?php } ?>
 					</div>
 				</div>
 				
