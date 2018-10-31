@@ -130,7 +130,7 @@
 
 						<ul class="nav nav-list">
 						  <p>Mallory Christison - Coach<br>
-					      <a href="mailto:mallorymcbride@gmail.com">mallorymcbride@gmail.com </a></p>
+					      <a href="mailto:mallory.christison@ironmail.org">mallory.christison@ironmail.org </a></p>
 						  <li></li>	
 
 				 		    <li></li>
@@ -142,27 +142,32 @@
 						<h5>Cheer leader list</h5>
 
 						<ul class="nav nav-list">
-						  <li>Peyton</li>	
-						  <li>Victoria</li>
-						  <li>Hallie </li>
-						  <li>Brooklynn</li>
-					  <li>Jenny</li>
-					  <li>Meghan </li>
-					  <li>Adwyn </li>
-					  <li>Lyndee </li>
-					  <li>Sierra </li>
-					  <li>Madison </li>
-					  <li>Kailey </li>
-					  <li>Cambree </li>
-					  <li>Valerie</li>
-					  <li>Sadie </li>
-					  <li>Reagan </li>
-					  <li>Brittney </li>
-					  <li>Samantha </li>
-					  <li>Selene </li>
-					  <li>McKenzie </li>
-					  <li>Kristyn </li>
-					  <li>Shelby </li>
+						  <li>Victoria Beraja</li>	
+						  <li>Brittney Palmer</li>
+						  <li>Savannah Murnan </li>
+						  <li>Selene Roundy</li>
+					  <li>Breanna Taylor</li>
+					  <li>Meghan Dalley</li>
+					  <li>Hallie Bronson </li>
+					  <li>Alyssa Holmes </li>
+					  <li>Jenny Bulloch </li>
+					  <li>Megan Mckelle Sherratt </li>
+					  <li>Adwyn Cruz </li>
+					  <li>Kylee Hoovan </li>
+					  <li>Brooklynne Brower</li>
+					  <li>McKenzie Schlosser </li>
+					  <li>Reagan McArthur </li>
+					  <li>Marissa Davis </li>
+					  <li>Navee Cox </li>
+					  <li>McKenna Cowley </li>
+					  <li>Kaili Brown </li>
+					  <li>Zoe Bagley </li>
+					  <li>Summer Murnan </li>
+					  <li>Laila Steed </li>
+					  <li>Annabelle Rattan</li>
+					  <li>Stella Raban</li>
+					  <li>Madison Taylor</li>
+					  <li>Kelsie Brown</li>
 
 				 		    <li></li>
 						</ul>
