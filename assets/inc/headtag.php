@@ -143,6 +143,7 @@ if(!$_GET['fun']==1){
 $val = false;
 $patty = false;
 $chr = false;
+$hal = false;
 if((strtotime("today") == strtotime("Feb 14") || $_GET['v']==1) && $_SESSION['nopink']!="off") {
 	$val = true;
 }
@@ -151,6 +152,9 @@ if((strtotime("today") == strtotime("Mar 17") || $_GET['p']==1) && $_SESSION['no
 }
 if((strtotime("today") == strtotime("Dec 25") || $_GET['c']==1) && $_SESSION['nochr']!="off") {
 	$chr = true;
+}
+if((strtotime("today") == strtotime("Oct 31") || $_GET['c']==1) && $_SESSION['nohal']!="off") {
+	$hal = true;
 }
 if($val == true) {
 	?>
@@ -175,6 +179,15 @@ if($chr == true) {
 	<style>
 		.well {
 			background-color: #5abb60 !important;
+		}
+	</style>
+	<?php
+}
+if($hal == true) {
+	?>
+	<style>
+		.well {
+			background-color: #d99003 !important;
 		}
 	</style>
 	<?php
@@ -260,6 +273,15 @@ snowStorm.followMouse = false;
 	}
 	.hider {
 		display:none;
+	}
+	.flex{
+		display: flex;
+	}
+	.flex-row{
+		flex-direction: row;
+	}
+	.flex-col{
+		flex-direction: column;
 	}
 </style>
 <?php
