@@ -6,7 +6,7 @@
 
 	<head>
 
-		<title>Cedar High School</title>
+		<title>Cedar High Schools</title>
 
     	<?php include("../assets/inc/headtag.php") ?>
 
@@ -139,32 +139,26 @@
 
                         <div class="span4">
 
-   							<div class="well">
-
-							  <h5>Choose a year							  </h5>
-							  <ul class="nav nav-list">
-                              
-                              <li <?php if ($year == "16-17")
-echo "class='active'"; ?>><a href="./index.php?passyear=16-17">
-2016-17</a></li>
-                              
-                              <li <?php if ($year == "15-16")
-echo "class='active'"; ?>><a href="./index.php?passyear=15-16">
-2015-16</a></li>
-
-						  	    <li <?php if ($year=="14-15") echo "class='active'"; ?>><a href="./index.php?passyear=14-15">2014-15</a></li>
-
-									<li <?php if ($year=="13-14") echo "class='active'"; ?>><a href="./index.php?passyear=13-14">2013-14</a></li>
-
-                                					<li <?php if ($year=="12-13") echo "class='active'"; ?>><a href="./index.php?passyear=12-13">2012-13</a></li>
-
-
-
-					
-						 		    
-   								</ul>
-
-						  </div>
+                       <div class="well">
+                        <h5>Choose a year</h5>
+                      	<ul class="nav nav-list">
+                      		<?php 
+                      		$qyearsResults = mysqli_stmt_init($mysqli);
+                      		mysqli_stmt_prepare($qyearsResults, "SELECT * FROM photoYears");
+                      		mysqli_stmt_execute($qyearsResults);
+                      		$qyearsResults = mysqli_stmt_get_result($qyearsResults);
+                      		while($qyearsResult = mysqli_fetch_assoc($qyearsResults)){
+                      			$years[] = $qyearsResult;
+                      		} foreach ($years as $year){?>
+                      			<li><a href="/gallery/allPhotos/index.php?yearStart=<?=$year['yearstart']?>"><?=$year['yearstart']?>-<?=$year['yearend']?></a></li>
+                      		<?php }?>
+                      		<li><a href="/gallery/index.php?passyear=16-17">2016-2017</a></li>
+                      		<li><a href="/gallery/index.php?passyear=15-16">2015-2016</a></li>
+                      		<li><a href="/gallery/index.php?passyear=14-15">2014-2015</a></li>
+                      		<li><a href="/gallery/index.php?passyear=13-14">2013-2014</a></li>
+                      		<li><a href="/gallery/index.php?passyear=12-13">2012-2013</a></li>
+                      	</ul>
+                      </div>
 
    							<div class="well">
 

@@ -45,7 +45,7 @@ if($patty) {
 
           	<li <?php if ($thisPage=="faculty") echo " class=\"active\""; ?>><a href="/faculty/">Faculty</a></li>
 
-          	<li <?php if ($thisPage=="gallery") echo " class=\"active\""; ?>><a href="<?=$url?>slideshow2017">Photos</a></li>
+          	<li <?php if ($thisPage=="gallery") echo " class=\"active\""; ?>><a href="/gallery/allPhotos/">Photos</a></li>
 
       	    <li <?php if ($thisPage=="ICSD") echo " class=\"active\""; ?>><a href="//irondistrict.org/"target="_blank">ICSD</a></li>
                     
