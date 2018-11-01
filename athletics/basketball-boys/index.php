@@ -85,7 +85,7 @@
 					  Improve skills at the Junior Redmen Basketball Camp from:<br>
 					  <em>10:00-11:00</em> (boys K through 2nd)<br>
 					  <em>12:00-1:00</em> (girls Kindergarten through 2nd) on the following dates:<br> 
-					  <strong>November 4, 11, 18 <br> December 2, 9, 16</strong><br>
+					  <strong>November 3, 10, 17 <br> December 1, 8, 15</strong><br>
 					  The camp is for children Kindergarten through 2nd grade and costs $40 per child.  Signups can be completed 30 minutes prior to their age group starting.
 			          <Br> 
 			          For more information contact:<br>
@@ -108,7 +108,7 @@
 
 			      		<h3>Parent Meeting</h3>
 
-			      		<p>There will be a meeting on Wednesday, November 2, at 7:00 pm in the main gym for all parents and their students interested in trying out for the boys basketball team. </p>
+			      		<p>There will be a meeting on Wednesday, November 1, at 5:30 pm in the lecture hall for all parents and their students interested in trying out for the boys basketball team. </p>
 
 		    	  </div>	
                   
@@ -117,8 +117,7 @@
 
 			      		<h3>Boys Basketball Tryouts</h3>
 
-			      		<p>Boys basketball tryouts will begin Monday, November 5 at 3:30 pm in the main gym for varsity, JV and sophomores. Freshmen tryouts will also be held Monday, November 5 at 5:30 pm. <br> Final Interviews will be on Wednesday, November 7.
-			      		<br> Pre try-out Parent meeting November 1 at 5:30 pm in CHS lecture hall.</p>
+			      		<p>Boys basketball tryouts will begin Monday, November 5 at 3:30 pm in the main gym for varsity, JV and sophomores. Freshmen tryouts will also be held Monday, November 5 at 5:30 pm. <br> Final Interviews will be on Wednesday, November 7.</p>
 
 		    	  </div>	    	
                   
