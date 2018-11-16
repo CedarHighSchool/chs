@@ -68,6 +68,19 @@
                                 D. Boyd<br><strong>
                               </strong>
                           </div>
+                          
+                          <div class="well">
+                              <p align="center"><strong>
+                              <h3 align="center"><strong>Congratulations to October Winners 2018</strong></h3>
+</strong>
+                              <p align="center">N. Ellis<br>
+                                T. Savage<br>
+                                C. Twitchell<br>
+                                L. Day<br>
+                                S. Langston<br>
+                                S. Murnan<br><strong>
+                              </strong>
+                          </div>
               				<!--well-->
                     </div><!--span8-->
                     </p>
