@@ -144,6 +144,7 @@ $val = false;
 $patty = false;
 $chr = false;
 $hal = false;
+$thanks = false;
 if((strtotime("today") == strtotime("Feb 14") || $_GET['v']==1) && $_SESSION['nopink']!="off") {
 	$val = true;
 }
@@ -155,6 +156,9 @@ if((strtotime("today") == strtotime("Dec 25") || $_GET['c']==1) && $_SESSION['no
 }
 if((strtotime("today") == strtotime("Oct 31") || $_GET['c']==1) && $_SESSION['nohal']!="off") {
 	$hal = true;
+}
+if((strtotime("today") == strtotime("Nov 22") || $_GET['c']==1) && $_SESSION['nothanks']!="off") {
+	$thanks = true;
 }
 if($val == true) {
 	?>
@@ -189,7 +193,17 @@ if($hal == true) {
 		.well {
 			background-color: #d99003 !important;
 		}
-	</style>
+		</style>
+		<?php
+}
+if($thanks == true) {
+	?>
+	<style>
+		.well {
+			background-color: #925302 !important;
+		}
+		</style>
+	
 	<?php
 }
 ?>
