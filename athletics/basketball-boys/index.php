@@ -150,11 +150,8 @@
 						    <li class="active"><a href="./">Home</a></li>
 						    
 						    <li><a href="https://docs.google.com/spreadsheets/d/1tV82_UTh3xvpZEQ5gG5YHAuUlmC5R4GyEGfFJiJxxXI/edit?usp=sharing">Schedule</a></li>
-						    <li><a href="https://docs.google.com/document/d/1tngk599UztXahFp8JQ3nHjd6KITOsrYsjUOozEcZRAI/edit?ts=5a048b99">Varsity Roster</a></li>
-                <li><a href = "https://docs.google.com/document/d/1tngk599UztXahFp8JQ3nHjd6KITOsrYsjUOozEcZRAI/edit?ts=5a048b99">JV Roster</a></li>
-						    <li><a href="https://docs.google.com/a/ironmail.org/document/d/16_7J-vzHzJmkf7tDVz6YoJkZF9kbjor6I0w7T_KEhpw/edit">Sophomore Roster</a></li>
-						    
-						    <li><a href="https://docs.google.com/a/ironmail.org/document/d/15Y56kmSNkE8zuMn7pRnCbqEg7ofynoj6DJ8yZ4nGicY/edit">Freshman Roster</a></li>
+						    <li><a href="https://docs.google.com/document/d/1QQb9W-Vtvfnk4RJMuJ7zpgupt-htNfDW6q4fPWxRnJY/edit?usp=sharing">Roster</a></li>
+                
 						    <li><a href="http://www.uhsaa.org/bbasketball/">UHSAA Basketball</a></li>
 						    
 						    <li><a href="gallery.php">Pictures</a></li>		
