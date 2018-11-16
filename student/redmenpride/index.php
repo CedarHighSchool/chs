@@ -71,7 +71,7 @@
                           
                           <div class="well">
                               <p align="center"><strong>
-                              <h3 align="center"><strong>Congratulations to October Winners 2018</strong></h3>
+                              <h3 align="center"><strong>Congratulations to November Winners 2018</strong></h3>
 </strong>
                               <p align="center">N. Ellis<br>
                                 T. Savage<br>
