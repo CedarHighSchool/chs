@@ -133,7 +133,7 @@
 
 						  <li class="active"><a href="./">Home</a></li>
 
-						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/11XOXxaOfBV-0PZzth6KI5dqBAVwmH3cbPuIHwIPYhxI/edit"target="_blank">Schedule</a></li>
+						  <li><a href="https://drive.google.com/open?id=1UAvGGQkZUCA5PsQDAh8qkVeBBttDoUNw"target="_blank">Schedule</a></li>
 
 					    <li><a href="https://docs.google.com/a/ironmail.org/document/d/1f2P8TlvP-gdmNMwele6O57vSLaLc389LvPJ-bXenXJk/edit">Varsity Roster</a></li>
 						 
