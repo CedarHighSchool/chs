@@ -139,7 +139,7 @@
 
 							<li class="active"><a href="./">Home</a></li>
 
-							<li><a href="https://docs.google.com/a/ironmail.org/document/d/1I8K4XCg7_83JoXEjOV9dZMwlq3XAXhlwl5--aTsxw_4/edit" target="_blank">Schedule</a></li>
+							<li><a href="https://drive.google.com/file/d/1L75E_dAgJxKsmblTwUws8g3pntUYMeHY/view?usp=sharing" target="_blank">Schedule</a></li>
 
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1H_eaSoLBxP47DvF47R2ZS0_XiEpcGY9BIHQkU-c8faw/edit">Boys Roster</a></li>
 

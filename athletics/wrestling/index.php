@@ -100,7 +100,7 @@
 
 							<li class="active"><a href="./">Home</a></li>
 
-							<li><a href="https://docs.google.com/a/ironmail.org/document/d/1EIWf2F05jWfQGp9MQzrGBWZOxonh5oXAtivtHY8TjAQ/edit">Schedule</a></li>
+							<li><a href="https://drive.google.com/file/d/0B9jFGSe1Qy6_amdPY1dLRDVqUGg5RUcwZGd1N3FOUTN2dFBR/view?usp=sharing">Schedule</a></li>
 
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1JFmMpKQZ1P4IEKkLiUMIRUbM1fWP3iKrIky9lwzLT8I/edit">Roster</a></li>
 
