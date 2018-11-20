@@ -6,7 +6,7 @@
 
 	<head>
 
-		<title>Cedar High School 2017-2018 </title>
+		<title>Cedar High School 2018-2019 </title>
 
     	<?php include("./../../assets/inc/headtag.php") ?>
 
@@ -50,9 +50,8 @@
 
 <div class="well" align=center>
 
-	<p><a href="/trustland/2018_2019/councilMembers/Council-Members-2017-18.pdf">Council Members</a></p>
-	<p><a href="/trustland/2018_2019/schedule/2017-18%20Schedule.pdf">Meeting Calendar</a></p>
-	<p><a href="/trustland/2018_2019/schedule/2017-18revisedmeetingcalendar.pdf">Revised Meeting Schedule</a></p>
+	<p><a href="/trustland/2018_2019/councilMembers/Council Members 2018-19.pdf">Council Members</a></p>
+	<p><a href="/trustland/2018_2019/schedule/2018-2019 Meeting Calendar.pdf">Meeting Calendar</a></p>
 	<p><a href="/trustland/2018_2019/agenda/index.php">Agenda/Minutes</a></p>
 	 <p><a href ="/trustland/2018_2019/Letter_To_Parents/Letter%20to%20Parents.pdf">Letter To Parents</a></p>
     

@@ -54,7 +54,7 @@
             <h3>Agenda</h3><br>
               <a href="Community Council Agenda 9-19-17.pdf"> Community Council Agenda 9-19-17</a> <br> 
               <a href="Community Council Agenda 11-07-17.pdf"> Community Council Agenda 11-7-17</a> <br>
-              <a href="CHS Community Council Agenda 1-9-18.pdf"> Community Council Agenda 1-19-18 </a> <br>
+              <a href="CHS Community Council Agenda 1-9-18.pdf"> Community Council Agenda 1-9-18 </a> <br>
               <a href="CHS Community Council Agenda 3-6-18.pdf"> Community Council Agenda 3-6-18 </a> <br>
               <a href="CHS Community Council Agenda 3-28-18.pdf"> Community Council Agenda 3-28-18 </a> <br>
               <a href="https://drive.google.com/file/d/1VI_XaMO03gEEFDxmk5kgWZ2cTDTdbbcn/view?usp=sharing"> Community Council Agenda 5-1-18 </a> <br>
