@@ -52,12 +52,12 @@
 				
             <p>&nbsp;</p>
             <h3>Agenda</h3><br>
-              <a href = "CHS Community Council Agenda 9-18-18.pdf">Community Council Agenda 9-18-18</a>
+              <a href = "https://drive.google.com/open?id=0B9jFGSe1Qy6_cEhmd0IwaF9hdTFJeElmQnZWWEZvLTFYa1NV">Community Council Agenda 9-18-18</a>
   
                 <br>
                 <h3>Minutes</h3>
-                <a href = "Minutes (Draft) 9-18-18.pdf">Minutes (Draft) 9-18-18</a><br>
-                <a href = "Approved Minutes 9-18-18.pdf">Minutes Approved 9-18-18</a><br>
+                <a href = "https://drive.google.com/open?id=0B9jFGSe1Qy6_bGhkLW0tcE0zeXh0RkRmdjBBWXpHUjJMTUUw">Minutes (Draft) 9-18-18</a><br>
+                <a href = "https://drive.google.com/open?id=1xQrJkLwQwdK13ylBplT4cy7bPexHuljF">Minutes Approved 9-18-18</a><br>
                 <br>   
                 
 

@@ -50,8 +50,8 @@
 
 <div class="well" align=center>
 
-	<p><a href="/trustland/2018_2019/councilMembers/Council Members 2018-19.pdf">Council Members</a></p>
-	<p><a href="/trustland/2018_2019/schedule/2018-2019 Meeting Calendar.pdf">Meeting Calendar</a></p>
+	<p><a href="https://drive.google.com/open?id=0B9jFGSe1Qy6_R0p4UFNJdHVkbktmRWZsU3M0eGdNb2NDRkNr">Council Members</a></p>
+	<p><a href="https://drive.google.com/open?id=0B9jFGSe1Qy6_MFgxU0VwZlotZ3NMazU1UHJRTTdEdGpUR0Nn">Meeting Calendar</a></p>
 	<p><a href="/trustland/2018_2019/agenda/index.php">Agenda/Minutes</a></p>
 	 <p><a href ="/trustland/2018_2019/Letter_To_Parents/Letter%20to%20Parents.pdf">Letter To Parents</a></p>
     
