@@ -52,23 +52,15 @@
 				
             <p>&nbsp;</p>
             <h3>Agenda</h3><br>
-              
+              <a href = "CHS Community Council Agenda 9-18-18.pdf">Community Council Agenda 9-18-18</a>
   
                 <br>
                 <h3>Minutes</h3>
-                
+                <a href = "Minutes (Draft) 9-18-18.pdf">Minutes (Draft) 9-18-18</a><br>
+                <a href = "Approved Minutes 9-18-18.pdf">Minutes Approved 9-18-18</a><br>
                 <br>   
+                
 
-    <!--<p<a href=""> Minutes (Draft) 1-17-17</a> <br>-->
-    <!--<a href=""> Minutes Approved 1-17-17</a>    -->
-    <!--<p<a href=""> Minutes (Draft) 2-7-17</a> <br> -->
-    <!--  <a href=""> Minutes Approved 2-7-17</a <br>-->
-      
-    <!--<p <a href=""> Minutes (Draft) 3-14-17</a><br> -->
-    <!--                <a href=""> Minutes Approved 3-14-17</a> <br> -->
-                    
-    <!--<p <a href=""> Minutes (Draft) 4-11-17</a> <br> -->
-    <!--                <a href=""> Minutes Approved 4-11-17</a> <br> -->
                 
 
   <p>&nbsp;</p>
