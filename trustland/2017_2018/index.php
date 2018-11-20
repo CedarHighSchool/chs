@@ -52,7 +52,7 @@
 
 	<p><a href="/trustland/2017_2018/councilMembers/Council-Members-2017-18.pdf">Council Members</a></p>
 	<p><a href="/trustland/2017_2018/schedule/2017-18%20Schedule.pdf">Meeting Calendar</a></p>
-	<p><a href="/trustland/2017_2018/schedule/2017-18revisedmeetingcalendar.pdf">Revised Meeting Calender</a></p>
+	<p><a href="https://drive.google.com/file/d/0Byn2da4ak8lLX3dRdVVFTG1qN2pfY0VnRjg3NzFTZmN3VUZJ/view?usp=sharing">Revised Meeting Calender</a></p>
 	<p><a href="/trustland/2017_2018/agenda/index.php">Agenda/Minutes</a></p>
 	 <p><a href ="/trustland/2017_2018/Letter_To_Parents/Letter%20to%20Parents.pdf">Letter To Parents</a></p>
     
