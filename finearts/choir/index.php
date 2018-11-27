@@ -29,7 +29,7 @@
 			    	<div class="well">
 			      		<h3>Announcement</h3>
 			      		<p>
-			      			Make sure that you have your fee's paid to Mrs. Slaugh</p>
+			      			Make sure that you have your fee's paid to Mrs. Stubbs</p>
 			      		<p>Prepare for concerts, make sure you have your uniforms and have been practing the appropriate amount.</p>
 	      		  </div>
 			    	<div class="well">

@@ -60,7 +60,7 @@
 
 			      		<p>
 
-			      			Make sure your fee is paid to Mrs. Slaugh<br>
+			      			Make sure your fee is paid to Mrs. Stubbs<br>
 
 			      		    <br>
 
