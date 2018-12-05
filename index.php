@@ -69,7 +69,7 @@
 
 	   				<!-- Perdy slide show -->
 
-	    			<div id="myCarousel" class="carousel slide">
+	    			<?php /*<div id="myCarousel" class="carousel slide">
 
 							<div class="carousel-inner">
 								<?php
@@ -98,7 +98,114 @@
 							
 							<a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
 
+	    			</div><!--/slideshow -->*/?>
+	    			
+	    			<div id="myCarousel" class="carousel slide">
+
+							<div class="carousel-inner">
+								<?php
+								$num = 1;
+								$base = "assets/img/Banner/";
+								while(file_exists($base.$num.".jpg") || file_exists($base.$num.".gif") || file_exists($base.$num.".png")){
+									if(file_exists($base.$num.".jpg")){
+										$me = $base.$num.".jpg";
+									}else if(file_exists($base.$num.".gif")){
+										$me = $base.$num.".gif";
+									}else if(file_exists($base.$num.".png")){
+										$me = $base.$num.".png";
+									}
+									if($num == 2) {
+										?>
+										<div class="item<?php if($num==1){echo " active";} ?>" <?php if(isset($_GET['b'])){ ?>title="Banner <?php echo $num; ?>"<?php } ?>>
+											<img src="http://ak6.picdn.net/shutterstock/videos/844486/thumb/1.jpg" id="count_back" style="display:none;">
+											<canvas id="myCanvas" width="875" height="296" style="border:none;padding:0;margin:0;"></canvas>
+										</div>
+										<?php
+									}else{
+									?>
+									<div class="item<?php if($num==1){echo " active";} ?>" <?php if(isset($_GET['b'])){ ?>title="Banner <?php echo $num; ?>"<?php } ?>>
+										<img src="<?php echo $me; ?>?t=<?php echo time();?>">	              			
+									</div>
+									<?php
+									}
+									$num = $num+1;
+								}
+								?>
+							</div>
+							<a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+							
+							<a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+
 	    			</div><!--/slideshow -->
+
+						<script>
+						var xmasDay = '2018-12-25T00:00:00';
+						
+						activate();
+						
+						////////////////////////////////////////
+						
+						function activate(){
+						  initializeClock('counter', xmasDay);
+						  getTimeRemaining(xmasDay);
+						}
+						
+						function getTimeRemaining(endtime){
+						  var t = Date.parse(endtime) - Date.parse(new Date());
+						  var seconds = Math.floor( (t/1000) % 60 );
+						  var minutes = Math.floor( (t/1000/60) % 60 );
+						  var hours = Math.floor( (t/(1000*60*60)) % 24 );
+						  var days = Math.floor( t/(1000*60*60*24) );
+						  return {
+						    'total': t,
+						    'days': days,
+						    'hours': hours,
+						    'minutes': minutes,
+						    'seconds': seconds
+						  };
+						}
+						
+						var img_el = document.getElementById("count_back");
+						var c = document.getElementById("myCanvas");
+						var ctx = c.getContext("2d");
+						ctx.font = "45px Verdana";
+						ctx.shadowColor = "#000";
+						ctx.shadowOffsetX = 0;
+						ctx.shadowOffsetY = 0;
+						ctx.shadowBlur = 10;
+						ctx.fillStyle = 'white';
+      			ctx.textAlign = 'center';
+						ctx.fillText("Countdown",10,50);
+						// ctx.clearRect(0, 0, c.width, c.height);
+						
+						function initializeClock(id, endtime){
+						  var timeinterval = setInterval(function(){
+						    var t = getTimeRemaining(endtime);
+						    htmls = t.days + ' days' + ' ' +
+						                      t.hours + ' hours'+ ' ' +
+						                      t.minutes + ' minutes' + ' ' +
+						                      t.seconds + ' seconds';
+                //ctx.clearRect(0, 0, c.width, c.height);
+                ctx.drawImage(img_el,0,-70, c.width, c.height+200);
+                x = c.width/2;
+                if(t.days > 0 || t.hours > 0 || t.minutes > 0 || t.seconds > 0){
+	                ctx.font = "40px Verdana";
+			            ctx.fillText(t.days+" days",x,50);
+			            ctx.fillText(t.hours+" hours",x,100);
+			            ctx.fillText(t.minutes+" minutes",x,150);
+			            ctx.fillText(t.seconds+" seconds",x,200);
+			            ctx.font = "45px Verdana";
+			            ctx.fillText("Until Christmas!",x,260);
+                }else{
+                	ctx.font = "75px Verdana";
+			            ctx.fillText("Merry Christmas!",x,c.height/2+10);
+                }
+						    if(t.total<=0){
+						      clearInterval(timeinterval);
+						    }
+						  },1000);
+						}
+						</script>
       				<!-- Begin content below slideshow -->
 
 					<div class="row-fluid">
