@@ -114,7 +114,7 @@
 									}else if(file_exists($base.$num.".png")){
 										$me = $base.$num.".png";
 									}
-									if($num == 2) {
+									if(/*$num == 2*/false) {
 										?>
 										<div class="item<?php if($num==1){echo " active";} ?>" <?php if(isset($_GET['b'])){ ?>title="Banner <?php echo $num; ?>"<?php } ?>>
 											<img src="http://ak6.picdn.net/shutterstock/videos/844486/thumb/1.jpg" id="count_back" style="display:none;">
@@ -138,7 +138,7 @@
 
 	    			</div><!--/slideshow -->
 
-						<script>
+						<?php /*<script>
 						var xmasDay = '2018-12-25T00:00:00';
 						
 						activate();
@@ -205,7 +205,7 @@
 						    }
 						  },1000);
 						}
-						</script>
+						</script>*/ ?>
       				<!-- Begin content below slideshow -->
 
 					<div class="row-fluid">
