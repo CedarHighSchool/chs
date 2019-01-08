@@ -40,6 +40,21 @@
               		<div class="row-fluid">
               
               			<div class="span8">
+              			  
+              			  	<div class="well">
+                              <p align="center"><strong>
+                              <h3 align="center"><strong>Congratulations to January Winners 2019</strong></h3>
+</strong>
+                              <p align="center">
+                                M. Hansen<br>
+                                C. Smith<br>
+                                M. Thorley<br>
+                                T. Weaver<br>
+                                J. Garrett<br>
+                                T. Nielson<br>
+                               <strong>
+                              </strong>
+                          </div>
               
               				<div class="well">
                               <p align="center"><strong>
