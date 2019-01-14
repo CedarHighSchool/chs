@@ -84,7 +84,7 @@
                     <p>Submit Redmen Pride nominations online using the link below. Only seniors can be nominated.<br>
                   </p>
                           
-                   	<a href="https://docs.google.com/a/ironmail.org/forms/d/1IukIgxxmqY7-qt74baE53hPgpBTJ6J8kOeox-FCVb0I/edit"target="_blank"> Redmen Pride Nomination Form </a><br> 
+                   	<a href="https://docs.google.com/forms/d/e/1FAIpQLSeO-pN_lX8Ut73OkmL0dMj_64VLHH2NrEe177hwkYGC05jcJA/viewform"target="_blank"> Redmen Pride Nomination Form </a><br> 
             	</div><!--well-->
 <div class="well">
                       	      <h3>Registration Information</h3>
