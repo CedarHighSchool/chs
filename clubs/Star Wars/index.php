@@ -92,7 +92,7 @@
 
    		<h3>Meetings</h3>
 
-		      		  <p>Members of the Star Wars Club interested in participating in the upcoming activity need to see Mr. Chidester for a permission slip. These are due <strong>today, December 13th</strong>!</p>
+		      		  <p>To be announced.</p>
 
 			    	</div>
 				</div>
@@ -110,7 +110,7 @@
 					<h5>Club Presindency</h5>
 					  <ul class="nav nav-list">
 						  <li>
-						    <div align="left">Presidents- <br><strong>Brandon</strong><br><strong>Cheyann</strong><br><strong>Kiley</strong></div>
+						    <div align="left">Presidents- <br><strong>Trevalyn Larson</strong><br><strong>Maxwell Arter</strong></div>
 						  </li>
 						  
 					  </ul>
