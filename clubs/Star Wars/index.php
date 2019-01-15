@@ -67,7 +67,7 @@
 			      		<h3>Club Information</h3>
 
 			      		<p>The world and history of Star Wars is vast and deep. Our goal is to study and create an understanding of all things pertaining to Star Wars.<br> Activities like social service is an objective of ours, not just fun. </p>
-
+								<!-- IN THE NAME OF THE GOD EMPEROR OF MANKIND I DECLARE THIS TO BE HERESY!!!-->
 			    	</div>
 
 			    	<div class="well">
@@ -110,7 +110,7 @@
 					<h5>Club Presindency</h5>
 					  <ul class="nav nav-list">
 						  <li>
-						    <div align="left">Presidents- <br><strong>Trevalyn Larson</strong><br><strong>Maxwell Arter</strong></div>
+						    <div align="left">Presidents- <br><strong>Trevelyan Larson</strong><br><strong>Maxwell Arter</strong></div>
 						  </li>
 						  
 					  </ul>
