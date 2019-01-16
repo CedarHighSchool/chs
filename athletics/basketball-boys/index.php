@@ -149,7 +149,7 @@
 						    
 						    <li class="active"><a href="./">Home</a></li>
 						    
-						    <li><a href="https://docs.google.com/spreadsheets/d/1DIYBqE5FtiJjLE29-dyY3NeT0YmmdwzLMkHVAYaoXAM/edit?usp=sharing">Schedule</a></li>
+						    <li><a href="https://drive.google.com/open?id=1vjNq42mkZqNT7j2ISkYOjua9po0xPmLx">Schedule</a></li>
 						    <li><a href="https://docs.google.com/document/d/1QQb9W-Vtvfnk4RJMuJ7zpgupt-htNfDW6q4fPWxRnJY/edit?usp=sharing">Roster</a></li>
                 
 						    <li><a href="http://www.uhsaa.org/bbasketball/">UHSAA Basketball</a></li>
