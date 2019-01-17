@@ -116,7 +116,7 @@
 	   <ul class="thumbnails">
 	   <div class="thumbTop">
 		  <li class="span2">
-            <a href="mailto:debbie.slaugh@ironmail.org" class="thumbnail">
+            <a href="mailto:lori.stubbs@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt>
               <div class="imglabel"><p>Lori Stubbs</p></div>
               <div class="imglabel"><p>Office Manager</p></div>
@@ -149,7 +149,7 @@
           </li>
           
           <li class="span2">
-            <a href="mailto:heidi.oswald@ironmail.org" class="thumbnail">
+            <a href="mailto:travis.carter@ironmail.org" class="thumbnail">
               <img src="staffpic/carter-travis.jpg" alt="" />
               <div class="imglabel"><p>Travis Carter</p></div>
               <div class="imglabel"><p>Resource Officer</p></div>
@@ -169,7 +169,7 @@
 	   <div class="thumbTop">
 	     
 	     		  <li class="span2">
-	     		    <a href="mailto:debbie.slaugh@ironmail.org" class="thumbnail">
+	     		    <a href="mailto:eric.hasemeyer@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_man.jpg" alt="" />
               <div class="imglabel"><p>Eric Hasemeyer (A-Br)</p></div>
               <div class="imglabel"><p>School Counselor</p></div>
@@ -177,7 +177,7 @@
           </li>	 
           
 		  <li class="span2">
-            <a href="mailto:debbie.slaugh@ironmail.org" class="thumbnail">
+            <a href="mailto:natasha.tebbs@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt>
               <div class="imglabel"><p>Natasha Tebbs (Bu-Hi)</p></div>
               <div class="imglabel"><p>School Counselor</p></div>
@@ -185,7 +185,7 @@
           </li>	 
              
           <li class="span2">
-            <a href="mailto:bonnie.matheson@ironmail.org" class="thumbnail">
+            <a href="mailto:nick.parson@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_man.jpg" alt="" />
               <div class="imglabel"><p>Nick Parson (Ho-Pe))</p></div>
               <div class="imglabel"><p>School Counselor</p></div>
@@ -193,7 +193,7 @@
           </li>
             
           <li class="span2">
-            <a href="mailto:cindy.larson@ironmail.org" class="thumbnail">
+            <a href="mailto:jennifer.denhalter@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt="" />
               <div class="imglabel"><p>Jennifer Denhalter (Ph-Z)</p></div>
               <div class="imglabel"><p>School Counselor</p></div>
@@ -204,7 +204,7 @@
           <div class="thumbBot">
           
           <li class="span2">
-            <a href="mailto:allison.palmer@ironmail.org" class="thumbnail">
+            <a href="mailto:wendy.moon@ironmail.org" class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt="" />
             <div class="imglabel"><p>Wendy Moon</p></div>
               <div class="imglabel"><p>Concurrent Enrollment</p></div>
@@ -212,7 +212,7 @@
           </li>
           
           <li class="span2">
-            <a href="mailto:heidi.oswald@ironmail.org" class="thumbnail">
+            <a href="mailto:linette.fausett@ironmail.org" class="thumbnail">
               <img src="staffpic/fausett-linette.jpg" alt="" />
               <div class="imglabel"><p>Linette Fausett</p></div>
               <div class="imglabel"><p>Administrative</p></div>
