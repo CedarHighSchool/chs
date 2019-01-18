@@ -63,7 +63,7 @@
 				
 
 			    	<div class="well">
-
+								<!-- end my suffering -->
 			      		<h3>Club Information</h3>
 			      		
 			      		<p>The Gender and Sexuality Alliance strives to spread awareness and acceptance of the</br>
