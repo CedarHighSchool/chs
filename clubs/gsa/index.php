@@ -109,7 +109,7 @@
 				 		</ul>
 				 	</div>
 				  <div class="well">
-					<h5>Club Presindency</h5>
+					<h5>Club Presidency</h5>
 					  <ul class="nav nav-list">
 						  <li>
 						    <div align="left">Presidents- <br><strong>Terrell Tom</strong><br><strong>Rebecca Mack</strong></div>
