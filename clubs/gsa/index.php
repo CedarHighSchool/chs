@@ -49,7 +49,7 @@
 
 					<div class="thumbnail">				      		
 
-						<img src="gsa logo.png" alt="thumbnail">					</div>
+						<img src="gsalogo.png" alt="thumbnail">					</div>
 
 			  </div><br />
 
