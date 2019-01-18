@@ -70,6 +70,7 @@
 			      		LGBTQ+ community as well as provide a safe space for identifying, questioning,</br>
 			      		and supporting students. Meetings consist of planing the month's event, showing </br>
 			      		support for other members, and making new friends and having fun.</p>
+			      		<!-- Speedy speed boi-->
 			      		
 			      					    	</div>
 
