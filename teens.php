@@ -324,7 +324,7 @@
                     </p>
                     
                     <p>
-                    LDS Family Services<br>
+                    LSD Family Services<br>
                     2202 North Main, Suite 301<br>
                     586-4479
                     </p>
