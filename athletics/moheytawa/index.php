@@ -107,6 +107,7 @@
 			      		<p>Mohey is the Cedar High drill team. The season for drill team starts in March after tryouts and concludes after state competition usually in February. For more information contact Coach Clark.</p>
 
 	      		  </div>
+	      		  
 
 				</div>
 
@@ -122,7 +123,7 @@
 
 							<li class="active"><a href="./">Home</a></li>
                             
-                            <li><a href="http://www.ignitedance.company/">Dance Workshop &amp; Solo Competition</a></li>
+                            
 
 							<li><a href="https://docs.google.com/a/ironmail.org/document/d/1VeLIQD27ljNDiAramamqV_vFZJSdTXaLZ-e-l1hjdeI/edit">Schedule</a></li>
 
