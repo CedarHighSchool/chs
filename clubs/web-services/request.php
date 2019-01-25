@@ -61,17 +61,18 @@
 					<div class="well">
 						<h5>Advisor</h5>
 						<ul class="nav nav-list">
-							<li><a href="#">Michelle Taylor</a></li>	
+							<li><a href="#">Caleb Swallow</a></li>	
 				 		</ul>
 				 	</div>
 					<div class="well">
 					  <h5>Roster</h5>
 					  <ul class="nav nav-list">
-						  <li>Josh</li>
-						  <li>Kirby</li>
-						  <li>Rem</li>
-						  <li>Eric</li>
-						  <li>Dane</li>
+						  <li>Cat Smith</li>
+						  <li>Alex Beraja</li>
+						  <li>Charles D.</li>
+						  <li>Cal Kurne</li>
+						  <li>Kaden Yardley</li>
+				      <li>Tyler LeMarr</li>
 				      </ul>
 				  </div>
                   <div class="well">
