@@ -48,6 +48,7 @@
                                     <li><a href="https://docs.google.com/document/d/1myh1LtQZxOef20URT2lxULA82Sz3HVQgp9tfCgoMKYs/edit?usp=sharing">Social Studies</a></li>
                                     <li><a href="http://swatc.edu/wp-content/uploads/2017/01/SWATC-Course-Descriptions-2017-2018.pdf">Southwest Technical College</a></li>
                                     <li><a href="https://docs.google.com/document/d/1d_paUcHE5p_z3YbSsCIO9MjeJyLWJK6kG_kQxauE1vQ/edit?usp=sharing">Special Courses</a></li>
+                                    <li><a href="https://stech.edu/wpcontent/uploads/2019/01/SouthwestTech_HighSchool_ICSD_2019.pdf">South West Technical College</a></li>
                                 </ul>
                             </div>
                         </div>
