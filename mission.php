@@ -51,7 +51,7 @@
 
                 <div class="well">
 
-                    <h3>Cedar High School Improvement Plan</h3>
+                    <center><u><h1>Cedar High School Improvement Plan</h1></center></u>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
 
@@ -75,7 +75,9 @@
                         <li>We believe every student can make a meaningful contribution.</li>
                     </ul>
                     <p>&nbsp;</p>
-
+                   <center> <h1><a href="https://drive.google.com/file/d/0Bzd4Jtvg6Ka2LTJzcVJyU3RteXFmdmRCdDZ4cFpFWGY0QTJn/view?usp=sharing">CHS 2019 School Goals</a></h1></center>
+                    <br>
+                    <br>
                     <a name="goal"><h3>Cedar High School Goals Investing in Learning for ALL</h3></a>
                     <p><strong id="docs-internal-guid-33aa5817-6cc7-595d-85e6-7c5bd0b60c07">Goal:</strong>&nbsp;Increase student math achievement in grades 9-12
                         <br>
