@@ -152,10 +152,11 @@
                             <li>Deadline for Applications to many Utah 4 year Institutions - February 1, 2019</li>
                             <li>Spring CCR Week-Early Out @ 1:30-No Late Start - February 4-8, 2019</li>
                             <li> *Diploma of Merit Applicatons due - February 15, 2019 </li>
-                       			<li>Presidents's Day-No School - February 18, 2019</li>
-                            <li>ACT for Juniors- February 26, 2019 (ACT Code 450-045)</li>
+                       			<li>Presidents's Day - No School - February 18, 2019</li>
+                            <li>ACT for Juniors - February 26, 2019 (ACT Code 450-045)</li>
                             <li>Final Deadline for Scholarships for SUU - March 1, 2019</li>
                             <li>End of Quarter 3 - March 8, 2019</li>
+                            <li>Spring Break - April 15-19, 2019</li>
    				            <li>*Senior Awards Night - Monday, May 20, 2019 @ 6:00 p.m. (auditorium)
    				            <li>Graduation 5:00 PM  @ SUU Centrum - Wednesday, May 22, 2019</li>
    				            </ul>
