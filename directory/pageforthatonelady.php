@@ -13,8 +13,11 @@
 			<div class="row">
 			  <?php include("../assets/inc/navlist.php") ?>
 			  <div class="span9">		
-	       			
-   							<p>This is here because reasons</p>
+	       				<div class="well">
+		          				<h3 align="center">Kaer Neumann</h3>
+          				  <p align="center">
+		           				<p align="center"><a href="https://docs.google.com/document/d/1bK4MON-YZC1Wyi1p6dwiHUoq0u83mLxlb6u7JndgY_M/edit?usp=sharing"> ACT Stuff</a></p>
+		       			  </div>
 	   			</div><!--/span9 -->
 	</div><!--/row -->
 
