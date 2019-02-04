@@ -220,7 +220,7 @@
           </li>
           
           <li class="span2">
-            <a href="https://docs.google.com/document/d/1bK4MON-YZC1Wyi1p6dwiHUoq0u83mLxlb6u7JndgY_M/edit?usp=sharing" class="thumbnail">
+            <a href="/directory/pageforthatonelady" class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt="" />
               <div class="imglabel"><p>Kaer Neumann</p></div>
               <div class="imglabel"><p>ACT</p></div>
