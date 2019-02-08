@@ -21,14 +21,15 @@
 	   			</div><!--/span9 -->
 	</div><!--/row -->
 	<div class="container">
-	<div class="span2">	
+	<li class="span2">	
 
 					<div class="thumbnail">	
 
-						<img src="fake-debbie.jpg" alt="" width="160">					
+						<img src="fake-debbie.jpg"  alt="" />		
+						
 						</div>
 
-			  </div><br />
+			  </li><br />
 	</div>
 	<div class="container">
 			<div class="row">
