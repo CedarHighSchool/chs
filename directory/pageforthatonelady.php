@@ -20,14 +20,16 @@
 		       			  </div>
 	   			</div><!--/span9 -->
 	</div><!--/row -->
+	<div class="container">
 	<div class="span2">	
 
 					<div class="thumbnail">	
 
-						<img src="fake-debbie.jpg" alt="" width="160">					</div>
+						<img src="fake-debbie.jpg" alt="" width="160">					
+						</div>
 
 			  </div><br />
-			  
+	</div>
 	<div class="container">
 			<div class="row">
 					<div class="span4">
