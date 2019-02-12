@@ -220,8 +220,7 @@
           </li>
           
           <li class="span2">
-            <!-- /directory/pageforthatonelady.php for when we need to enable it-->
-            <a href="" class="thumbnail">
+            <a href="/directory/neumann.php" class="thumbnail">
               <img src="staffpic/placeholder_woman.jpg" alt="" />
               <div class="imglabel"><p>Kaer Neumann</p></div>
               <div class="imglabel"><p>ACT</p></div>
