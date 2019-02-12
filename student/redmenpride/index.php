@@ -41,6 +41,21 @@
               
               			<div class="span8">
               			  
+              			<div class="well">
+                              <p align="center"><strong>
+                              <h3 align="center"><strong>Congratulations to February Winners 2019</strong></h3>
+</strong>
+                              <p align="center">
+                                J. Dickison<br>
+                                S. Nakken<br>
+                                Z. Walters<br>
+                                D. Pearson<br>
+                                W. Kjar<br>
+                                D. Jensen<br>
+                               <strong>
+                              </strong>
+                          </div>
+                          
               			  	<div class="well">
                               <p align="center"><strong>
                               <h3 align="center"><strong>Congratulations to January Winners 2019</strong></h3>
