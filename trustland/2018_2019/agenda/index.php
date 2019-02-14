@@ -52,13 +52,13 @@
 				
             <p>&nbsp;</p>
             <h3>Agenda</h3><br>
-              <a href = "https://drive.google.com/open?id=0B9jFGSe1Qy6_cEhmd0IwaF9hdTFJeElmQnZWWEZvLTFYa1NV">Community Council Agenda 9-18-18</a><br>
+              <a href = "https://drive.google.com/open?id=1jOCkgbNV5eY7jZzYWbqEzOwOjXFdKI2O">Community Council Agenda 9-18-18</a><br>
               <a href = "https://drive.google.com/open?id=11HWTXMkEk5LaUaMapgynL9KpNvFPnx5O">Community Council Agenda 11-27-18</a><br>
   
                 <br>
                 <h3>Minutes</h3>
-                <a href = "https://drive.google.com/open?id=0B9jFGSe1Qy6_bGhkLW0tcE0zeXh0RkRmdjBBWXpHUjJMTUUw">Minutes (Draft) 9-18-18</a><br>
-                <a href = "https://drive.google.com/open?id=0B9jFGSe1Qy6_eE9jaHBYdHUxQ3BsaHI2N2xzdTVWVGxWYVJV">Minutes Approved 9-18-18</a><br>
+                <a href = "https://drive.google.com/open?id=1wBFus0ScWlz91o28Pn832a-Qyb94dBe1">Minutes (Draft) 9-18-18</a><br>
+                <a href = "https://drive.google.com/open?id=1xQrJkLwQwdK13ylBplT4cy7bPexHuljF">Minutes Approved 9-18-18</a><br>
                 <a href = "https://drive.google.com/open?id=1zrHGubQuDzf-nHKxwEwlpDhIMDUfhdJC">Minutes (Draft) 11-27-18</a><br>
                 <a href = "https://drive.google.com/open?id=1whRonprgJEEOIYqmf_09zbsb0ni4fEoX">Minutes Approved 11-27-18</a><br>
                 <br>   
