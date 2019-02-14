@@ -52,8 +52,8 @@
 				
             <p>&nbsp;</p>
             <h3>Agenda</h3><br>
-              <a href = "https://drive.google.com/open?id=0B9jFGSe1Qy6_cEhmd0IwaF9hdTFJeElmQnZWWEZvLTFYa1NV">Community Council Agenda 9-18-18</a>
-              <a href = "https://drive.google.com/open?id=11HWTXMkEk5LaUaMapgynL9KpNvFPnx5O">Community Council Agenda 11-27-18</a>
+              <a href = "https://drive.google.com/open?id=0B9jFGSe1Qy6_cEhmd0IwaF9hdTFJeElmQnZWWEZvLTFYa1NV">Community Council Agenda 9-18-18</a><br>
+              <a href = "https://drive.google.com/open?id=11HWTXMkEk5LaUaMapgynL9KpNvFPnx5O">Community Council Agenda 11-27-18</a><br>
   
                 <br>
                 <h3>Minutes</h3>
