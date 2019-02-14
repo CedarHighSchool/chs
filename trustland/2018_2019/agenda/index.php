@@ -62,7 +62,7 @@
                 <a href = "https://drive.google.com/open?id=1zrHGubQuDzf-nHKxwEwlpDhIMDUfhdJC">Minutes (Draft) 11-27-18</a><br>
                 <a href = "https://drive.google.com/open?id=1whRonprgJEEOIYqmf_09zbsb0ni4fEoX">Minutes Approved 11-27-18</a><br>
                 <br>   
-
+								<!-- BLOOD FOR THE BLOOD GOD, SKULLS FOR THE SKULL THRONE -->
                 
 
   <p>&nbsp;</p>
