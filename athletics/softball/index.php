@@ -109,7 +109,7 @@
 
 							<li class="active"><a href="./">Home</a></li>
 
-							<li><a href="Softball 2018.pdf">Schedule</a></li>
+							<li><a href="https://drive.google.com/open?id=17aIZgxJvYBh3uqR5QWQpcLH7zZmGNLj6">Schedule</a></li>
 
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1ZRvo-CUC0A09ZI_1qrAqQB4S_WTsKxa8eG39Yasoo2A/edit">Varsity/JV Roster</a></li>
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1PG-yXFqzgmsp177OQW2zClRA7_DTs99dZ5cMvJwv0E8/edit">Sophomore/Freshman Roster</a></li>
