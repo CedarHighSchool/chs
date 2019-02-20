@@ -5,9 +5,7 @@
 	<head>
 		<title>Cedar High School
 		</title>
-		<?php include "../assets/inc/headtag.php";
-		$manage->require_login();
-		?>
+		<?php include "../assets/inc/headtag.php"; ?>
 			<style type="text/css">
 				a.thumbnail {
 					height: 250px;
