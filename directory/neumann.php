@@ -69,12 +69,19 @@
 			      		<h3>About</h3>
 
 			      		<p>
-			      			Sign up for ACT prep during XLT in Fall, Winter, and Spring.			      		</p>
+			      			ACT prep is a 6 week class offered each quarter to help prepare and inform students about the ACT test.<br>
+			      			We'll go over tips and pacing strategies, do drills on Schools.shmoop.com and take practice tests. <br>Students can sign up to be tagged during XLT time (3rd period).<br>
+			      			Also, students should plan on meeting to take practice tests either Monday after school OR Wednesday mornings.			      		</p>
 
 		    	  </div>
+		    	  
+		    	  
 
-				</div>
-
+				</div><div class="span5">
+<div class="well">
+		    	  	<h3>Calendar</h3>
+		    	  	<iframe src="https://calendar.google.com/calendar/embed?src=kaer.neumann%40ironmail.org&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+		    	  </div></div>
 		           			
 <!-- lol -->
 				<div class="span3">
