@@ -111,7 +111,7 @@
 
 							<li class="active"><a href="./">Home</a></li>
 
-							<li><a href="https://drive.google.com/open?id=1AOfBqOwB0sm6huT6XuRGoAaiHB4GsaRJ">Schedule</a></li>
+							<li><a href="https://drive.google.com/open?id=0B9jFGSe1Qy6_MWxZNE1XZW1DUnFjS1JXUzlLUFNkSUZYeU04">Schedule</a></li>
 
 						  <li><a href="https://docs.google.com/a/ironmail.org/document/d/1OWeQMDNrrC_H1TSjK0_kQ8knHnUA24cGfEBf-Dbvqb8/edit">Varsity Roster</a></li>
                           <li><a href="https://docs.google.com/a/ironmail.org/document/d/1U3fpX1P2UaYE30CuX7wO2gKHXMxB0GNqDY8yBzD9Z_Q/edit">JV Roster</a></li>
