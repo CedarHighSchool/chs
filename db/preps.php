@@ -88,7 +88,7 @@
 									?>
 									<li class="span2">
 										<a href="fac.php?id=<?=$person['id']?>" class="thumbnail">
-											<img src="<?=$person['picture']?>" alt="">
+											<img src="<?=($person['picture']=="")?(($person['gender']==0)?"/male_placeholder.jpg":"/female placeholder.jpg"):$person['picture']?>" alt="">
 											<div class="imglabel">
 												<p><?=$person['fname']?> <?=$person['lname']?>
 												<br><?=$person['subject']?>
@@ -119,7 +119,7 @@
 									?>
 									<li class="span2">
 										<a href="fac.php?id=<?=$person['id']?>" class="thumbnail">
-											<img src="<?=$person['picture']?>" alt="">
+											<img src="<?=($person['picture']=="")?(($person['gender']==0)?"/male_placeholder.jpg":"/female placeholder.jpg"):$person['picture']?>" alt="">
 											<div class="imglabel">
 												<p><?=$person['fname']?> <?=$person['lname']?>
 												<br><?=$person['subject']?>
@@ -150,7 +150,7 @@
 									?>
 									<li class="span2">
 										<a href="fac.php?id=<?=$person['id']?>" class="thumbnail">
-											<img src="<?=$person['picture']?>" alt="">
+											<img src="<?=($person['picture']=="")?(($person['gender']==0)?"/male_placeholder.jpg":"/female placeholder.jpg"):$person['picture']?>" alt="">
 											<div class="imglabel">
 												<p><?=$person['fname']?> <?=$person['lname']?>
 												<br><?=$person['subject']?>
@@ -181,7 +181,7 @@
 									?>
 									<li class="span2">
 										<a href="fac.php?id=<?=$person['id']?>" class="thumbnail">
-											<img src="<?=$person['picture']?>" alt="">
+											<img src="<?=($person['picture']=="")?(($person['gender']==0)?"/male_placeholder.jpg":"/female placeholder.jpg"):$person['picture']?>" alt="">
 											<div class="imglabel">
 												<p><?=$person['fname']?> <?=$person['lname']?>
 												<br><?=$person['subject']?>
@@ -212,7 +212,7 @@
 									?>
 									<li class="span2">
 										<a href="fac.php?id=<?=$person['id']?>" class="thumbnail">
-											<img src="<?=$person['picture']?>" alt="">
+											<img src="<?=($person['picture']=="")?(($person['gender']==0)?"/male_placeholder.jpg":"/female placeholder.jpg"):$person['picture']?>" alt="">
 											<div class="imglabel">
 												<p><?=$person['fname']?> <?=$person['lname']?>
 												<br><?=$person['subject']?>
@@ -243,7 +243,7 @@
 									?>
 									<li class="span2">
 										<a href="fac.php?id=<?=$person['id']?>" class="thumbnail">
-											<img src="<?=$person['picture']?>" alt="">
+											<img src="<?=($person['picture']=="")?(($person['gender']==0)?"/male_placeholder.jpg":"/female placeholder.jpg"):$person['picture']?>" alt="">
 											<div class="imglabel">
 												<p><?=$person['fname']?> <?=$person['lname']?>
 												<br><?=$person['subject']?>
@@ -274,7 +274,7 @@
 									?>
 									<li class="span2">
 										<a href="fac.php?id=<?=$person['id']?>" class="thumbnail">
-											<img src="<?=$person['picture']?>" alt="">
+											<img src="<?=($person['picture']=="")?(($person['gender']==0)?"/male_placeholder.jpg":"/female placeholder.jpg"):$person['picture']?>" alt="">
 											<div class="imglabel">
 												<p><?=$person['fname']?> <?=$person['lname']?>
 												<br><?=$person['subject']?>
@@ -305,7 +305,7 @@
 									?>
 									<li class="span2">
 										<a href="fac.php?id=<?=$person['id']?>" class="thumbnail">
-											<img src="<?=$person['picture']?>" alt="">
+											<img src="<?=($person['picture']=="")?(($person['gender']==0)?"/male_placeholder.jpg":"/female placeholder.jpg"):$person['picture']?>" alt="">
 											<div class="imglabel">
 												<p><?=$person['fname']?> <?=$person['lname']?>
 												<br><?=$person['subject']?>
