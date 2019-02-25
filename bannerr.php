@@ -51,14 +51,16 @@
 	    			<div id="myCarousel" class="carousel slide">
 
 							<div class="carousel-inner">
-								<?php
+								<?php // copy and past over the index page carousel and change xmasday va
 								$num = 1;
 								$base = "assets/img/Banner/";
-								while(file_exists($base.$num.".jpg") || file_exists($base.$num.".gif")){
+								while(file_exists($base.$num.".jpg") || file_exists($base.$num.".gif") || file_exists($base.$num.".png")){
 									if(file_exists($base.$num.".jpg")){
 										$me = $base.$num.".jpg";
 									}else if(file_exists($base.$num.".gif")){
 										$me = $base.$num.".gif";
+									}else if(file_exists($base.$num.".png")){
+										$me = $base.$num.".png";
 									}
 									if($num == 2) {
 										?>
@@ -85,7 +87,7 @@
 	    			</div><!--/slideshow -->
 
 						<script>
-						var xmasDay = '2017-12-25T00:00:00';
+						var xmasDay = '2018-12-25T00:00:00';
 						
 						activate();
 						
@@ -93,7 +95,7 @@
 						
 						function activate(){
 						  initializeClock('counter', xmasDay);
-						  // getTimeRemaining(xmasDay);
+						  getTimeRemaining(xmasDay);
 						}
 						
 						function getTimeRemaining(endtime){
@@ -131,7 +133,7 @@
 						                      t.hours + ' hours'+ ' ' +
 						                      t.minutes + ' minutes' + ' ' +
 						                      t.seconds + ' seconds';
-                ctx.clearRect(0, 0, c.width, c.height);
+                //ctx.clearRect(0, 0, c.width, c.height);
                 ctx.drawImage(img_el,0,-70, c.width, c.height+200);
                 x = c.width/2;
                 if(t.days > 0 || t.hours > 0 || t.minutes > 0 || t.seconds > 0){

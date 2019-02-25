@@ -46,7 +46,7 @@
 
 					<div class="thumbnail">		
 
-					      <img src="" alt="">					</div>
+					      <img src="female_placeholder.jpg" alt="">					</div>
 
 			  </div><br />
 

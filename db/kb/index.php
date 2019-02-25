@@ -83,7 +83,7 @@ if(!isset($_SESSION['username'])){
 						$res = $mysqli->query("SELECT * FROM `knowledge`");
 						while($t = $res->fetch_array()) {
 						?>
-					  <li><a href="view.php?id=<?=$t['id']?>"><?=$t['title']?></a></li>
+					  <li><a href="/db/kb/view.php?id=<?=$t['id']?>"><?=$t['title']?></a></li>
 					  <?php
 					  }
 					  ?>

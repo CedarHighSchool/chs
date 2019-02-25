@@ -192,8 +192,8 @@
                             <div class="well">
                             <h5> Past Accomplishments</h5>
                             <ul class="nav nav-list">
-                           <li><a href="2016-2017.php">2016 - 2017</a></li>
-                           <li><a href="2015-2016.php">2015 - 2016</a></li>        
+                            <li><a href="2016-2017.php">2016 - 2017</a></li>
+                            <li><a href="2015-2016.php">2015 - 2016</a></li>        
                             <li><a href="2014-2015.php">2014 - 2015</a></li>
                             <li><a href="2013-2014.php">2013 - 2014</a></li>
                             <li><a href="2012-2013.php">2012 - 2013</a></li>
