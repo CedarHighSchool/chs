@@ -126,7 +126,7 @@
 
                     <div class="well">
 
-						<h5>Coaches</h5>
+						<h5>Coach</h5>
 
 						<ul class="nav nav-list">
                         <li>Eric Fieldsted</li>
