@@ -238,10 +238,10 @@
                                                 </dl>
                     
                                                 <dl>
-                                                    <dt>ERA Realty - Jennifer Davis</dt>
+                                                    <dt>ERA Realty - Heather Roundy</dt>
                                                     <dd>
                                                         <ul>
-                                                            <li><a href="http://www.buyincedar.com/" target="_blank">http://www.buyincedar.com/</a>
+                                                            <li><a href="https://www.utahrealestate.com/roster/agent.listings.report.public/agentid/86500" target="_blank">https://www.utahrealestate.com/roster/agent.listings.report.public/agentid/86500</a>
                                                         </ul>
                                                     </dd>
                                                 </dl>
