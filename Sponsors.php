@@ -120,6 +120,15 @@
                                                     </ul>
                                                 </dd>
                                             </dl>
+                                            
+                                            <dl>
+                                                <dt>Anderton Orthodontics</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.andertonorthodontics.com/" target="_blank">http://www.andertonorthodontics.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                            </dl>
 
                                         </div>
                                         <!--well-->
@@ -171,6 +180,16 @@
                                                     </ul>
                                                 </dd>
                                             </dl>
+                                            
+                                            <dl>
+                                                <dt>Landon Anglin Realtor INC.</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.remax.com/realestateagentoffice/cedarcity-ut-84720-landonanglin-id26536403.html" target="_blank">https://www.remax.com/realestateagentoffice/cedarcity-ut-84720-landonanglin-id26536403.html</a></li>
+                                                    </ul>
+                                                </dd>
+                                            </dl>
+                                            
 
                                         </div>
                                         <!--well-->
@@ -248,6 +267,30 @@
                                                     <dd>
                                                         <ul>
                                                             <li><a href="http://www.sumortuary.com/" target="_blank">http://www.sumortuary.com/</a>
+                                                        </ul>
+                                                    </dd>
+                                                </dl>
+                                                
+                                                 <dt>Retro Fitness</dt>
+                                                    <dd>
+                                                        <ul>
+                                                            <li><a href="https://retrofitness.com/location/cedarcityut/" target="_blank">https://retrofitness.com/location/cedarcityut/</a>
+                                                        </ul>
+                                                    </dd>
+                                                </dl>
+                                                
+                                                <dt>Intermountain Health Care</dt>
+                                                    <dd>
+                                                        <ul>
+                                                            <li><a href="https://intermountainhealthcare.org/locations/cedar-city-hospital/" target="_blank">https://intermountainhealthcare.org/locations/cedar-city-hospital/</a>
+                                                        </ul>
+                                                    </dd>
+                                                </dl>
+                                                
+                                                 <dt>Mark Stauffer MD, Spine Care</dt>
+                                                    <dd>
+                                                        <ul>
+                                                            <li><a href="https://intermountainhealthcare.org/locations/cedar-city-hospital/" target="_blank">https://intermountainhealthcare.org/locations/cedar-city-hospital/</a>
                                                         </ul>
                                                     </dd>
                                                 </dl>
