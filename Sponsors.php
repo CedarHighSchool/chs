@@ -290,7 +290,7 @@
                                                  <dt>Mark Stauffer MD, Spine Care</dt>
                                                     <dd>
                                                         <ul>
-                                                            <li><a href="https://intermountainhealthcare.org/locations/cedar-city-hospital/" target="_blank">https://intermountainhealthcare.org/locations/cedar-city-hospital/</a>
+                                                            <li><a href="https://intermountainhealthcare.org/find-a-doctor/s/stouffer-mark-h/" target="_blank">https://intermountainhealthcare.org/find-a-doctor/s/stouffer-mark-h/</a>
                                                         </ul>
                                                     </dd>
                                                 </dl>
@@ -471,6 +471,114 @@
                                                 <dd>
                                                     <ul>
                                                         <li><a href="https://www.cedardrug.com/" target="_blank">https://www.cedardrug.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        <!-- new stuff -->
+                                        <dl>
+                                             <dt>Watson Engineering</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.wecinc.com/" target="_blank">http://www.wecinc.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Gleave Construction*</dt>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Mountain View Animal Clinic</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.mymountainviewvet.com/" target="_blank">http://www.mymountainviewvet.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Ally 1 Disaster Solutions</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://ally1disastersolutions.com/" target="_blank">https://ally1disastersolutions.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Brad's Food Hut</dt>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Gilbert Development</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.gilbertdevelopment.com/" target="_blank">http://www.gilbertdevelopment.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Imaging Concepts</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.imagingutah.com/" target="_blank">http://www.imagingutah.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        
+                                        <dl>
+                                             <dt>On Stage</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.onstagedancestudio.com/" target="_blank">http://www.onstagedancestudio.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Desert Pain Specialists</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="http://www.desertpainspecialists.com/?gclid=CjwKCAiA2fjjBRAjEiwAuewS_UWh_5r8DL5SmrWymfZwM8E0pnwN-lxHHLVCF0jLGYTXcOwMuO-8wxoC-h0QAvD_BwE" target="_blank">http://www.desertpainspecialists.com/?gclid=CjwKCAiA2fjjBRAjEiwAuewS_UWh_5r8DL5SmrWymfZwM8E0pnwN-lxHHLVCF0jLGYTXcOwMuO-8wxoC-h0QAvD_BwE</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Oral & Facial Surgery Institute</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.utahoms.com/" target="_blank">https://www.utahoms.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Ken Garff St. George Ford</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://www.stgeorgeford.com/" target="_blank">https://www.stgeorgeford.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Abby Inn</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://abbeyinncedar.com/" target="_blank">https://abbeyinncedar.com/</a></li>
+                                                    </ul>
+                                                </dd>
+                                        </dl>
+                                        
+                                        <dl>
+                                             <dt>Mountain lighting & Design Center</dt>
+                                                <dd>
+                                                    <ul>
+                                                        <li><a href="https://mountainlighting.com/" target="_blank">https://mountainlighting.com/</a></li>
                                                     </ul>
                                                 </dd>
                                         </dl>
